@@ -1,0 +1,295 @@
+<?php
+include_once("./commonlib.php");
+include_once("./simple_html_dom.php");//
+if (empty($_POST["MyKeyword"])==1 || empty($_POST["MyStart"])==1|| empty($_POST["MyEnd"])==1){//CCC:不要用is_null來判斷post變數內容，用empty比較有效
+	echo '尚未指定關鍵字，關鍵字格式:key1';
+}else{
+	$MyStart=$_POST["MyStart"];
+	$MyEnd=$_POST["MyEnd"];
+	$MyKeyword=$_POST["MyKeyword"];
+	// disable php time limit
+	ignore_user_abort(true);
+	set_time_limit(0);
+	
+	if (function_exists('pcntl_fork')) {
+		$pid = pcntl_fork();
+		if ($pid === -1) {
+			die('fork fail.');
+			$myfile = fopen("./CCCError.txt", "a") or die("Unable to open file!");
+			fwrite($myfile, sprintf("%s => work fail: \n", date('H:i:s')));
+			fwrite($myfile, "work fail \n");
+			fclose($myfile);
+			echo 'pcntl_fork error!抓取工作未執行';
+			
+		} else if ($pid) {
+			//CCC:父thread，用來回應現況
+			$is_true=FALSE;
+			$myfile = fopen("./CCCError.txt", "a") or die("Unable to open file!");
+			for ($sec1 = 0; $sec1 < 60; ++$sec1) {
+				fwrite($myfile, sprintf("%s => main thread waiting: \n", date("Y-m-d H:i:s",time())  ));
+				sleep(1);
+				$conn = getConnection("news_db");
+				$sql="select status from crawler_task where id='1'";
+				$result = mysql_query($sql,$conn) or die('MySQL query error '.mysql_error().' '.$sql);
+				$row = mysql_fetch_array($result);
+				mysql_free_result($result);
+				if($row[0]=='running'){
+					$is_true=TRUE;
+					fwrite($myfile,'工作狀態已從stop 轉為 running\n');
+					fclose($myfile);
+					echo '工作開始時間:'.$MyStart.',工作結束時間:'.$MyEnd .',關鍵字:'.$MyKeyword.',已正常運作';
+					break;
+				}
+			}
+			if($is_true== FALSE){
+				echo 'frmo main thread:job may be error!工作狀態未從stop轉running';
+				fclose($myfile);
+			}
+			// main thread,nothing to do
+		} else {
+			// fork thread
+			job(360,$MyKeyword,$MyStart ,$MyEnd);
+		}
+	} else {
+		echo 'server不支援pcntl_fork ，請調整server設定';
+	}
+}
+ /*
+function job($jumperTime,$MyKeyword) {
+	$encoded_keyword=urlencode($MyKeyword);
+	
+    $startTime = time();//時間點1
+    $handle = fopen('./CCCnewfile1.txt', 'a');
+    while ((time() - $startTime) < $jumperTime) {//如果現在時間與時間點1的差距超過 $jumperTime秒
+	//CCC:這邊要特別留意記憶體是否過度肥大，變數都要記得銷毀
+        fwrite($handle, sprintf("%s => ComeComeBrother: %s\n", date('H:i:s'), $MyKeyword));
+		echo date('H:i:s') . ' => Start!! ';
+        sleep(1);
+		echo 'haha this is:%s',date('H:i:s');
+    }
+    fclose($handle);
+}
+*/
+/*
+//CCC:要對不同新聞來源抓取真實文章，這要大量的work!!!!
+function grab_content_of_oneurl($handle,$news_url){
+	$curl_001=curl_init();
+	curl_setopt($curl_001,CURLOPT_URL,$news_url);
+	curl_setopt($curl_001,CURLOPT_RETURNTRANSFER,1);//CCC:不要印出東西
+$pos3=-1;
+$pos4=-1;;
+$data3='';
+
+	$data_001=curl_exec($curl_001);
+	curl_close($curl_001);
+	if(substr($news_url, 0, 25) == "http://www.chinatimes.com") {//url 以 http://www.chinatimes.com 開頭，套用中時電子報
+			//CCC:移除javascript code
+			while(($pos3 = stripos($data_001,"<script"))!==false){
+				$end_pos = stripos($data_001,"</script>");
+				$start = substr($data_001, 0, $pos3);
+				$end = substr($data_001, $end_pos+strlen("</script>"));
+				$data_001 = $start.$end;
+			}
+			//stripos($data_001,"<script")
+				
+		//$pos3 = strpos($data_001, '<article class="clear-fix"><p>');
+        //$pos4 =strpos($data_001, '<a id="penbi">');
+		//$data3= substr($data_001,$pos3,$pos4-$pos3) ;
+		 
+		$html003 = str_get_html($data_001);
+		//<article class="clear-fix">
+		
+		$ret = $html003->find('article[class=clear-fix] p');
+		foreach($ret  as $a_element){
+			fwrite($handle,'中時html_article:'.(string)$a_element.'\n');
+		}
+		//strip_tags($html003);
+		
+		//fwrite($handle,'中時true_article:'.strip_tags($data3).'\n');
+		$html003->clear(); 
+	}else if(substr($news_url, 0, 15) == "http://udn.com/") {//url 以 http://udn.com/ 開頭，
+		//CCC:移除javascript code
+		while(($pos3 = stripos($data_001,"<script"))!==false){
+			$end_pos = stripos($data_001,"</script>");
+			$start = substr($data_001, 0, $pos3);
+			$end = substr($data_001, $end_pos+strlen("</script>"));
+			$data_001 = $start.$end;
+		}
+		//stripos($data_001,"<script")
+
+		$html003 = str_get_html($data_001);
+		
+		
+		$ret = $html003->find('div[id=story_body_content] p');
+		foreach($ret  as $a_element){
+			fwrite($handle,'UDN true_article:'.(string)$a_element.'\n');
+		}
+		//fwrite($handle,'UUUDDDNNN orig_article:'.$data_001.'\n');
+		$html003->clear(); 
+	}
+	
+	
+	unset($data3);
+	unset($pos3);
+	unset($pos4);
+	unset($curl_001, $data_001);//CCC:清除curl留下的的記憶體資料
+}
+*/
+function DB_stop_task($handle){
+	$conn = getConnection("news_db");
+
+	$sql = "UPDATE crawler_task SET  status='stop' WHERE id='1'";
+	if (mysql_query($sql,$conn)) {
+		 
+	} else {
+		 fwrite($handle, 'DB_stop_task SQL ERROR! \n');
+		fclose($handle);
+		exit(0);
+	}
+}
+function DB_start_task($MyKeyword,$handle){
+	$conn = getConnection("news_db");
+	$sql = "UPDATE crawler_task SET  `keyword`='".$MyKeyword."',`status`='running',`task_start_time` ='". date("Y-m-d 00:00:00",time())."' WHERE id='1'";
+	// mysql_query($sql, $conn) or die('MySQL query error '.mysql_error().' '.$sql);
+	if (mysql_query( $sql,$conn)) {
+		//CCC:no error
+	} else {
+		fwrite($handle, 'DB_start_task SQL ERROR! \n');
+		fclose($handle);
+		exit(0);
+	}
+}
+function job($jumperTime,$MyKeyword,$MyStart ,$MyEnd) {
+	$handle = fopen('./CCCnewfile1.txt', 'a');
+	//$cookie_file=tempnam('./tmep_cookie','cookie');
+	DB_start_task($MyKeyword,$handle);
+	$encoded_keyword=urlencode($MyKeyword);
+	$num_of_article=0;
+    
+    while (true) {//設定停止條件
+	//CCC:這邊要特別留意記憶體是否過度肥大，變數都要記得銷毀
+		try{
+			$conn = getConnection("news_db");
+			$sql="select status from crawler_task where id='1'";
+			$result = mysql_query($sql,$conn) or die('MySQL query error '.mysql_error().' '.$sql);
+			$row = mysql_fetch_array($result);
+			mysql_free_result($result);
+			if($row[0]=='stop'){
+				fwrite($handle,'已經抓取'.$num_of_article.'筆資料，結束工作\n');
+				break;
+			}
+			
+			fwrite($handle, sprintf("logtime: %s =>  %s\n", date('Y-m-d  H:i:s'), $MyKeyword));
+
+			
+            $temp_search_url='https://www.google.com.tw/search?q='.$encoded_keyword.'&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:'.$MyStart.',cd_max:'.$MyEnd.'&tbm=nws&start='.$num_of_article.'&sa=N&dpr=1.5';
+			fwrite($handle, sprintf("temp_url:   %s\n",   $temp_search_url));
+			sleep(30);
+			//echo 'haha this is:%s',date('H:i:s');
+			
+			//echo 'now:'.'https://www.google.com.tw/search?q='.$encoded_keyword.'&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2014/1/1,cd_max:2015/1/1&tbm=nws&ei=6kOiVcH6IpSjugSshY6oDw&start=10&sa=N&dpr=1.5';
+			$curl=curl_init();
+			curl_setopt($curl,CURLOPT_URL,$temp_search_url);
+			curl_setopt($curl,CURLOPT_RETURNTRANSFER,1);//CCC:不要印出東西
+/*
+			$headers = array();
+
+			 
+			$headers[] = 'Accept-Encoding: gzip, deflate, sdch';
+			$headers[] = 'Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4';
+			$headers[] = 'Cache-Control: max-age=0';
+			$headers[] = 'upgrade-insecure-requests: 1';
+			$headers[] = 'User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36';
+			$headers[] = 'x-client-data: CKO2yQEIqbbJAQjBtskBCP2VygE=';
+*/
+			//CCC:要注意的地方是cookie file chmod 777
+			curl_setopt($curl, CURLOPT_COOKIEJAR, "/var/www/html/dashboard/cookie.txt");
+			curl_setopt($curl, CURLOPT_COOKIEFILE, "/var/www/html/dashboard/cookie1.txt");
+			//curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
+			//curl_setopt($curl,CURLOPT_FOLLOWLOCATION,true);
+			
+			
+			$data=curl_exec($curl);
+			curl_close($curl);
+			fwrite($handle, sprintf("temp_data:   %s\n",   $data));
+			$pos0 = strpos($data, '<tbody data-jibp="h" data-jiis="uc" id="desktop-search">');
+
+			$pos = strpos($data, 'id="rhs_block"');
+
+			//$html_obj = str_get_html( $data  );
+			var_dump($pos);
+			
+			$data1=iconv('Big5','UTF-8',  substr($data,$pos0,$pos+46));
+			//CCC:create  html dom from a string
+			$html001 = str_get_html($data1);
+			//ul 子元素 ,指定class=selected的li 
+			//$ret = $html001->find('tbody[id=ires] > a'); //CCC:我是想取得id為ires 的tbody tag的所有a元素
+			//$ret = $html001->find('td[valign=top] a'); //style="width:516px">
+			$ret = $html001->find('td[style=width:516px] a');
+			$conn001 = getConnection("news_db");
+			foreach($ret  as $a_element){
+				//echo $a_element->href ; //網址及結連名稱
+				fwrite($handle, "my link:");
+				fwrite($handle,$a_element->href);
+				if(substr( $a_element->href, 0, 7 ) === "/url?q="){
+					$pos1 = strpos($a_element->href, '&amp;');
+					
+					fwrite($handle, "\n");
+					fwrite($handle, "the real string:".substr( $a_element->href, 7, $pos1-7 )."\n");
+					
+					 
+					$sql="INSERT INTO newsarticles (url, search_keyword, title,src,ndate) VALUES ('".substr( $a_element->href, 7, $pos1-7 )."','".$MyKeyword."',' ', ' ', '".date("Y-m-d H:i:s",time())."')";
+					//grab_content_of_oneurl($handle,substr( $a_element->href, 7, $pos1-7 ));
+			        mysql_query($sql,$conn001) or die('MySQL query error '.mysql_error().' '.$sql);
+					
+				}
+				fwrite($handle, "\n");
+				fwrite($handle, "\n");
+			}
+ 
+	//CCC:回收simple_html_dom造成的memory leak
+			$html001->clear(); 
+			unset($ret);
+			
+			unset($data1);
+			unset($html001);
+			unset($curl, $data);//CCC:清除curl留下的的記憶體資料
+
+			//http://ithelp.ithome.com.tw/question/10095237   selector用法
+			//取得其 class 屬性值為class1 的 input元素 
+			//$("input[class='class1']"); //jQuery
+			fwrite($handle, "\n");
+			fwrite($handle,'memory usage:'.memory_get_usage().'\n');
+			fwrite($handle, "\n");
+
+			$num_of_article=$num_of_article+10;
+		}catch(Exception $e){
+			fwrite($handle,'已經抓取'.num_of_article.'筆資料，結束工作\n');
+			fwrite($handle,'exception:'.$e.' \n');
+			break;
+		}
+    }
+	//CCC:下兩行是因為長時間執行工作後留下一堆垃圾，要清除
+	flush();
+	ob_flush();
+	
+	DB_stop_task($handle);
+    fclose($handle);
+			//$ret_str= serialize($ret);//CCC:把變數轉為字串,不好用
+
+}
+/*
+curl 記憶體清理法重要
+	for ($x = 0; $x < 100000; ++$x) {
+		$handler = curl_init();
+		curl_setopt($handler, CURLOPT_URL, 'http://www.php.net/manual/en/pcre.pattern.syntax.php');
+		curl_setopt($handler, CURLOPT_RETURNTRANSFER, 1);
+		$data = curl_exec($handler);
+		curl_close($handler);
+		unset($handler, $data);
+	}
+*/
+?>
+ 
+
+

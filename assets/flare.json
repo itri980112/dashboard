@@ -1,0 +1,169 @@
+{
+    "name": "母嬰領域Ontology",
+    "children": [
+        {
+            "name": "嬰兒年齡",
+            "children": [
+                {
+                    "name": "-6月",
+                    "children": [
+                        {
+                            "name": "醫",
+                            "children": [
+                                {
+                                    "name": "產檢",
+                                    "size": 3938
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "品牌",
+            "children": [
+                {
+                    "name": "Carter"
+                },
+                {
+                    "name": "GAP"
+                },
+                {
+                    "name": "OshKosh"
+                },
+                {
+                    "name": "Janie and Jack"
+                },
+                {
+                    "name": "Ava & Aiden"
+                },
+                {
+                    "name": "Crazy 8"
+                },
+                {
+                    "name": "Beabay"
+                },
+                {
+                    "name": "Nautica"
+                },
+                {
+                    "name": "Marc Jacobs MJ"
+                },
+                {
+                    "name": "Place"
+                },
+                {
+                    "name": "Calvin Klein"
+                },
+                {
+                    "name": "DC"
+                },
+                {
+                    "name": "Tory Burch"
+                },
+                {
+                    "name": "Bon bebe"
+                },
+                {
+                    "name": "RuffleButts"
+                },
+                {
+                    "name": "Herschel"
+                },
+                {
+                    "name": "Tutu"
+                },
+                {
+                    "name": "Juicy Couture"
+                },
+                {
+                    "name": "Pixie Grey"
+                },
+                {
+                    "name": "KH"
+                },
+                {
+                    "name": "Gymboree"
+                },
+                {
+                    "name": "Adidas"
+                },
+                {
+                    "name": "Richie House"
+                },
+                {
+                    "name": "Happy socks"
+                },
+                {
+                    "name": "Trumpette"
+                },
+                {
+                    "name": "Hello Kitty"
+                },
+                {
+                    "name": "Disney"
+                },
+                {
+                    "name": "Ralph Lauren"
+                },
+                {
+                    "name": "GYMBOREE"
+                }
+            ]
+        },
+        {
+            "name": "產品類型",
+            "children": [
+                {
+                    "name": "上衣"
+                },
+                {
+                    "name": "圍兜"
+                },
+                {
+                    "name": "外套"
+                },
+                {
+                    "name": "帽"
+                },
+                {
+                    "name": "手套"
+                },
+                {
+                    "name": "書包"
+                },
+                {
+                    "name": "洋裝"
+                },
+                {
+                    "name": "耳環"
+                },
+                {
+                    "name": "背包"
+                },
+                {
+                    "name": "裙"
+                },
+                {
+                    "name": "褲"
+                },
+                {
+                    "name": "襪子"
+                },
+                {
+                    "name": "連身衣"
+                },
+                {
+                    "name": "鑰匙圈"
+                },
+                {
+                    "name": "鞋"
+                },
+                {
+                    "name": "髮飾"
+                }
+            ]
+        }
+    ]
+}

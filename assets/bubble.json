@@ -1,0 +1,3385 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "cluster306",
+            "children": [
+                {
+                    "bid": 1,
+                    "name": "Carter",
+                    "size": 778
+                }
+            ]
+        },
+        {
+            "name": "cluster371",
+            "children": [
+                {
+                    "bid": 2,
+                    "name": "GAP",
+                    "size": 308
+                }
+            ]
+        },
+        {
+            "name": "cluster340",
+            "children": [
+                {
+                    "bid": 3,
+                    "name": "OshKosh",
+                    "size": 244
+                }
+            ]
+        },
+        {
+            "name": "cluster20",
+            "children": [
+                {
+                    "bid": 4,
+                    "name": "Janie and Jack",
+                    "size": 13
+                }
+            ]
+        },
+        {
+            "name": "cluster26",
+            "children": [
+                {
+                    "bid": 5,
+                    "name": "Ava & Aiden",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "cluster13",
+            "children": [
+                {
+                    "bid": 6,
+                    "name": "Crazy 8",
+                    "size": 30
+                }
+            ]
+        },
+        {
+            "name": "cluster319",
+            "children": [
+                {
+                    "bid": 7,
+                    "name": "Beabay",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster21",
+            "children": [
+                {
+                    "bid": 8,
+                    "name": "Nautica",
+                    "size": 219
+                }
+            ]
+        },
+        {
+            "name": "cluster208",
+            "children": [
+                {
+                    "bid": 9,
+                    "name": "Marc Jacobs MJ",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster187",
+            "children": [
+                {
+                    "bid": 10,
+                    "name": "Place",
+                    "size": 299
+                }
+            ]
+        },
+        {
+            "name": "cluster213",
+            "children": [
+                {
+                    "bid": 11,
+                    "name": "Calvin Klein",
+                    "size": 333
+                }
+            ]
+        },
+        {
+            "name": "cluster390",
+            "children": [
+                {
+                    "bid": 12,
+                    "name": "DC",
+                    "size": 1278
+                }
+            ]
+        },
+        {
+            "name": "cluster276",
+            "children": [
+                {
+                    "bid": 13,
+                    "name": "Tory Burch",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster460",
+            "children": [
+                {
+                    "bid": 14,
+                    "name": "Bon bebe",
+                    "size": 9
+                }
+            ]
+        },
+        {
+            "name": "cluster351",
+            "children": [
+                {
+                    "bid": 15,
+                    "name": "RuffleButts",
+                    "size": 226
+                }
+            ]
+        },
+        {
+            "name": "cluster380",
+            "children": [
+                {
+                    "bid": 16,
+                    "name": "Herschel",
+                    "size": 21
+                }
+            ]
+        },
+        {
+            "name": "cluster143",
+            "children": [
+                {
+                    "bid": 17,
+                    "name": "Tutu",
+                    "size": 31
+                }
+            ]
+        },
+        {
+            "name": "cluster75",
+            "children": [
+                {
+                    "bid": 18,
+                    "name": "Juicy Couture",
+                    "size": 16
+                }
+            ]
+        },
+        {
+            "name": "cluster378",
+            "children": [
+                {
+                    "bid": 19,
+                    "name": "Pixie Grey",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "cluster406",
+            "children": [
+                {
+                    "bid": 20,
+                    "name": "KH",
+                    "size": 273
+                }
+            ]
+        },
+        {
+            "name": "cluster191",
+            "children": [
+                {
+                    "bid": 21,
+                    "name": "Gymboree",
+                    "size": 239
+                }
+            ]
+        },
+        {
+            "name": "cluster468",
+            "children": [
+                {
+                    "bid": 22,
+                    "name": "Adidas",
+                    "size": 2692
+                }
+            ]
+        },
+        {
+            "name": "cluster250",
+            "children": [
+                {
+                    "bid": 23,
+                    "name": "Richie House",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "name": "cluster370",
+            "children": [
+                {
+                    "bid": 24,
+                    "name": "Happy socks",
+                    "size": 37
+                }
+            ]
+        },
+        {
+            "name": "cluster374",
+            "children": [
+                {
+                    "bid": 25,
+                    "name": "Trumpette",
+                    "size": 44
+                }
+            ]
+        },
+        {
+            "name": "cluster152",
+            "children": [
+                {
+                    "bid": 26,
+                    "name": "Hello Kitty",
+                    "size": 16036
+                }
+            ]
+        },
+        {
+            "name": "cluster399",
+            "children": [
+                {
+                    "bid": 27,
+                    "name": "Disney",
+                    "size": 2636
+                }
+            ]
+        },
+        {
+            "name": "cluster306",
+            "children": [
+                {
+                    "bid": 28,
+                    "name": "Ralph Lauren",
+                    "size": 372
+                }
+            ]
+        },
+        {
+            "name": "cluster74",
+            "children": [
+                {
+                    "bid": 30,
+                    "name": "GUCCI",
+                    "size": 264
+                }
+            ]
+        },
+        {
+            "name": "cluster426",
+            "children": [
+                {
+                    "bid": 33,
+                    "name": "SAFEBET",
+                    "size": 938
+                }
+            ]
+        },
+        {
+            "name": "cluster347",
+            "children": [
+                {
+                    "bid": 34,
+                    "name": "信誼",
+                    "size": 163
+                }
+            ]
+        },
+        {
+            "name": "cluster26",
+            "children": [
+                {
+                    "bid": 36,
+                    "name": "Swaroski",
+                    "size": 67
+                }
+            ]
+        },
+        {
+            "name": "cluster483",
+            "children": [
+                {
+                    "bid": 38,
+                    "name": "奇哥",
+                    "size": 2271
+                }
+            ]
+        },
+        {
+            "name": "cluster183",
+            "children": [
+                {
+                    "bid": 41,
+                    "name": "迪士尼",
+                    "size": 8116
+                }
+            ]
+        },
+        {
+            "name": "cluster272",
+            "children": [
+                {
+                    "bid": 43,
+                    "name": "麗嬰房",
+                    "size": 15
+                }
+            ]
+        },
+        {
+            "name": "cluster223",
+            "children": [
+                {
+                    "bid": 47,
+                    "name": "黃色小鴨",
+                    "size": 3494
+                }
+            ]
+        },
+        {
+            "name": "cluster59",
+            "children": [
+                {
+                    "bid": 50,
+                    "name": "aprica",
+                    "size": 1067
+                }
+            ]
+        },
+        {
+            "name": "cluster471",
+            "children": [
+                {
+                    "bid": 51,
+                    "name": "布朗醫生",
+                    "size": 114
+                }
+            ]
+        },
+        {
+            "name": "cluster1",
+            "children": [
+                {
+                    "bid": 52,
+                    "name": "nac",
+                    "size": 1578
+                }
+            ]
+        },
+        {
+            "name": "cluster142",
+            "children": [
+                {
+                    "bid": 53,
+                    "name": "avent",
+                    "size": 786
+                }
+            ]
+        },
+        {
+            "name": "cluster455",
+            "children": [
+                {
+                    "bid": 54,
+                    "name": "nuk",
+                    "size": 761
+                }
+            ]
+        },
+        {
+            "name": "cluster372",
+            "children": [
+                {
+                    "bid": 55,
+                    "name": "Combi",
+                    "size": 1954
+                }
+            ]
+        },
+        {
+            "name": "cluster242",
+            "children": [
+                {
+                    "bid": 56,
+                    "name": "彼得兔",
+                    "size": 792
+                }
+            ]
+        },
+        {
+            "name": "cluster458",
+            "children": [
+                {
+                    "bid": 57,
+                    "name": "藍色企鵝",
+                    "size": 1847
+                }
+            ]
+        },
+        {
+            "name": "cluster303",
+            "children": [
+                {
+                    "bid": 58,
+                    "name": "桑克瑪",
+                    "size": 22
+                }
+            ]
+        },
+        {
+            "name": "cluster259",
+            "children": [
+                {
+                    "bid": 59,
+                    "name": "拉孚兒",
+                    "size": 933
+                }
+            ]
+        },
+        {
+            "name": "cluster279",
+            "children": [
+                {
+                    "bid": 60,
+                    "name": "貝親",
+                    "size": 1362
+                }
+            ]
+        },
+        {
+            "name": "cluster233",
+            "children": [
+                {
+                    "bid": 62,
+                    "name": "啄木鳥",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "name": "cluster250",
+            "children": [
+                {
+                    "bid": 64,
+                    "name": "baby bjorn",
+                    "size": 20
+                }
+            ]
+        },
+        {
+            "name": "cluster433",
+            "children": [
+                {
+                    "bid": 65,
+                    "name": "亞培",
+                    "size": 150
+                }
+            ]
+        },
+        {
+            "name": "cluster273",
+            "children": [
+                {
+                    "bid": 66,
+                    "name": "明治",
+                    "size": 260
+                }
+            ]
+        },
+        {
+            "name": "cluster325",
+            "children": [
+                {
+                    "bid": 67,
+                    "name": "金可貝可",
+                    "size": 9
+                }
+            ]
+        },
+        {
+            "name": "cluster243",
+            "children": [
+                {
+                    "bid": 68,
+                    "name": "優生",
+                    "size": 659
+                }
+            ]
+        },
+        {
+            "name": "cluster116",
+            "children": [
+                {
+                    "bid": 69,
+                    "name": "高島屋",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster100",
+            "children": [
+                {
+                    "bid": 71,
+                    "name": "心美力",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "name": "cluster59",
+            "children": [
+                {
+                    "bid": 72,
+                    "name": "貝恩",
+                    "size": 740
+                }
+            ]
+        },
+        {
+            "name": "cluster63",
+            "children": [
+                {
+                    "bid": 73,
+                    "name": "施巴",
+                    "size": 576
+                }
+            ]
+        },
+        {
+            "name": "cluster193",
+            "children": [
+                {
+                    "bid": 74,
+                    "name": "水寶寶",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster395",
+            "children": [
+                {
+                    "bid": 75,
+                    "name": "美強生",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "name": "cluster268",
+            "children": [
+                {
+                    "bid": 77,
+                    "name": "小淘氣",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "name": "cluster487",
+            "children": [
+                {
+                    "bid": 78,
+                    "name": "噓噓樂",
+                    "size": 14
+                }
+            ]
+        },
+        {
+            "name": "cluster385",
+            "children": [
+                {
+                    "bid": 79,
+                    "name": "小熊維尼",
+                    "size": 563
+                }
+            ]
+        },
+        {
+            "name": "cluster352",
+            "children": [
+                {
+                    "bid": 80,
+                    "name": "好奇",
+                    "size": 89
+                }
+            ]
+        },
+        {
+            "name": "cluster336",
+            "children": [
+                {
+                    "bid": 81,
+                    "name": "貴格",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster308",
+            "children": [
+                {
+                    "bid": 82,
+                    "name": "桂格",
+                    "size": 271
+                }
+            ]
+        },
+        {
+            "name": "cluster467",
+            "children": [
+                {
+                    "bid": 84,
+                    "name": "安琪兒",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "cluster356",
+            "children": [
+                {
+                    "bid": 85,
+                    "name": "zara",
+                    "size": 62
+                }
+            ]
+        },
+        {
+            "name": "cluster393",
+            "children": [
+                {
+                    "bid": 86,
+                    "name": "Cuisinart",
+                    "size": 52
+                }
+            ]
+        },
+        {
+            "name": "cluster302",
+            "children": [
+                {
+                    "bid": 87,
+                    "name": "貴夫人",
+                    "size": 14
+                }
+            ]
+        },
+        {
+            "name": "cluster43",
+            "children": [
+                {
+                    "bid": 88,
+                    "name": "佑爾康",
+                    "size": 41
+                }
+            ]
+        },
+        {
+            "name": "cluster123",
+            "children": [
+                {
+                    "bid": 89,
+                    "name": "妙而舒",
+                    "size": 84
+                }
+            ]
+        },
+        {
+            "name": "cluster300",
+            "children": [
+                {
+                    "bid": 90,
+                    "name": "貝康",
+                    "size": 252
+                }
+            ]
+        },
+        {
+            "name": "cluster85",
+            "children": [
+                {
+                    "bid": 91,
+                    "name": "hipp",
+                    "size": 657
+                }
+            ]
+        },
+        {
+            "name": "cluster438",
+            "children": [
+                {
+                    "bid": 92,
+                    "name": "CHICCO",
+                    "size": 1242
+                }
+            ]
+        },
+        {
+            "name": "cluster121",
+            "children": [
+                {
+                    "bid": 96,
+                    "name": "雪印",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster228",
+            "children": [
+                {
+                    "bid": 97,
+                    "name": "幫寶適",
+                    "size": 95
+                }
+            ]
+        },
+        {
+            "name": "cluster445",
+            "children": [
+                {
+                    "bid": 98,
+                    "name": "大王",
+                    "size": 796
+                }
+            ]
+        },
+        {
+            "name": "cluster300",
+            "children": [
+                {
+                    "bid": 99,
+                    "name": "Mothercare",
+                    "size": 310
+                }
+            ]
+        },
+        {
+            "name": "cluster324",
+            "children": [
+                {
+                    "bid": 100,
+                    "name": "滿意寶寶",
+                    "size": 151
+                }
+            ]
+        },
+        {
+            "name": "cluster233",
+            "children": [
+                {
+                    "bid": 101,
+                    "name": "金好奇",
+                    "size": 32
+                }
+            ]
+        },
+        {
+            "name": "cluster461",
+            "children": [
+                {
+                    "bid": 392,
+                    "name": "康貝",
+                    "size": 1264
+                }
+            ]
+        },
+        {
+            "name": "cluster168",
+            "children": [
+                {
+                    "bid": 394,
+                    "name": "六甲村",
+                    "size": 1956
+                }
+            ]
+        },
+        {
+            "name": "cluster133",
+            "children": [
+                {
+                    "bid": 395,
+                    "name": "Mammy",
+                    "size": 868
+                }
+            ]
+        },
+        {
+            "name": "cluster142",
+            "children": [
+                {
+                    "bid": 396,
+                    "name": "啾啾",
+                    "size": 695
+                }
+            ]
+        },
+        {
+            "name": "cluster228",
+            "children": [
+                {
+                    "bid": 397,
+                    "name": "Chu",
+                    "size": 1512
+                }
+            ]
+        },
+        {
+            "name": "cluster398",
+            "children": [
+                {
+                    "bid": 398,
+                    "name": "慕之恬廊",
+                    "size": 436
+                }
+            ]
+        },
+        {
+            "name": "cluster9",
+            "children": [
+                {
+                    "bid": 399,
+                    "name": "MUSTELA",
+                    "size": 385
+                }
+            ]
+        },
+        {
+            "name": "cluster468",
+            "children": [
+                {
+                    "bid": 400,
+                    "name": "娃娃城",
+                    "size": 91
+                }
+            ]
+        },
+        {
+            "name": "cluster448",
+            "children": [
+                {
+                    "bid": 402,
+                    "name": "Max",
+                    "size": 1698
+                }
+            ]
+        },
+        {
+            "name": "cluster292",
+            "children": [
+                {
+                    "bid": 404,
+                    "name": "愛普力卡",
+                    "size": 626
+                }
+            ]
+        },
+        {
+            "name": "cluster140",
+            "children": [
+                {
+                    "bid": 409,
+                    "name": "樂雅",
+                    "size": 1358
+                }
+            ]
+        },
+        {
+            "name": "cluster326",
+            "children": [
+                {
+                    "bid": 410,
+                    "name": "Toy",
+                    "size": 2146
+                }
+            ]
+        },
+        {
+            "name": "cluster472",
+            "children": [
+                {
+                    "bid": 411,
+                    "name": "飛利浦",
+                    "size": 220
+                }
+            ]
+        },
+        {
+            "name": "cluster271",
+            "children": [
+                {
+                    "bid": 412,
+                    "name": "PHILIPS",
+                    "size": 294
+                }
+            ]
+        },
+        {
+            "name": "cluster255",
+            "children": [
+                {
+                    "bid": 413,
+                    "name": "美樂",
+                    "size": 4545
+                }
+            ]
+        },
+        {
+            "name": "cluster227",
+            "children": [
+                {
+                    "bid": 414,
+                    "name": "Medela",
+                    "size": 94
+                }
+            ]
+        },
+        {
+            "name": "cluster367",
+            "children": [
+                {
+                    "bid": 415,
+                    "name": "和光堂",
+                    "size": 61
+                }
+            ]
+        },
+        {
+            "name": "cluster91",
+            "children": [
+                {
+                    "bid": 416,
+                    "name": "WAKODO",
+                    "size": 31
+                }
+            ]
+        },
+        {
+            "name": "cluster112",
+            "children": [
+                {
+                    "bid": 417,
+                    "name": "喜寶",
+                    "size": 445
+                }
+            ]
+        },
+        {
+            "name": "cluster290",
+            "children": [
+                {
+                    "bid": 420,
+                    "name": "kangovou",
+                    "size": 27
+                }
+            ]
+        },
+        {
+            "name": "cluster442",
+            "children": [
+                {
+                    "bid": 422,
+                    "name": "費雪牌",
+                    "size": 124
+                }
+            ]
+        },
+        {
+            "name": "cluster466",
+            "children": [
+                {
+                    "bid": 423,
+                    "name": "Fisher",
+                    "size": 485
+                }
+            ]
+        },
+        {
+            "name": "cluster458",
+            "children": [
+                {
+                    "bid": 426,
+                    "name": "stample",
+                    "size": 64
+                }
+            ]
+        },
+        {
+            "name": "cluster390",
+            "children": [
+                {
+                    "bid": 427,
+                    "name": "酷咕鴨",
+                    "size": 2076
+                }
+            ]
+        },
+        {
+            "name": "cluster80",
+            "children": [
+                {
+                    "bid": 428,
+                    "name": "KU",
+                    "size": 6675
+                }
+            ]
+        },
+        {
+            "name": "cluster165",
+            "children": [
+                {
+                    "bid": 431,
+                    "name": "AKACHAN",
+                    "size": 917
+                }
+            ]
+        },
+        {
+            "name": "cluster15",
+            "children": [
+                {
+                    "bid": 433,
+                    "name": "拉梅茲",
+                    "size": 190
+                }
+            ]
+        },
+        {
+            "name": "cluster105",
+            "children": [
+                {
+                    "bid": 434,
+                    "name": "Lamaze",
+                    "size": 225
+                }
+            ]
+        },
+        {
+            "name": "cluster97",
+            "children": [
+                {
+                    "bid": 435,
+                    "name": "固力果",
+                    "size": 17
+                }
+            ]
+        },
+        {
+            "name": "cluster416",
+            "children": [
+                {
+                    "bid": 436,
+                    "name": "GLICO",
+                    "size": 8
+                }
+            ]
+        },
+        {
+            "name": "cluster21",
+            "children": [
+                {
+                    "bid": 437,
+                    "name": "培樂多",
+                    "size": 133
+                }
+            ]
+        },
+        {
+            "name": "cluster267",
+            "children": [
+                {
+                    "bid": 438,
+                    "name": "Play",
+                    "size": 1804
+                }
+            ]
+        },
+        {
+            "name": "cluster332",
+            "children": [
+                {
+                    "bid": 439,
+                    "name": "利其爾",
+                    "size": 495
+                }
+            ]
+        },
+        {
+            "name": "cluster482",
+            "children": [
+                {
+                    "bid": 440,
+                    "name": "Richell",
+                    "size": 914
+                }
+            ]
+        },
+        {
+            "name": "cluster75",
+            "children": [
+                {
+                    "bid": 462,
+                    "name": "台塑生醫",
+                    "size": 259
+                }
+            ]
+        },
+        {
+            "name": "cluster365",
+            "children": [
+                {
+                    "bid": 463,
+                    "name": "Dr",
+                    "size": 5049
+                }
+            ]
+        },
+        {
+            "name": "cluster454",
+            "children": [
+                {
+                    "bid": 465,
+                    "name": "CHAN",
+                    "size": 1780
+                }
+            ]
+        },
+        {
+            "name": "cluster469",
+            "children": [
+                {
+                    "bid": 466,
+                    "name": "膳魔師",
+                    "size": 373
+                }
+            ]
+        },
+        {
+            "name": "cluster51",
+            "children": [
+                {
+                    "bid": 467,
+                    "name": "Thermos",
+                    "size": 287
+                }
+            ]
+        },
+        {
+            "name": "cluster30",
+            "children": [
+                {
+                    "bid": 470,
+                    "name": "日本 必貼妥",
+                    "size": 18
+                }
+            ]
+        },
+        {
+            "name": "cluster26",
+            "children": [
+                {
+                    "bid": 471,
+                    "name": "Bitatto",
+                    "size": 32
+                }
+            ]
+        },
+        {
+            "name": "cluster142",
+            "children": [
+                {
+                    "bid": 473,
+                    "name": "Toys",
+                    "size": 1021
+                }
+            ]
+        },
+        {
+            "name": "cluster175",
+            "children": [
+                {
+                    "bid": 476,
+                    "name": "Alzipmat",
+                    "size": 36
+                }
+            ]
+        },
+        {
+            "name": "cluster361",
+            "children": [
+                {
+                    "bid": 477,
+                    "name": "智荷",
+                    "size": 78
+                }
+            ]
+        },
+        {
+            "name": "cluster272",
+            "children": [
+                {
+                    "bid": 478,
+                    "name": "DJECO",
+                    "size": 97
+                }
+            ]
+        },
+        {
+            "name": "cluster400",
+            "children": [
+                {
+                    "bid": 479,
+                    "name": "三月小熊",
+                    "size": 8
+                }
+            ]
+        },
+        {
+            "name": "cluster121",
+            "children": [
+                {
+                    "bid": 480,
+                    "name": "Petit",
+                    "size": 441
+                }
+            ]
+        },
+        {
+            "name": "cluster170",
+            "children": [
+                {
+                    "bid": 482,
+                    "name": "澳洲",
+                    "size": 850
+                }
+            ]
+        },
+        {
+            "name": "cluster201",
+            "children": [
+                {
+                    "bid": 483,
+                    "name": "make",
+                    "size": 264
+                }
+            ]
+        },
+        {
+            "name": "cluster57",
+            "children": [
+                {
+                    "bid": 485,
+                    "name": "Hula",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "cluster346",
+            "children": [
+                {
+                    "bid": 487,
+                    "name": "Pillow",
+                    "size": 46
+                }
+            ]
+        },
+        {
+            "name": "cluster361",
+            "children": [
+                {
+                    "bid": 488,
+                    "name": "繪兒樂",
+                    "size": 24
+                }
+            ]
+        },
+        {
+            "name": "cluster120",
+            "children": [
+                {
+                    "bid": 489,
+                    "name": "Crayola",
+                    "size": 73
+                }
+            ]
+        },
+        {
+            "name": "cluster438",
+            "children": [
+                {
+                    "bid": 495,
+                    "name": "艾比熊",
+                    "size": 90
+                }
+            ]
+        },
+        {
+            "name": "cluster55",
+            "children": [
+                {
+                    "bid": 496,
+                    "name": "Abby",
+                    "size": 94
+                }
+            ]
+        },
+        {
+            "name": "cluster90",
+            "children": [
+                {
+                    "bid": 517,
+                    "name": "PLA",
+                    "size": 4258
+                }
+            ]
+        },
+        {
+            "name": "cluster407",
+            "children": [
+                {
+                    "bid": 518,
+                    "name": "CHANG",
+                    "size": 117
+                }
+            ]
+        },
+        {
+            "name": "cluster334",
+            "children": [
+                {
+                    "bid": 525,
+                    "name": "ARDO",
+                    "size": 28
+                }
+            ]
+        },
+        {
+            "name": "cluster73",
+            "children": [
+                {
+                    "bid": 527,
+                    "name": "Good",
+                    "size": 311
+                }
+            ]
+        },
+        {
+            "name": "cluster201",
+            "children": [
+                {
+                    "bid": 529,
+                    "name": "加拿大",
+                    "size": 440
+                }
+            ]
+        },
+        {
+            "name": "cluster338",
+            "children": [
+                {
+                    "bid": 530,
+                    "name": "OBLO",
+                    "size": 46
+                }
+            ]
+        },
+        {
+            "name": "cluster287",
+            "children": [
+                {
+                    "bid": 531,
+                    "name": "Jaq",
+                    "size": 15
+                }
+            ]
+        },
+        {
+            "name": "cluster339",
+            "children": [
+                {
+                    "bid": 535,
+                    "name": "以色列",
+                    "size": 90
+                }
+            ]
+        },
+        {
+            "name": "cluster209",
+            "children": [
+                {
+                    "bid": 539,
+                    "name": "Plus",
+                    "size": 3126
+                }
+            ]
+        },
+        {
+            "name": "cluster31",
+            "children": [
+                {
+                    "bid": 540,
+                    "name": "PAW",
+                    "size": 120
+                }
+            ]
+        },
+        {
+            "name": "cluster449",
+            "children": [
+                {
+                    "bid": 544,
+                    "name": "KI",
+                    "size": 40773
+                }
+            ]
+        },
+        {
+            "name": "cluster430",
+            "children": [
+                {
+                    "bid": 548,
+                    "name": "Buddies",
+                    "size": 11
+                }
+            ]
+        },
+        {
+            "name": "cluster108",
+            "children": [
+                {
+                    "bid": 574,
+                    "name": "BAO",
+                    "size": 75
+                }
+            ]
+        },
+        {
+            "name": "cluster55",
+            "children": [
+                {
+                    "bid": 575,
+                    "name": "小鹿山丘",
+                    "size": 11
+                }
+            ]
+        },
+        {
+            "name": "cluster258",
+            "children": [
+                {
+                    "bid": 576,
+                    "name": "eggshell",
+                    "size": 8
+                }
+            ]
+        },
+        {
+            "name": "cluster159",
+            "children": [
+                {
+                    "bid": 577,
+                    "name": "王子",
+                    "size": 1029
+                }
+            ]
+        },
+        {
+            "name": "cluster279",
+            "children": [
+                {
+                    "bid": 578,
+                    "name": "nepia",
+                    "size": 48
+                }
+            ]
+        },
+        {
+            "name": "cluster322",
+            "children": [
+                {
+                    "bid": 583,
+                    "name": "Muffin",
+                    "size": 61
+                }
+            ]
+        },
+        {
+            "name": "cluster491",
+            "children": [
+                {
+                    "bid": 584,
+                    "name": "精典泰迪",
+                    "size": 282
+                }
+            ]
+        },
+        {
+            "name": "cluster224",
+            "children": [
+                {
+                    "bid": 585,
+                    "name": "Classic",
+                    "size": 1037
+                }
+            ]
+        },
+        {
+            "name": "cluster473",
+            "children": [
+                {
+                    "bid": 588,
+                    "name": "Wander",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster355",
+            "children": [
+                {
+                    "bid": 591,
+                    "name": "May",
+                    "size": 1959
+                }
+            ]
+        },
+        {
+            "name": "cluster206",
+            "children": [
+                {
+                    "bid": 593,
+                    "name": "向綠音樂",
+                    "size": 34
+                }
+            ]
+        },
+        {
+            "name": "cluster185",
+            "children": [
+                {
+                    "bid": 594,
+                    "name": "green",
+                    "size": 486
+                }
+            ]
+        },
+        {
+            "name": "cluster168",
+            "children": [
+                {
+                    "bid": 597,
+                    "name": "EverEarth",
+                    "size": 34
+                }
+            ]
+        },
+        {
+            "name": "cluster22",
+            "children": [
+                {
+                    "bid": 599,
+                    "name": "愛兒房",
+                    "size": 104
+                }
+            ]
+        },
+        {
+            "name": "cluster408",
+            "children": [
+                {
+                    "bid": 621,
+                    "name": "媽媽餵",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "cluster265",
+            "children": [
+                {
+                    "bid": 622,
+                    "name": "MamaWay",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "cluster47",
+            "children": [
+                {
+                    "bid": 623,
+                    "name": "奇智奇思",
+                    "size": 253
+                }
+            ]
+        },
+        {
+            "name": "cluster35",
+            "children": [
+                {
+                    "bid": 626,
+                    "name": "PMU",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster106",
+            "children": [
+                {
+                    "bid": 627,
+                    "name": "葡萄牙",
+                    "size": 14
+                }
+            ]
+        },
+        {
+            "name": "cluster198",
+            "children": [
+                {
+                    "bid": 628,
+                    "name": "M2P",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster484",
+            "children": [
+                {
+                    "bid": 629,
+                    "name": "布朗博士",
+                    "size": 60
+                }
+            ]
+        },
+        {
+            "name": "cluster31",
+            "children": [
+                {
+                    "bid": 631,
+                    "name": "Mam",
+                    "size": 1639
+                }
+            ]
+        },
+        {
+            "name": "cluster136",
+            "children": [
+                {
+                    "bid": 632,
+                    "name": "Art",
+                    "size": 5497
+                }
+            ]
+        },
+        {
+            "name": "cluster55",
+            "children": [
+                {
+                    "bid": 635,
+                    "name": "英國 湯美天地",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster449",
+            "children": [
+                {
+                    "bid": 636,
+                    "name": "Tommee",
+                    "size": 43
+                }
+            ]
+        },
+        {
+            "name": "cluster51",
+            "children": [
+                {
+                    "bid": 638,
+                    "name": "Kidorable",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster157",
+            "children": [
+                {
+                    "bid": 639,
+                    "name": "貝印",
+                    "size": 705
+                }
+            ]
+        },
+        {
+            "name": "cluster447",
+            "children": [
+                {
+                    "bid": 640,
+                    "name": "KAI",
+                    "size": 268
+                }
+            ]
+        },
+        {
+            "name": "cluster384",
+            "children": [
+                {
+                    "bid": 641,
+                    "name": "Feet",
+                    "size": 76
+                }
+            ]
+        },
+        {
+            "name": "cluster399",
+            "children": [
+                {
+                    "bid": 643,
+                    "name": "TOMA",
+                    "size": 299
+                }
+            ]
+        },
+        {
+            "name": "cluster234",
+            "children": [
+                {
+                    "bid": 644,
+                    "name": "童話",
+                    "size": 651
+                }
+            ]
+        },
+        {
+            "name": "cluster32",
+            "children": [
+                {
+                    "bid": 646,
+                    "name": "SILVER",
+                    "size": 676
+                }
+            ]
+        },
+        {
+            "name": "cluster318",
+            "children": [
+                {
+                    "bid": 647,
+                    "name": "Rae",
+                    "size": 357
+                }
+            ]
+        },
+        {
+            "name": "cluster232",
+            "children": [
+                {
+                    "bid": 648,
+                    "name": "Lionheart",
+                    "size": 11
+                }
+            ]
+        },
+        {
+            "name": "cluster339",
+            "children": [
+                {
+                    "bid": 651,
+                    "name": "三樂事",
+                    "size": 39
+                }
+            ]
+        },
+        {
+            "name": "cluster32",
+            "children": [
+                {
+                    "bid": 652,
+                    "name": "Sunlus",
+                    "size": 30
+                }
+            ]
+        },
+        {
+            "name": "cluster425",
+            "children": [
+                {
+                    "bid": 673,
+                    "name": "Infant",
+                    "size": 221
+                }
+            ]
+        },
+        {
+            "name": "cluster442",
+            "children": [
+                {
+                    "bid": 675,
+                    "name": "Flexi",
+                    "size": 81
+                }
+            ]
+        },
+        {
+            "name": "cluster228",
+            "children": [
+                {
+                    "bid": 677,
+                    "name": "UNA",
+                    "size": 1914
+                }
+            ]
+        },
+        {
+            "name": "cluster271",
+            "children": [
+                {
+                    "bid": 678,
+                    "name": "媽咪小站",
+                    "size": 567
+                }
+            ]
+        },
+        {
+            "name": "cluster128",
+            "children": [
+                {
+                    "bid": 680,
+                    "name": "HOP",
+                    "size": 22432
+                }
+            ]
+        },
+        {
+            "name": "cluster23",
+            "children": [
+                {
+                    "bid": 683,
+                    "name": "潑寶",
+                    "size": 81
+                }
+            ]
+        },
+        {
+            "name": "cluster60",
+            "children": [
+                {
+                    "bid": 684,
+                    "name": "Splash",
+                    "size": 82
+                }
+            ]
+        },
+        {
+            "name": "cluster378",
+            "children": [
+                {
+                    "bid": 685,
+                    "name": "韓國帕龍",
+                    "size": 15
+                }
+            ]
+        },
+        {
+            "name": "cluster286",
+            "children": [
+                {
+                    "bid": 686,
+                    "name": "Parklon",
+                    "size": 61
+                }
+            ]
+        },
+        {
+            "name": "cluster369",
+            "children": [
+                {
+                    "bid": 687,
+                    "name": "kiki",
+                    "size": 373
+                }
+            ]
+        },
+        {
+            "name": "cluster446",
+            "children": [
+                {
+                    "bid": 689,
+                    "name": "Banana",
+                    "size": 3288
+                }
+            ]
+        },
+        {
+            "name": "cluster24",
+            "children": [
+                {
+                    "bid": 690,
+                    "name": "COLE",
+                    "size": 635
+                }
+            ]
+        },
+        {
+            "name": "cluster446",
+            "children": [
+                {
+                    "bid": 692,
+                    "name": "米飛兔",
+                    "size": 201
+                }
+            ]
+        },
+        {
+            "name": "cluster494",
+            "children": [
+                {
+                    "bid": 693,
+                    "name": "Miffy",
+                    "size": 346
+                }
+            ]
+        },
+        {
+            "name": "cluster439",
+            "children": [
+                {
+                    "bid": 694,
+                    "name": "美國唯樂",
+                    "size": 13
+                }
+            ]
+        },
+        {
+            "name": "cluster253",
+            "children": [
+                {
+                    "bid": 695,
+                    "name": "Lifefactory",
+                    "size": 13
+                }
+            ]
+        },
+        {
+            "name": "cluster478",
+            "children": [
+                {
+                    "bid": 697,
+                    "name": "diner",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "cluster455",
+            "children": [
+                {
+                    "bid": 698,
+                    "name": "Elephant",
+                    "size": 44
+                }
+            ]
+        },
+        {
+            "name": "cluster348",
+            "children": [
+                {
+                    "bid": 699,
+                    "name": "元氣寶寶",
+                    "size": 257
+                }
+            ]
+        },
+        {
+            "name": "cluster212",
+            "children": [
+                {
+                    "bid": 700,
+                    "name": "genki",
+                    "size": 241
+                }
+            ]
+        },
+        {
+            "name": "cluster425",
+            "children": [
+                {
+                    "bid": 701,
+                    "name": "樂適",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "name": "cluster180",
+            "children": [
+                {
+                    "bid": 702,
+                    "name": "Leshi",
+                    "size": 14
+                }
+            ]
+        },
+        {
+            "name": "cluster61",
+            "children": [
+                {
+                    "bid": 723,
+                    "name": "Solutions",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "name": "cluster384",
+            "children": [
+                {
+                    "bid": 724,
+                    "name": "Rocks",
+                    "size": 61
+                }
+            ]
+        },
+        {
+            "name": "cluster415",
+            "children": [
+                {
+                    "bid": 725,
+                    "name": "山洋",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "cluster28",
+            "children": [
+                {
+                    "bid": 726,
+                    "name": "SANYO",
+                    "size": 195
+                }
+            ]
+        },
+        {
+            "name": "cluster75",
+            "children": [
+                {
+                    "bid": 727,
+                    "name": "Carry",
+                    "size": 55
+                }
+            ]
+        },
+        {
+            "name": "cluster382",
+            "children": [
+                {
+                    "bid": 728,
+                    "name": "DECO",
+                    "size": 220
+                }
+            ]
+        },
+        {
+            "name": "cluster492",
+            "children": [
+                {
+                    "bid": 729,
+                    "name": "Pocus",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "name": "cluster333",
+            "children": [
+                {
+                    "bid": 730,
+                    "name": "world",
+                    "size": 195
+                }
+            ]
+        },
+        {
+            "name": "cluster34",
+            "children": [
+                {
+                    "bid": 732,
+                    "name": "Mere",
+                    "size": 30
+                }
+            ]
+        },
+        {
+            "name": "cluster223",
+            "children": [
+                {
+                    "bid": 734,
+                    "name": "米諾娃",
+                    "size": 24
+                }
+            ]
+        },
+        {
+            "name": "cluster210",
+            "children": [
+                {
+                    "bid": 735,
+                    "name": "MINERVA",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "name": "cluster57",
+            "children": [
+                {
+                    "bid": 736,
+                    "name": "Nuit",
+                    "size": 50
+                }
+            ]
+        },
+        {
+            "name": "cluster386",
+            "children": [
+                {
+                    "bid": 737,
+                    "name": "Joseph",
+                    "size": 227
+                }
+            ]
+        },
+        {
+            "name": "cluster300",
+            "children": [
+                {
+                    "bid": 739,
+                    "name": "Klein",
+                    "size": 420
+                }
+            ]
+        },
+        {
+            "name": "cluster487",
+            "children": [
+                {
+                    "bid": 740,
+                    "name": "美麗諾",
+                    "size": 423
+                }
+            ]
+        },
+        {
+            "name": "cluster139",
+            "children": [
+                {
+                    "bid": 742,
+                    "name": "ons",
+                    "size": 1111
+                }
+            ]
+        },
+        {
+            "name": "cluster243",
+            "children": [
+                {
+                    "bid": 744,
+                    "name": "親貝比",
+                    "size": 118
+                }
+            ]
+        },
+        {
+            "name": "cluster177",
+            "children": [
+                {
+                    "bid": 745,
+                    "name": "CHARM",
+                    "size": 263
+                }
+            ]
+        },
+        {
+            "name": "cluster35",
+            "children": [
+                {
+                    "bid": 746,
+                    "name": "Kanteen",
+                    "size": 120
+                }
+            ]
+        },
+        {
+            "name": "cluster345",
+            "children": [
+                {
+                    "bid": 767,
+                    "name": "NY",
+                    "size": 10981
+                }
+            ]
+        },
+        {
+            "name": "cluster375",
+            "children": [
+                {
+                    "bid": 768,
+                    "name": "Hippo",
+                    "size": 126
+                }
+            ]
+        },
+        {
+            "name": "cluster312",
+            "children": [
+                {
+                    "bid": 769,
+                    "name": "ITO",
+                    "size": 355
+                }
+            ]
+        },
+        {
+            "name": "cluster216",
+            "children": [
+                {
+                    "bid": 770,
+                    "name": "史酷得",
+                    "size": 8
+                }
+            ]
+        },
+        {
+            "name": "cluster249",
+            "children": [
+                {
+                    "bid": 771,
+                    "name": "Skoot",
+                    "size": 9
+                }
+            ]
+        },
+        {
+            "name": "cluster250",
+            "children": [
+                {
+                    "bid": 772,
+                    "name": "Original",
+                    "size": 737
+                }
+            ]
+        },
+        {
+            "name": "cluster177",
+            "children": [
+                {
+                    "bid": 773,
+                    "name": "DUCK",
+                    "size": 329
+                }
+            ]
+        },
+        {
+            "name": "cluster408",
+            "children": [
+                {
+                    "bid": 777,
+                    "name": "Dot",
+                    "size": 186
+                }
+            ]
+        },
+        {
+            "name": "cluster421",
+            "children": [
+                {
+                    "bid": 781,
+                    "name": "瑪榭",
+                    "size": 977
+                }
+            ]
+        },
+        {
+            "name": "cluster376",
+            "children": [
+                {
+                    "bid": 782,
+                    "name": "Mar",
+                    "size": 5032
+                }
+            ]
+        },
+        {
+            "name": "cluster160",
+            "children": [
+                {
+                    "bid": 808,
+                    "name": "friendly",
+                    "size": 33
+                }
+            ]
+        },
+        {
+            "name": "cluster283",
+            "children": [
+                {
+                    "bid": 809,
+                    "name": "Dentist",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "cluster263",
+            "children": [
+                {
+                    "bid": 812,
+                    "name": "狐狸村傳奇",
+                    "size": 253
+                }
+            ]
+        },
+        {
+            "name": "cluster441",
+            "children": [
+                {
+                    "bid": 813,
+                    "name": "Foxwood",
+                    "size": 111
+                }
+            ]
+        },
+        {
+            "name": "cluster5",
+            "children": [
+                {
+                    "bid": 814,
+                    "name": "瑞典",
+                    "size": 569
+                }
+            ]
+        },
+        {
+            "name": "cluster135",
+            "children": [
+                {
+                    "bid": 815,
+                    "name": "Elodie",
+                    "size": 51
+                }
+            ]
+        },
+        {
+            "name": "cluster476",
+            "children": [
+                {
+                    "bid": 820,
+                    "name": "快可利得",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "cluster469",
+            "children": [
+                {
+                    "bid": 827,
+                    "name": "艾蘿若華",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "cluster407",
+            "children": [
+                {
+                    "bid": 828,
+                    "name": "Alphanova",
+                    "size": 14
+                }
+            ]
+        },
+        {
+            "name": "cluster492",
+            "children": [
+                {
+                    "bid": 829,
+                    "name": "福斯",
+                    "size": 31
+                }
+            ]
+        },
+        {
+            "name": "cluster273",
+            "children": [
+                {
+                    "bid": 830,
+                    "name": "Volkswagen",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "name": "cluster139",
+            "children": [
+                {
+                    "bid": 831,
+                    "name": "Family",
+                    "size": 227
+                }
+            ]
+        },
+        {
+            "name": "cluster349",
+            "children": [
+                {
+                    "bid": 832,
+                    "name": "比利時",
+                    "size": 201
+                }
+            ]
+        },
+        {
+            "name": "cluster463",
+            "children": [
+                {
+                    "bid": 833,
+                    "name": "Doomoo",
+                    "size": 9
+                }
+            ]
+        },
+        {
+            "name": "cluster104",
+            "children": [
+                {
+                    "bid": 836,
+                    "name": "義大利跩克",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster52",
+            "children": [
+                {
+                    "bid": 837,
+                    "name": "Italtrike",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "name": "cluster402",
+            "children": [
+                {
+                    "bid": 839,
+                    "name": "德國輝柏",
+                    "size": 8
+                }
+            ]
+        },
+        {
+            "name": "cluster471",
+            "children": [
+                {
+                    "bid": 840,
+                    "name": "FABER",
+                    "size": 255
+                }
+            ]
+        },
+        {
+            "name": "cluster305",
+            "children": [
+                {
+                    "bid": 864,
+                    "name": "丹麥",
+                    "size": 201
+                }
+            ]
+        },
+        {
+            "name": "cluster82",
+            "children": [
+                {
+                    "bid": 865,
+                    "name": "Leander",
+                    "size": 46
+                }
+            ]
+        },
+        {
+            "name": "cluster205",
+            "children": [
+                {
+                    "bid": 872,
+                    "name": "Chompers",
+                    "size": 36
+                }
+            ]
+        },
+        {
+            "name": "cluster25",
+            "children": [
+                {
+                    "bid": 879,
+                    "name": "Bbee",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "name": "cluster106",
+            "children": [
+                {
+                    "bid": 889,
+                    "name": "日本銀鳥",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "cluster423",
+            "children": [
+                {
+                    "bid": 892,
+                    "name": "義大利",
+                    "size": 1248
+                }
+            ]
+        },
+        {
+            "name": "cluster407",
+            "children": [
+                {
+                    "bid": 893,
+                    "name": "PALI",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "cluster325",
+            "children": [
+                {
+                    "bid": 894,
+                    "name": "Teddy",
+                    "size": 281
+                }
+            ]
+        },
+        {
+            "name": "cluster6",
+            "children": [
+                {
+                    "bid": 895,
+                    "name": "Natural",
+                    "size": 268
+                }
+            ]
+        },
+        {
+            "name": "cluster128",
+            "children": [
+                {
+                    "bid": 915,
+                    "name": "Billyz",
+                    "size": 44
+                }
+            ]
+        },
+        {
+            "name": "cluster89",
+            "children": [
+                {
+                    "bid": 920,
+                    "name": "西班牙",
+                    "size": 700
+                }
+            ]
+        },
+        {
+            "name": "cluster495",
+            "children": [
+                {
+                    "bid": 921,
+                    "name": "SUAVINEX",
+                    "size": 35
+                }
+            ]
+        },
+        {
+            "name": "cluster377",
+            "children": [
+                {
+                    "bid": 922,
+                    "name": "BLOKS",
+                    "size": 76
+                }
+            ]
+        },
+        {
+            "name": "cluster156",
+            "children": [
+                {
+                    "bid": 927,
+                    "name": "Organic",
+                    "size": 113
+                }
+            ]
+        },
+        {
+            "name": "cluster443",
+            "children": [
+                {
+                    "bid": 934,
+                    "name": "瑞士",
+                    "size": 560
+                }
+            ]
+        },
+        {
+            "name": "cluster221",
+            "children": [
+                {
+                    "bid": 935,
+                    "name": "AMOS",
+                    "size": 122
+                }
+            ]
+        },
+        {
+            "name": "cluster148",
+            "children": [
+                {
+                    "bid": 938,
+                    "name": "Cityscape",
+                    "size": 15
+                }
+            ]
+        },
+        {
+            "name": "cluster84",
+            "children": [
+                {
+                    "bid": 941,
+                    "name": "大地之愛",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "name": "cluster292",
+            "children": [
+                {
+                    "bid": 955,
+                    "name": "親親",
+                    "size": 609
+                }
+            ]
+        },
+        {
+            "name": "cluster181",
+            "children": [
+                {
+                    "bid": 956,
+                    "name": "CHING",
+                    "size": 140
+                }
+            ]
+        },
+        {
+            "name": "cluster240",
+            "children": [
+                {
+                    "bid": 962,
+                    "name": "smith",
+                    "size": 152
+                }
+            ]
+        },
+        {
+            "name": "cluster105",
+            "children": [
+                {
+                    "bid": 963,
+                    "name": "粉紅豬小妹",
+                    "size": 113
+                }
+            ]
+        },
+        {
+            "name": "cluster136",
+            "children": [
+                {
+                    "bid": 964,
+                    "name": "Peppa",
+                    "size": 159
+                }
+            ]
+        },
+        {
+            "name": "cluster331",
+            "children": [
+                {
+                    "bid": 965,
+                    "name": "柔仕",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster246",
+            "children": [
+                {
+                    "bid": 966,
+                    "name": "Roushr",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster343",
+            "children": [
+                {
+                    "bid": 968,
+                    "name": "病毒崩",
+                    "size": 11
+                }
+            ]
+        },
+        {
+            "name": "cluster445",
+            "children": [
+                {
+                    "bid": 969,
+                    "name": "VirusBom",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "name": "cluster44",
+            "children": [
+                {
+                    "bid": 972,
+                    "name": "希望舒膚",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster295",
+            "children": [
+                {
+                    "bid": 973,
+                    "name": "Hope",
+                    "size": 70
+                }
+            ]
+        },
+        {
+            "name": "cluster151",
+            "children": [
+                {
+                    "bid": 979,
+                    "name": "twist",
+                    "size": 45
+                }
+            ]
+        },
+        {
+            "name": "cluster139",
+            "children": [
+                {
+                    "bid": 980,
+                    "name": "Bunny",
+                    "size": 143
+                }
+            ]
+        },
+        {
+            "name": "cluster133",
+            "children": [
+                {
+                    "bid": 981,
+                    "name": "Bambino",
+                    "size": 21
+                }
+            ]
+        },
+        {
+            "name": "cluster142",
+            "children": [
+                {
+                    "bid": 995,
+                    "name": "Aspen",
+                    "size": 97
+                }
+            ]
+        },
+        {
+            "name": "cluster72",
+            "children": [
+                {
+                    "bid": 996,
+                    "name": "Bean",
+                    "size": 89
+                }
+            ]
+        },
+        {
+            "name": "cluster445",
+            "children": [
+                {
+                    "bid": 998,
+                    "name": "Soles",
+                    "size": 45
+                }
+            ]
+        },
+        {
+            "name": "cluster488",
+            "children": [
+                {
+                    "bid": 999,
+                    "name": "nuno",
+                    "size": 30
+                }
+            ]
+        },
+        {
+            "name": "cluster328",
+            "children": [
+                {
+                    "bid": 1000,
+                    "name": "ZOO",
+                    "size": 6566
+                }
+            ]
+        },
+        {
+            "name": "cluster411",
+            "children": [
+                {
+                    "bid": 1002,
+                    "name": "花果子",
+                    "size": 35
+                }
+            ]
+        },
+        {
+            "name": "cluster475",
+            "children": [
+                {
+                    "bid": 1003,
+                    "name": "MAMBAB",
+                    "size": 15
+                }
+            ]
+        },
+        {
+            "name": "cluster297",
+            "children": [
+                {
+                    "bid": 1004,
+                    "name": "凱蒂貓",
+                    "size": 4535
+                }
+            ]
+        },
+        {
+            "name": "cluster480",
+            "children": [
+                {
+                    "bid": 1006,
+                    "name": "智高",
+                    "size": 262
+                }
+            ]
+        },
+        {
+            "name": "cluster422",
+            "children": [
+                {
+                    "bid": 1007,
+                    "name": "gigo",
+                    "size": 269
+                }
+            ]
+        },
+        {
+            "name": "cluster402",
+            "children": [
+                {
+                    "bid": 1008,
+                    "name": "貝麗",
+                    "size": 66
+                }
+            ]
+        },
+        {
+            "name": "cluster207",
+            "children": [
+                {
+                    "bid": 1009,
+                    "name": "BFree",
+                    "size": 56
+                }
+            ]
+        },
+        {
+            "name": "cluster233",
+            "children": [
+                {
+                    "bid": 1011,
+                    "name": "愛比",
+                    "size": 39
+                }
+            ]
+        },
+        {
+            "name": "cluster427",
+            "children": [
+                {
+                    "bid": 1012,
+                    "name": "auby",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "cluster298",
+            "children": [
+                {
+                    "bid": 1013,
+                    "name": "麵包超人",
+                    "size": 1143
+                }
+            ]
+        },
+        {
+            "name": "cluster476",
+            "children": [
+                {
+                    "bid": 1014,
+                    "name": "ANPANMAN",
+                    "size": 279
+                }
+            ]
+        },
+        {
+            "name": "cluster18",
+            "children": [
+                {
+                    "bid": 1017,
+                    "name": "小牛津",
+                    "size": 13
+                }
+            ]
+        },
+        {
+            "name": "cluster186",
+            "children": [
+                {
+                    "bid": 1018,
+                    "name": "Oxford",
+                    "size": 46
+                }
+            ]
+        },
+        {
+            "name": "cluster82",
+            "children": [
+                {
+                    "bid": 1019,
+                    "name": "Sucre",
+                    "size": 240
+                }
+            ]
+        },
+        {
+            "name": "cluster94",
+            "children": [
+                {
+                    "bid": 1020,
+                    "name": "stone",
+                    "size": 388
+                }
+            ]
+        },
+        {
+            "name": "cluster366",
+            "children": [
+                {
+                    "bid": 1022,
+                    "name": "Blue",
+                    "size": 1788
+                }
+            ]
+        },
+        {
+            "name": "cluster34",
+            "children": [
+                {
+                    "bid": 1037,
+                    "name": "Capek",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster291",
+            "children": [
+                {
+                    "bid": 1038,
+                    "name": "韓國康樂",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "name": "cluster393",
+            "children": [
+                {
+                    "bid": 1039,
+                    "name": "Dwinguler",
+                    "size": 16
+                }
+            ]
+        },
+        {
+            "name": "cluster134",
+            "children": [
+                {
+                    "bid": 1041,
+                    "name": "斑馬牌",
+                    "size": 93
+                }
+            ]
+        },
+        {
+            "name": "cluster232",
+            "children": [
+                {
+                    "bid": 1042,
+                    "name": "ZEBRA",
+                    "size": 284
+                }
+            ]
+        },
+        {
+            "name": "cluster424",
+            "children": [
+                {
+                    "bid": 1043,
+                    "name": "日本獅王",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "name": "cluster104",
+            "children": [
+                {
+                    "bid": 1044,
+                    "name": "LION",
+                    "size": 352
+                }
+            ]
+        },
+        {
+            "name": "cluster22",
+            "children": [
+                {
+                    "bid": 1047,
+                    "name": "Hook",
+                    "size": 41
+                }
+            ]
+        },
+        {
+            "name": "cluster225",
+            "children": [
+                {
+                    "bid": 1048,
+                    "name": "奧迪",
+                    "size": 29
+                }
+            ]
+        },
+        {
+            "name": "cluster119",
+            "children": [
+                {
+                    "bid": 1049,
+                    "name": "Audi",
+                    "size": 171
+                }
+            ]
+        },
+        {
+            "name": "cluster245",
+            "children": [
+                {
+                    "bid": 1052,
+                    "name": "美度扣",
+                    "size": 21
+                }
+            ]
+        },
+        {
+            "name": "cluster333",
+            "children": [
+                {
+                    "bid": 1053,
+                    "name": "Makedo",
+                    "size": 21
+                }
+            ]
+        },
+        {
+            "name": "cluster259",
+            "children": [
+                {
+                    "bid": 1054,
+                    "name": "高絲",
+                    "size": 284
+                }
+            ]
+        },
+        {
+            "name": "cluster444",
+            "children": [
+                {
+                    "bid": 1055,
+                    "name": "KOSE",
+                    "size": 266
+                }
+            ]
+        },
+        {
+            "name": "cluster1",
+            "children": [
+                {
+                    "bid": 1056,
+                    "name": "史努比",
+                    "size": 1178
+                }
+            ]
+        },
+        {
+            "name": "cluster384",
+            "children": [
+                {
+                    "bid": 1057,
+                    "name": "SNOOPY",
+                    "size": 1039
+                }
+            ]
+        },
+        {
+            "name": "cluster6",
+            "children": [
+                {
+                    "bid": 1058,
+                    "name": "新安怡",
+                    "size": 399
+                }
+            ]
+        },
+        {
+            "name": "cluster334",
+            "children": [
+                {
+                    "bid": 1063,
+                    "name": "asia",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "cluster359",
+            "children": [
+                {
+                    "bid": 1064,
+                    "name": "ACE",
+                    "size": 3010
+                }
+            ]
+        },
+        {
+            "name": "cluster88",
+            "children": [
+                {
+                    "bid": 1065,
+                    "name": "樂扣",
+                    "size": 288
+                }
+            ]
+        },
+        {
+            "name": "cluster41",
+            "children": [
+                {
+                    "bid": 1066,
+                    "name": "LOCK",
+                    "size": 471
+                }
+            ]
+        },
+        {
+            "name": "cluster435",
+            "children": [
+                {
+                    "bid": 1070,
+                    "name": "Tikes",
+                    "size": 29
+                }
+            ]
+        },
+        {
+            "name": "cluster304",
+            "children": [
+                {
+                    "bid": 1072,
+                    "name": "Warabe",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster19",
+            "children": [
+                {
+                    "bid": 1085,
+                    "name": "芭比",
+                    "size": 321
+                }
+            ]
+        },
+        {
+            "name": "cluster470",
+            "children": [
+                {
+                    "bid": 1086,
+                    "name": "Barbie",
+                    "size": 156
+                }
+            ]
+        },
+        {
+            "name": "cluster220",
+            "children": [
+                {
+                    "bid": 1087,
+                    "name": "百樂潔",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "cluster74",
+            "children": [
+                {
+                    "bid": 1092,
+                    "name": "LIERAC",
+                    "size": 30
+                }
+            ]
+        },
+        {
+            "name": "cluster487",
+            "children": [
+                {
+                    "bid": 1095,
+                    "name": "Clay",
+                    "size": 11
+                }
+            ]
+        },
+        {
+            "name": "cluster359",
+            "children": [
+                {
+                    "bid": 1097,
+                    "name": "米果",
+                    "size": 53
+                }
+            ]
+        },
+        {
+            "name": "cluster8",
+            "children": [
+                {
+                    "bid": 1099,
+                    "name": "加藤真治",
+                    "size": 509
+                }
+            ]
+        },
+        {
+            "name": "cluster189",
+            "children": [
+                {
+                    "bid": 1100,
+                    "name": "Shinzi",
+                    "size": 481
+                }
+            ]
+        },
+        {
+            "name": "cluster463",
+            "children": [
+                {
+                    "bid": 1101,
+                    "name": "Palmer",
+                    "size": 201
+                }
+            ]
+        },
+        {
+            "name": "cluster481",
+            "children": [
+                {
+                    "bid": 1105,
+                    "name": "Little",
+                    "size": 1012
+                }
+            ]
+        }
+    ]
+}

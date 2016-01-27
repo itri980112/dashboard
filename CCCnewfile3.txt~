@@ -1,0 +1,20 @@
+ 
+my(child) pid:27797
+start end:2016/01/09,2016/01/11logtime: 2016-01-11  18:30:01 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/09,cd_max:2016/01/11&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:824880\n
+logtime: 2016-01-11  18:30:37 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/09,cd_max:2016/01/11&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:825912\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:27797
+start end:2016/01/09,2016/01/11logtime: 2016-01-11  18:31:15 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/09,cd_max:2016/01/11&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:825112\n
+logtime: 2016-01-11  18:31:42 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/09,cd_max:2016/01/11&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826152\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \n

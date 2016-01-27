@@ -1,0 +1,10 @@
+#!/usr/bin/php -q
+<?php
+echo 'test';
+//cd D:\2015_other_proj\crontab_error_解法_dos2unix\dos2unix-7.3.2-win32\bin
+//dos2unix google_news_crawler.php
+$myfile = fopen("./google_news_crawler1.log", "a") or die("Unable to open file!");
+fwrite($myfile, sprintf("%s => work fail: \n", date('H:i:s')));
+fwrite($myfile, "work !!!! \n");
+fclose($myfile); 
+?>

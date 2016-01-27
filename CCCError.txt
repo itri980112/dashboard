@@ -1,0 +1,22 @@
+ 
+2015-12-30 10:24:24 => main thread waiting: 
+\n\n child processid:26087\n\n my(father) pid:26078工作狀態已從stop 轉為 running\n2015-12-30 10:35:04 => main thread waiting: 
+\n\n child processid:26463\n\n my(father) pid:26081工作狀態已從stop 轉為 running\nfather exit()\nkilling process:26463\n2015-12-30 10:45:01 => main thread waiting: 
+\n\n child processid:26728\n\n my(father) pid:26459工作狀態已從stop 轉為 running\n2015-12-30 10:56:44 => main thread waiting: 
+\n\n child processid:27173\n\n my(father) pid:27069工作狀態已從stop 轉為 running\nfather exit()\nkilling process:27173\n2015-12-30 11:09:14 => main thread waiting: 
+\n\n child processid:27498\n\n my(father) pid:27067工作狀態已從stop 轉為 running\nfather exit()\nkilling process:27498\n2015-12-30 14:24:56 => main thread waiting: 
+\n\n child processid:29180\n\n my(father) pid:27066工作狀態已從stop 轉為 running\nfather exit()\nkilling process:29180\n2015-12-30 14:48:46 => main thread waiting: 
+\n\n child processid:29512\n\n my(father) pid:29337工作狀態已從stop 轉為 running\nfather exit()\nkilling process:29512\n2015-12-30 14:57:11 => main thread waiting: 
+\n\n child processid:29771\n\n my(father) pid:27065工作狀態已從stop 轉為 running\nfather exit()\nkilling process:29771\n2015-12-30 15:04:17 => main thread waiting: 
+\n\n child processid:29855\n\n my(father) pid:29772工作狀態已從stop 轉為 running\nfather exit()\nkilling process:29855\n
+2016-01-04 17:53:27 => main thread waiting: 
+\n\n child processid:19819\n\n my(father) pid:19795工作狀態已從stop 轉為 running\nfather exit()\nkilling process:19819\n2016-01-04 18:12:55 => main thread waiting: 
+\n\n child processid:20395\n\n my(father) pid:20208工作狀態已從stop 轉為 running\nfather exit()\nkilling process:20395\n2016-01-04 18:28:53 => main thread waiting: 
+\n\n child processid:20526\n\n my(father) pid:20206工作狀態已從stop 轉為 running\nfather exit()\nkilling process:20526\n2016-01-12 09:30:52 => main thread waiting: 
+\n\n child processid:1743\n\n my(father) pid:11684工作狀態已從stop 轉為 running\nfather exit()\nkilling process:1743\n2016-01-12 16:22:46 => main thread waiting: 
+\n\n child processid:7362\n\n my(father) pid:11682工作狀態已從stop 轉為 running\nfather exit()\nkilling process:7362\n2016-01-12 16:50:42 => main thread waiting: 
+\n\n child processid:7588\n\n my(father) pid:11683工作狀態已從stop 轉為 running\nfather exit()\nkilling process:7588\n2016-01-13 23:13:11 => main thread waiting: 
+\n\n child processid:4493\n\n my(father) pid:4229工作狀態已從stop 轉為 running\nfather exit()\nkilling process:4493\n2016-01-14 09:46:53 => main thread waiting: 
+\n\n child processid:8645\n\n my(father) pid:5709工作狀態已從stop 轉為 running\nfather exit()\nkilling process:8645\n2016-01-25 17:00:30 => main thread waiting: 
+\n\n child processid:5668\n\n my(father) pid:4579工作狀態已從stop 轉為 running\nfather exit()\nkilling process:5668\n2016-01-25 17:07:54 => main thread waiting: 
+\n\n child processid:5727\n\n my(father) pid:4572工作狀態已從stop 轉為 running\nfather exit()\nkilling process:5727\n

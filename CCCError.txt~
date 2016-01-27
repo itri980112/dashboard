@@ -1,0 +1,11 @@
+ 
+2015-12-30 10:24:24 => main thread waiting: 
+\n\n child processid:26087\n\n my(father) pid:26078工作狀態已從stop 轉為 running\n2015-12-30 10:35:04 => main thread waiting: 
+\n\n child processid:26463\n\n my(father) pid:26081工作狀態已從stop 轉為 running\nfather exit()\nkilling process:26463\n2015-12-30 10:45:01 => main thread waiting: 
+\n\n child processid:26728\n\n my(father) pid:26459工作狀態已從stop 轉為 running\n2015-12-30 10:56:44 => main thread waiting: 
+\n\n child processid:27173\n\n my(father) pid:27069工作狀態已從stop 轉為 running\nfather exit()\nkilling process:27173\n2015-12-30 11:09:14 => main thread waiting: 
+\n\n child processid:27498\n\n my(father) pid:27067工作狀態已從stop 轉為 running\nfather exit()\nkilling process:27498\n2015-12-30 14:24:56 => main thread waiting: 
+\n\n child processid:29180\n\n my(father) pid:27066工作狀態已從stop 轉為 running\nfather exit()\nkilling process:29180\n2015-12-30 14:48:46 => main thread waiting: 
+\n\n child processid:29512\n\n my(father) pid:29337工作狀態已從stop 轉為 running\nfather exit()\nkilling process:29512\n2015-12-30 14:57:11 => main thread waiting: 
+\n\n child processid:29771\n\n my(father) pid:27065工作狀態已從stop 轉為 running\nfather exit()\nkilling process:29771\n2015-12-30 15:04:17 => main thread waiting: 
+\n\n child processid:29855\n\n my(father) pid:29772工作狀態已從stop 轉為 running\nfather exit()\nkilling process:29855\n

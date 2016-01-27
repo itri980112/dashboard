@@ -1,0 +1,4583 @@
+ 
+my(child) pid:4396
+start end:2016/01/10,2016/01/12logtime: 2016-01-12  12:30:01 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:824880\n
+logtime: 2016-01-12  12:30:44 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:825912\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:4396
+start end:2016/01/10,2016/01/12logtime: 2016-01-12  12:31:18 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-8 小時前日期資訊不合格式
+中時電子報-3 小時前日期資訊不合格式
+
+memory usage:833920\n
+logtime: 2016-01-12  12:31:48 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-8 小時前日期資訊不合格式
+中時電子報-3 小時前日期資訊不合格式
+
+memory usage:833944\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:9258
+start end:2016/01/10,2016/01/12logtime: 2016-01-12  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://hk.on.cc/cn/bkn/cnt/news/20160110/bkncn-20160110162647738-0110_05011_001.html
+
+
+發現重複:http://hk.on.cc/cn/bkn/cnt/news/20160110/bkncn-20160110162647738-0110_05011_001.html
+
+
+title:粵染H5N6孕婦剖腹分娩嬰兒無感染母仍病危
+
+
+src:on.cc東網 (註冊)-,date=2016-1-10
+
+
+my link:https://hk.news.yahoo.com/%E5%BB%A3%E6%9D%B1%E8%82%87%E6%85%B61%E5%90%8D%E5%AD%95%E5%A9%A6%E6%84%9F%E6%9F%93%E7%A6%BD%E6%B5%81%E6%84%9F%E5%BE%8C%E5%89%96%E8%85%B9%E7%94%9F%E7%94%A2-082425445.html
+
+
+title:廣東肇慶1名孕婦感染禽流感後剖腹生產
+
+
+src:粵染H5N6孕婦剖腹分娩嬰兒無感染母仍病危on.cc東網 (註冊)-,date=2016-1-10
+
+
+my link:http://www.chinesetoday.com/big/article/1076138
+
+
+title:廣東肇慶為Ｈ５Ｎ６病例孕婦實施剖宮產
+
+
+src:粵染H5N6孕婦剖腹分娩嬰兒無感染母仍病危on.cc東網 (註冊)-,date=2016-1-10
+
+
+my link:http://s.nextmedia.com/realtime/a.php?i=20160111&amp;s=10793096&amp;a=54634021&amp;source=googlenews
+
+
+title:【H5N6】廣東孕婦剖腹生產幼嬰未受感染
+
+
+src:粵染H5N6孕婦剖腹分娩嬰兒無感染母仍病危on.cc東網 (註冊)-,date=2016-1-10
+
+
+my link:http://news.qoos.com/%E8%82%87%E6%85%B6%E5%AD%95%E5%A9%A6%E6%9F%93%E7%A6%BD%E6%B5%81%E6%84%9F%E5%BE%8C%E5%89%96%E8%85%B9%E7%94%9F%E7%94%A2%E5%AC%B0%E5%85%92%E7%84%A1%E6%81%99-2000518.html
+
+
+title:肇慶孕婦染禽流感後剖腹生產嬰兒無恙
+
+
+src:粵染H5N6孕婦剖腹分娩嬰兒無感染母仍病危on.cc東網 (註冊)-,date=2016-1-10
+
+
+my link:http://www.881903.com/Page/ZH-TW/newsdetail.aspx?ItemId=847200&amp;csid=261_341
+
+
+title:肇慶染H5N6禽流感孕婦剖腹生產嬰兒無恙
+
+
+src:粵染H5N6孕婦剖腹分娩嬰兒無感染母仍病危on.cc東網 (註冊)-,date=2016-1-10
+
+
+並非正確新聞
+my link:http://www.epochtimes.com/b5/16/1/11/n4613845.htm
+
+
+發現重複:http://www.epochtimes.com/b5/16/1/11/n4613845.htm
+
+
+title:鄭州孕婦在飯店吃出蟑螂店主：這是特
+
+
+src:大紀元-,date=2016-1-11
+
+
+my link:http://news.ltn.com.tw/news/local/paper/948205
+
+
+發現重複:http://news.ltn.com.tw/news/local/paper/948205
+
+
+title:大鵬灣三鐵賽孕婦選手帶球跑
+
+
+src:自由時報電子報-,date=2016-1-10
+
+
+my link:http://www.epochtimes.com/b5/16/1/11/n4613667.htm
+
+
+發現重複:http://www.epochtimes.com/b5/16/1/11/n4613667.htm
+
+
+title:孕婦車中產子高速公路警察接生
+
+
+src:大紀元-,date=2016-1-10
+
+
+國際日報-2016年1月10日日期資訊不合格式
+香港蘋果日報-2016年1月10日日期資訊不合格式
+my link:http://tw.on.cc/int/bkn/cnt/news/20160111/bknint-20160111091201843-0111_17011_001.html
+
+
+title:暖爐燒毛毯焚屋美孕婦折返救子雙雙葬火海
+
+
+src:on.cc東網台灣-,date=2016-1-10
+
+
+my link:http://paper.wenweipo.com/2016/01/11/YO1601110011.htm
+
+
+title:助男友販毒16歲孕婦斷正
+
+
+src:香港文匯報-,date=2016-1-10
+
+
+香港蘋果日報-2016年1月10日日期資訊不合格式
+my link:http://news.qoos.com/%E7%B2%B5%E5%AD%95%E5%A9%A6%E6%9F%93%E7%A6%BD%E6%B5%81%E6%AD%BB%E4%BA%A1%E5%B1%AC%E8%AC%A0%E8%A8%80-2000783.html
+
+
+title:粵孕婦染禽流死亡屬謠言
+
+
+src:Qoos News-,date=2016-1-10
+
+
+
+memory usage:850352\n
+logtime: 2016-01-12  18:30:37 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+my link:http://www.cna.com.tw/news/acn/201601110351-1.aspx
+
+
+title:陸9千萬對夫婦可生二孩半數年過40
+
+
+src:中央通訊社-,date=2016-1-11
+
+
+my link:http://news.ltn.com.tw/news/society/breakingnews/1568660
+
+
+title:轎車跨越雙黃線4車連環撞釀3傷
+
+
+src:自由時報電子報-,date=2016-1-10
+
+
+人間福報-9 小時前日期資訊不合格式
+無日期資訊
+my link:https://hk.news.yahoo.com/%E8%82%87%E6%85%B6%E7%94%A2%E5%A9%A6%E6%9F%93h5n6-%E8%AA%95b%E7%84%A1%E4%B8%AD%E6%8B%9B-215039447.html
+
+
+title:肇慶產婦染H5N6 誕B無中招
+
+
+src:雅虎香港-,date=2016-1-10
+
+
+my link:http://news.qoos.com/%E7%A6%BD%E6%B5%81%E6%AE%BA%E5%88%B0%E6%B7%B1%E7%A6%81%E5%94%AE%E6%B4%BB%E7%A6%BD%E4%B8%89%E5%91%A8-2000487.html
+
+
+title:禽流殺到深禁售活禽三周
+
+
+src:肇慶產婦染H5N6 誕B無中招雅虎香港-,date=2016-1-10
+
+
+並非正確新聞
+無日期資訊
+NTDTV-9 小時前日期資訊不合格式
+江西一女誕連體連肝雙胞胎男嬰NTDTV-9 小時前經過對孕婦及胎兒的相關檢查，8日15時45分，進行了剖宮產手術，孕婦娩出了2個連體活男嬰，體重4.1kg。 這2名男嬰身體連的比較緊，如果現在就做分離手術，雙方 ...日期資訊不合格式
+並非正確新聞
+香港新浪網-6 小時前日期資訊不合格式
+聯合新聞網-14 小時前日期資訊不合格式
+結合里民休閒蘆洲仁愛停車場開工聯合新聞網-14 小時前... 多平方公尺，一樓有二百坪市民活動中心和一百廿八坪半戶外活動廣場，二樓有兩百坪圖書館，同一樓層還有無障礙、孕婦專用、夜間婦女專用、充電車位共廿二席。日期資訊不合格式
+並非正確新聞
+my link:http://health.udn.com/health/story/6008/1429710-%E7%86%B1%E6%95%B7%E5%A2%8A%E7%87%99%E5%82%B7%E5%B1%A4%E5%87%BA%E4%B8%8D%E7%AA%AE-%E4%B8%83%E5%A4%A7%E6%8B%9B%E9%81%BF%E5%85%8D%E5%86%AC%E5%AD%A3%E5%82%B7%E5%AE%B3
+
+
+title:熱敷墊燙傷層出不窮七大招避免冬季傷害
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-10
+
+
+中時電子報-22 小時前日期資訊不合格式
+蘋果日報-2016年1月10日日期資訊不合格式
+
+memory usage:851504\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:9258
+start end:2016/01/10,2016/01/12logtime: 2016-01-12  18:31:17 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826352\n
+logtime: 2016-01-12  18:31:50 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827392\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:9258
+start end:2016/01/10,2016/01/12logtime: 2016-01-12  18:32:14 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-14 小時前日期資訊不合格式
+中時電子報-9 小時前日期資訊不合格式
+
+memory usage:834128\n
+logtime: 2016-01-12  18:32:42 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/10,cd_max:2016/01/12&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-14 小時前日期資訊不合格式
+中時電子報-9 小時前日期資訊不合格式
+
+memory usage:834152\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:18046
+start end:2016/01/11,2016/01/13logtime: 2016-01-13  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/11,cd_max:2016/01/13&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://www.epochtimes.com/b5/16/1/11/n4613845.htm
+
+
+發現重複:http://www.epochtimes.com/b5/16/1/11/n4613845.htm
+
+
+title:鄭州孕婦在飯店吃出蟑螂店主：這是特色
+
+
+src:大紀元-,date=2016-1-11
+
+
+自由時報電子報-2 小時前日期資訊不合格式
+my link:http://money.udn.com/money/story/5605/1436025-%E9%AB%98%E9%BD%A1%E5%AD%95%E5%A9%A6%E5%B0%87%E5%A4%A7%E5%A2%9E-%E5%84%AA%E7%94%9F%E5%84%AA%E8%82%B2%E6%8C%91%E6%88%B0%E5%A4%A7
+
+
+title:高齡孕婦將大增優生優育挑戰大
+
+
+src:聯合財經網-,date=2016-1-11
+
+
+ETtoday-1 小時前日期資訊不合格式
+無日期資訊
+my link:http://www.cna.com.tw/news/acn/201601110351-1.aspx
+
+
+發現重複:http://www.cna.com.tw/news/acn/201601110351-1.aspx
+
+
+title:陸9千萬對夫婦可生二孩半數年過40
+
+
+src:中央通訊社-,date=2016-1-11
+
+
+my link:http://www.epochtimes.com/b5/16/1/12/n4614479.htm
+
+
+my(child) pid:2211
+start end:2016/01/11,2016/01/13logtime: 2016-01-13  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/11,cd_max:2016/01/13&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://www.epochtimes.com/b5/16/1/11/n4613845.htm
+
+
+發現重複:http://www.epochtimes.com/b5/16/1/11/n4613845.htm
+
+
+title:鄭州孕婦在飯店吃出蟑螂店主：這是特色
+
+
+src:大紀元-,date=2016-1-11
+
+
+自由時報電子報-8 小時前日期資訊不合格式
+my link:http://money.udn.com/money/story/5605/1436025-%E9%AB%98%E9%BD%A1%E5%AD%95%E5%A9%A6%E5%B0%87%E5%A4%A7%E5%A2%9E-%E5%84%AA%E7%94%9F%E5%84%AA%E8%82%B2%E6%8C%91%E6%88%B0%E5%A4%A7
+
+
+發現重複:http://money.udn.com/money/story/5605/1436025-%E9%AB%98%E9%BD%A1%E5%AD%95%E5%A9%A6%E5%B0%87%E5%A4%A7%E5%A2%9E-%E5%84%AA%E7%94%9F%E5%84%AA%E8%82%B2%E6%8C%91%E6%88%B0%E5%A4%A7
+
+
+title:高齡孕婦將大增優生優育挑戰大
+
+
+src:聯合財經網-,date=2016-1-11
+
+
+ETtoday-7 小時前日期資訊不合格式
+臺灣新浪網-2 小時前日期資訊不合格式
+無日期資訊
+my link:http://www.cna.com.tw/news/acn/201601110351-1.aspx
+
+
+發現重複:http://www.cna.com.tw/news/acn/201601110351-1.aspx
+
+
+title:陸9千萬對夫婦可生二孩半數年過40
+
+
+src:中央通訊社-,date=2016-1-11
+
+
+my link:http://www.epochtimes.com/b5/16/1/12/n4614479.htm
+
+
+my(child) pid:9642
+start end:2016/01/12,2016/01/14logtime: 2016-01-14  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://news.ltn.com.tw/news/life/breakingnews/1570499
+
+
+title:高齡與高風險孕婦別忘了！羊膜穿刺檢驗有補助
+
+
+src:自由時報電子報-,date=2016-1-12
+
+
+雅虎香港-15 小時前日期資訊不合格式
+政府公布食水含鉛事件中最新市民驗血結果香港政府資訊中心 (新聞發布)-16 小時前 深入瞭解  (還有 2 篇報導)日期資訊不合格式
+並非正確新聞
+臺灣新浪網-8 小時前日期資訊不合格式
+元氣網 | 聯合新聞網 (新聞發布)-3 小時前日期資訊不合格式
+my link:http://www.ettoday.net/news/20160113/629867.htm
+
+
+title:書摘／一個動作解決懷孕時腰痛及四肢浮腫
+
+
+src:ETtoday-,date=2016-1-12
+
+
+臺灣新浪網-20 小時前日期資訊不合格式
+聯合新聞網-16 小時前日期資訊不合格式
+伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-16 小時前這回陸媒拍到她與秦昊同赴醫院，疑似去做產前檢查，隔天伊能靜又被拍到在書店翻閱孕婦書籍，似乎正為安胎做準備，而台灣媒體12日也捕捉到她出沒東區街頭，手 ...日期資訊不合格式
+並非正確新聞
+my link:http://health.udn.com/health/story/8429/1438928-%E5%AD%95%E5%AA%BD%E5%AA%BD%E7%87%9F%E9%A4%8A%E4%B8%8D%E5%9D%87-%E6%81%90%E5%BD%B1%E9%9F%BF%E8%83%8E%E5%85%92%E5%99%A8%E5%AE%98%E7%99%BC%E8%82%B2
+
+
+title:孕媽媽營養不均恐影響胎兒器官發育
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-12
+
+
+蘋果日報-2 小時前日期資訊不合格式
+【更新】最棒結婚周年禮物渡邊杏懷雙胞胎！蘋果日報-2 小時前最新一期《女性SEVEN》周刊報導，最近沒拍戲的她，其實已悄悄做人成功，上月中旬還被目擊到東京新宿的一家孕婦內衣專賣店，購買懷孕初期孕婦穿的細肩帶內衣， ...日期資訊不合格式
+並非正確新聞
+HiNet 新聞社群-14 小時前日期資訊不合格式
+
+memory usage:850952\n
+logtime: 2016-01-14  12:30:29 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+my link:http://www.orientaldaily.com.my/north/bm20203431
+
+
+title:熱氣球引大塞車建議易地辦嘉年華
+
+
+src:Oriental Daily News-,date=2016-1-12
+
+
+my link:http://www.cna.com.tw/magazine/37/201601120029-1.aspx
+
+
+title:出門口罩戴了嗎？孕媽咪如何防範空氣污染
+
+
+src:中央通訊社-,date=2016-1-12
+
+
+my link:http://paper.wenweipo.com/2016/01/13/HK1601130012.htm
+
+
+title:「香港優先」政策漸次頒佈
+
+
+src:香港文匯報-,date=2016-1-12
+
+
+my link:http://www.ettoday.net/news/20160113/629072.htm
+
+
+title:服用中藥11注意事項空腹或飯後吃別搞混
+
+
+src:ETtoday-,date=2016-1-12
+
+
+華爾街日報-18 小時前日期資訊不合格式
+巴西進入盛夏蚊媒傳播的寨卡病毒流行華爾街日報-18 小時前巴西和國際衛生機構認為，被攜帶寨卡病毒之蚊蟲叮咬的孕婦數量不斷增加，這些孕婦通過胎盤將小頭癥傳給胎兒。小頭癥導致嬰兒的頭圍和頭骨小於正常嬰兒，這種 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+臺灣新浪網-22 小時前日期資訊不合格式
+馬鈴薯吃太多罹妊娠糖尿病風險高臺灣新浪網-22 小時前馬鈴薯，尤其是洋芋片吃得太多，容易讓孕婦罹患妊娠糖尿病。 美國「國家 ... 因此，研究人員建議孕婦多吃其他蔬菜和莢果類食品，譬如紅豆、綠豆、扁豆和豌豆。少吃點 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+臺灣新浪網-4 小時前日期資訊不合格式
+my link:http://hk.on.cc/hk/bkn/cnt/entertainment/20160112/bkn-20160112221548844-0112_00862_001.html
+
+
+title:邱海寧助貧困母嬰大肚安雅爆乳撐場
+
+
+src:on.cc東網 (註冊)-,date=2016-1-12
+
+
+my link:http://news.qoos.com/%E4%B8%AD%E5%9C%8B9000%E8%90%AC%E5%A4%AB%E5%A9%A6%E5%8F%AF%E7%94%9F%E4%BA%8C%E5%AD%A9%E3%80%80%E5%8D%8A%E6%95%B8%E5%B9%B4%E9%81%8E%E4%B8%8D%E6%83%91-2001296.html
+
+
+title:中國9000萬夫婦可生二孩半數年過不惑
+
+
+src:Qoos News-,date=2016-1-12
+
+
+ETtoday-19 小時前日期資訊不合格式
+
+memory usage:849912\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:9642
+start end:2016/01/12,2016/01/14logtime: 2016-01-14  12:30:50 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826320\n
+logtime: 2016-01-14  12:31:30 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827352\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:9642
+start end:2016/01/12,2016/01/14logtime: 2016-01-14  12:32:06 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+ETtoday-22 小時前日期資訊不合格式
+無日期資訊
+my link:http://money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=2593047001&amp;pu=News_0033_1
+
+
+發現重複:http://money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=2593047001&amp;pu=News_0033_1
+
+
+title:《台北股市》盤中焦點股：安勤、康舒、F-永冠、晶電、智易、科懋
+
+
+src:富聯網 MoneyLink-,date=2016-1-12
+
+
+
+memory usage:836448\n
+logtime: 2016-01-14  12:32:47 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+ETtoday-22 小時前日期資訊不合格式
+無日期資訊
+my link:http://money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=2593047001&amp;pu=News_0033_1
+
+
+發現重複:http://money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=2593047001&amp;pu=News_0033_1
+
+
+title:《台北股市》盤中焦點股：安勤、康舒、F-永冠、晶電、智易、科懋
+
+
+src:富聯網 MoneyLink-,date=2016-1-12
+
+
+
+memory usage:836424\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:12437
+start end:2016/01/12,2016/01/14logtime: 2016-01-14  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://news.ltn.com.tw/news/life/breakingnews/1570499
+
+
+發現重複:http://news.ltn.com.tw/news/life/breakingnews/1570499
+
+
+title:高齡與高風險孕婦別忘了！羊膜穿刺檢驗有補助
+
+
+src:自由時報電子報-,date=2016-1-12
+
+
+雅虎香港-21 小時前日期資訊不合格式
+政府公布食水含鉛事件中最新市民驗血結果香港政府資訊中心 (新聞發布)-22 小時前 深入瞭解  (還有 2 篇報導)日期資訊不合格式
+並非正確新聞
+元氣網 | 聯合新聞網 (新聞發布)-9 小時前日期資訊不合格式
+臺灣新浪網-14 小時前日期資訊不合格式
+香港經濟日報-21 小時前日期資訊不合格式
+臺灣新浪網-16 分鐘前日期資訊不合格式
+聯合新聞網-2 小時前日期資訊不合格式
+on.cc東網台灣-4 分鐘前日期資訊不合格式
+my link:http://www.ettoday.net/news/20160113/629867.htm
+
+
+發現重複:http://www.ettoday.net/news/20160113/629867.htm
+
+
+title:書摘／一個動作解決懷孕時腰痛及四肢浮腫
+
+
+src:ETtoday-,date=2016-1-12
+
+
+my link:http://news.sina.com.tw/article/20160113/15953448.html
+
+
+title:女子將小狗揣入懷中假裝孕婦過安檢被識破
+
+
+src:臺灣新浪網-,date=2016-1-12
+
+
+
+memory usage:848800\n
+logtime: 2016-01-14  18:30:42 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+聯合新聞網-22 小時前日期資訊不合格式
+伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-22 小時前這回陸媒拍到她與秦昊同赴醫院，疑似去做產前檢查，隔天伊能靜又被拍到在書店翻閱孕婦書籍，似乎正為安胎做準備，而台灣媒體12日也捕捉到她出沒東區街頭，手 ...日期資訊不合格式
+伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-22 小時前這回陸媒拍到她與秦昊同赴醫院，疑似去做產前檢查，隔天伊能靜又被拍到在書店翻閱孕婦書籍，似乎正為安胎做準備，而台灣媒體12日也捕捉到她出沒東區街頭，手 ...日期資訊不合格式
+伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-22 小時前這回陸媒拍到她與秦昊同赴醫院，疑似去做產前檢查，隔天伊能靜又被拍到在書店翻閱孕婦書籍，似乎正為安胎做準備，而台灣媒體12日也捕捉到她出沒東區街頭，手 ...日期資訊不合格式
+伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-22 小時前這回陸媒拍到她與秦昊同赴醫院，疑似去做產前檢查，隔天伊能靜又被拍到在書店翻閱孕婦書籍，似乎正為安胎做準備，而台灣媒體12日也捕捉到她出沒東區街頭，手 ...日期資訊不合格式
+伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-22 小時前這回陸媒拍到她與秦昊同赴醫院，疑似去做產前檢查，隔天伊能靜又被拍到在書店翻閱孕婦書籍，似乎正為安胎做準備，而台灣媒體12日也捕捉到她出沒東區街頭，手 ...日期資訊不合格式
+ 深入瞭解  (還有 52 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 52 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 52 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 52 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 52 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 52 篇報導)日期資訊不合格式
+並非正確新聞
+my link:http://health.udn.com/health/story/8429/1438928-%E5%AD%95%E5%AA%BD%E5%AA%BD%E7%87%9F%E9%A4%8A%E4%B8%8D%E5%9D%87-%E6%81%90%E5%BD%B1%E9%9F%BF%E8%83%8E%E5%85%92%E5%99%A8%E5%AE%98%E7%99%BC%E8%82%B2
+
+
+發現重複:http://health.udn.com/health/story/8429/1438928-%E5%AD%95%E5%AA%BD%E5%AA%BD%E7%87%9F%E9%A4%8A%E4%B8%8D%E5%9D%87-%E6%81%90%E5%BD%B1%E9%9F%BF%E8%83%8E%E5%85%92%E5%99%A8%E5%AE%98%E7%99%BC%E8%82%B2
+
+
+title:孕媽媽營養不均恐影響胎兒器官發育
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-12
+
+
+蘋果日報-8 小時前日期資訊不合格式
+【更新】最棒結婚周年禮物渡邊杏懷雙胞胎！蘋果日報-8 小時前最新一期《女性SEVEN》周刊報導，最近沒拍戲的她，其實已悄悄做人成功，上月中旬還被目擊到東京新宿的一家孕婦內衣專賣店，購買懷孕初期孕婦穿的細肩帶內衣， ...日期資訊不合格式
+並非正確新聞
+聯合新聞網-2 小時前日期資訊不合格式
+無日期資訊
+my link:http://www.orientaldaily.com.my/north/bm20203431
+
+
+發現重複:http://www.orientaldaily.com.my/north/bm20203431
+
+
+title:熱氣球引大塞車建議易地辦嘉年華
+
+
+src:Oriental Daily News-,date=2016-1-12
+
+
+my link:http://www.cna.com.tw/magazine/37/201601120029-1.aspx
+
+
+發現重複:http://www.cna.com.tw/magazine/37/201601120029-1.aspx
+
+
+title:出門口罩戴了嗎？孕媽咪如何防範空氣污染
+
+
+src:中央通訊社-,date=2016-1-12
+
+
+my link:http://paper.wenweipo.com/2016/01/13/HK1601130012.htm
+
+
+發現重複:http://paper.wenweipo.com/2016/01/13/HK1601130012.htm
+
+
+title:「香港優先」政策漸次頒佈
+
+
+src:香港文匯報-,date=2016-1-12
+
+
+my link:http://www.ettoday.net/news/20160113/629072.htm
+
+
+發現重複:http://www.ettoday.net/news/20160113/629072.htm
+
+
+title:服用中藥11注意事項空腹或飯後吃別搞混
+
+
+src:ETtoday-,date=2016-1-12
+
+
+華爾街日報-2016年1月13日日期資訊不合格式
+巴西進入盛夏蚊媒傳播的寨卡病毒流行華爾街日報-2016年1月13日巴西和國際衛生機構認為，被攜帶寨卡病毒之蚊蟲叮咬的孕婦數量不斷增加，這些孕婦通過胎盤將小頭癥傳給胎兒。小頭癥導致嬰兒的頭圍和頭骨小於正常嬰兒，這種 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://news.sina.com.tw/article/20160113/15953043.html
+
+
+title:馬鈴薯吃太多罹妊娠糖尿病風險高
+
+
+src:臺灣新浪網-,date=2016-1-12
+
+
+my link:http://big5.soundofhope.org/node/684230
+
+
+title:最新發現妊娠糖尿病與馬鈴薯攝取量有關
+
+
+src:馬鈴薯吃太多罹妊娠糖尿病風險高臺灣新浪網-,date=2016-1-12
+
+
+並非正確新聞
+
+memory usage:857096\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:12437
+start end:2016/01/12,2016/01/14logtime: 2016-01-14  18:31:22 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826512\n
+logtime: 2016-01-14  18:31:49 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827544\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:12437
+start end:2016/01/12,2016/01/14logtime: 2016-01-14  18:32:26 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://www.ettoday.net/news/20160113/629994.htm
+
+
+title:婚宴龍頭典華往南拓點最快年底登場
+
+
+src:ETtoday-,date=2016-1-12
+
+
+無日期資訊
+my link:http://money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=2593047001&amp;pu=News_0033_1
+
+
+發現重複:http://money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=2593047001&amp;pu=News_0033_1
+
+
+title:《台北股市》盤中焦點股：安勤、康舒、F-永冠、晶電、智易、科懋
+
+
+src:富聯網 MoneyLink-,date=2016-1-12
+
+
+
+memory usage:836560\n
+logtime: 2016-01-14  18:33:00 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/12,cd_max:2016/01/14&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://www.ettoday.net/news/20160113/629994.htm
+
+
+發現重複:http://www.ettoday.net/news/20160113/629994.htm
+
+
+title:婚宴龍頭典華往南拓點最快年底登場
+
+
+src:ETtoday-,date=2016-1-12
+
+
+無日期資訊
+my link:http://money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=2593047001&amp;pu=News_0033_1
+
+
+發現重複:http://money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=2593047001&amp;pu=News_0033_1
+
+
+title:《台北股市》盤中焦點股：安勤、康舒、F-永冠、晶電、智易、科懋
+
+
+src:富聯網 MoneyLink-,date=2016-1-12
+
+
+
+memory usage:836600\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:31246
+start end:2016/01/13,2016/01/15logtime: 2016-01-15  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://news.ltn.com.tw/news/local/paper/949168
+
+
+title:高風險孕婦羊膜穿刺檢驗補助提高
+
+
+src:自由時報電子報-,date=2016-1-13
+
+
+my link:https://hk.news.yahoo.com/%E6%94%BF%E5%BA%9C%E7%A8%B1%E9%A9%97%E8%A1%80%E9%A1%AF%E7%A4%BA2%E5%90%8D%E5%AD%95%E5%A9%A6%E8%A1%80%E9%89%9B%E6%B0%B4%E5%B9%B3%E6%AD%A3%E5%B8%B8-122939942.html
+
+
+title:政府稱驗血顯示2名孕婦血鉛水平正常
+
+
+src:雅虎香港-,date=2016-1-13
+
+
+my link:http://www.info.gov.hk/gia/general/201601/13/P201601130829.htm
+
+
+title:政府公布食水含鉛事件中最新市民驗血結果
+
+
+src:政府公布食水含鉛事件中最新市民驗血結果香港政府資訊中心 (新聞發布)-,date=2016-1-13
+
+
+並非正確新聞
+台灣大紀元-12 小時前日期資訊不合格式
+家自產老人、空姐、小孩、孕婦都愛喝台灣大紀元-12 小時前陳家三代養雞，陳家父親養過土雞、白肉雞、珍珠雞等，現在自己的農地上飼養的是昂貴的鬥雞「種雞」。陳正倫表示，上游會不會養雞，下游肉雞飼主最清楚，下游廠商曾 ...日期資訊不合格式
+並非正確新聞
+my link:http://health.udn.com/health/story/6056/1438956-%E9%81%BF%E5%85%8D%E7%94%A2%E5%BE%8C%E8%82%A5%E8%83%96-%E5%BE%9E%E7%94%A2%E5%89%8D%E5%B0%B1%E6%87%89%E5%81%9A%E6%BA%96%E5%82%99
+
+
+title:避免產後肥胖從產前就應做準備
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-13
+
+
+my link:http://news.sina.com.tw/article/20160114/15957558.html
+
+
+title:張梓琳曬營養孕婦餐網友調侃吃得太少
+
+
+src:臺灣新浪網-,date=2016-1-13
+
+
+臺灣新浪網-18 小時前日期資訊不合格式
+on.cc東網台灣-18 小時前日期資訊不合格式
+香港經濟日報-2016年1月13日日期資訊不合格式
+聯合新聞網-20 小時前日期資訊不合格式
+蘋果日報-12 小時前日期資訊不合格式
+【獨家】伊能靜自然受孕用黃體素安胎成功蘋果日報-12 小時前但蘇怡寧指該院提供的非侵入性產前基因與子癲前症篩檢，可取代羊膜穿刺，在孕婦懷孕12周前，抽母血即知胎兒有無唐氏症等異常，準確率99.7%，但需自費2萬多元 ...日期資訊不合格式
+並非正確新聞
+
+memory usage:849640\n
+logtime: 2016-01-15  12:30:31 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://udn.com/news/story/7260/1440059-%E4%BC%8A%E8%83%BD%E9%9D%9C%E8%A2%AB%E5%82%B3%E6%87%B7%E5%AD%95%E5%86%8D%E6%94%BE%E9%96%83-%E6%9B%9D%E5%85%89%E3%80%8C%E7%A7%A6%E5%85%88%E7%94%9F%E3%80%8D%E7%A7%81%E4%B8%8B%E6%BA%AB%E6%9A%96%E9%9D%A2
+
+
+title:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面
+
+
+src:聯合新聞網-,date=2016-1-13
+
+
+my link:http://star.ettoday.net/news/630321
+
+
+title:伊能靜46歲證實懷第2胎！ 前夫哈林「恭喜」送祝福
+
+
+src:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-,date=2016-1-13
+
+
+my link:http://eladies.sina.com.tw/getnews.php?newsid=142798
+
+
+title:伊能靜挺大肚上街二胎確定庾
+
+
+src:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-,date=2016-1-13
+
+
+my link:http://www.appledaily.com.tw/realtimenews/article/new/20160113/773529/
+
+
+title:【獨家直擊】哈林捎來祝福～恭喜前妻伊能靜懷2胎
+
+
+src:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-,date=2016-1-13
+
+
+my link:http://www.chinapress.com.my/20160113/%E4%BC%8A%E8%83%BD%E9%9D%9C%E5%B9%B8%E7%A6%8F%E5%9C%93/
+
+
+title:伊能靜幸福圓
+
+
+src:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-,date=2016-1-13
+
+
+ 深入瞭解  (還有 73 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 73 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 73 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 73 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 73 篇報導)日期資訊不合格式
+並非正確新聞
+蘋果日報-2016年1月13日日期資訊不合格式
+【更新】最棒結婚周年禮物渡邊杏懷雙胞胎！蘋果日報-2016年1月13日最新一期《女性SEVEN》周刊報導，最近沒拍戲的她，其實已悄悄做人成功，上月中旬還被目擊到東京新宿的一家孕婦內衣專賣店，購買懷孕初期孕婦穿的細肩帶內衣， ...日期資訊不合格式
+【更新】最棒結婚周年禮物渡邊杏懷雙胞胎！蘋果日報-2016年1月13日最新一期《女性SEVEN》周刊報導，最近沒拍戲的她，其實已悄悄做人成功，上月中旬還被目擊到東京新宿的一家孕婦內衣專賣店，購買懷孕初期孕婦穿的細肩帶內衣， ...日期資訊不合格式
+ 深入瞭解  (還有 17 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 17 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 17 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 17 篇報導)日期資訊不合格式
+並非正確新聞
+聯合新聞網-20 小時前日期資訊不合格式
+中時電子報-2 小時前日期資訊不合格式
+中央廣播電台-59 分鐘前日期資訊不合格式
+華爾街日報-2016年1月13日日期資訊不合格式
+巴西進入盛夏蚊媒傳播的寨卡病毒流行華爾街日報-2016年1月13日巴西和國際衛生機構認為，被攜帶寨卡病毒之蚊蟲叮咬的孕婦數量不斷增加，這些孕婦通過胎盤將小頭癥傳給胎兒。小頭癥導致嬰兒的頭圍和頭骨小於正常嬰兒，這種 ...日期資訊不合格式
+並非正確新聞
+星洲日報-2016年1月13日日期資訊不合格式
+聯合新聞網-16 小時前日期資訊不合格式
+my link:http://www.ettoday.net/news/20160113/630013.htm
+
+
+title:超稱職哥哥！黃金獵犬看弟弟哭拿玩具哄他開心
+
+
+src:ETtoday-,date=2016-1-13
+
+
+my link:http://www.setn.com/News.aspx?NewsID=118222
+
+
+title:緣分！女同志伴侶同時懷孕兩兒子出世只隔四天
+
+
+src:三立新聞網 (新聞發布)-,date=2016-1-13
+
+
+
+memory usage:857864\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:31246
+start end:2016/01/13,2016/01/15logtime: 2016-01-15  12:31:08 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826344\n
+logtime: 2016-01-15  12:31:45 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827352\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:31246
+start end:2016/01/13,2016/01/15logtime: 2016-01-15  12:32:25 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826504\n
+logtime: 2016-01-15  12:33:01 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827544\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:2747
+start end:2016/01/13,2016/01/15logtime: 2016-01-15  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://news.ltn.com.tw/news/local/paper/949168
+
+
+發現重複:http://news.ltn.com.tw/news/local/paper/949168
+
+
+title:高風險孕婦羊膜穿刺檢驗補助提高
+
+
+src:自由時報電子報-,date=2016-1-13
+
+
+my link:https://hk.news.yahoo.com/%E6%94%BF%E5%BA%9C%E7%A8%B1%E9%A9%97%E8%A1%80%E9%A1%AF%E7%A4%BA2%E5%90%8D%E5%AD%95%E5%A9%A6%E8%A1%80%E9%89%9B%E6%B0%B4%E5%B9%B3%E6%AD%A3%E5%B8%B8-122939942.html
+
+
+發現重複:https://hk.news.yahoo.com/%E6%94%BF%E5%BA%9C%E7%A8%B1%E9%A9%97%E8%A1%80%E9%A1%AF%E7%A4%BA2%E5%90%8D%E5%AD%95%E5%A9%A6%E8%A1%80%E9%89%9B%E6%B0%B4%E5%B9%B3%E6%AD%A3%E5%B8%B8-122939942.html
+
+
+title:政府稱驗血顯示2名孕婦血鉛水平正常
+
+
+src:雅虎香港-,date=2016-1-13
+
+
+my link:http://www.info.gov.hk/gia/general/201601/13/P201601130829.htm
+
+
+發現重複:http://www.info.gov.hk/gia/general/201601/13/P201601130829.htm
+
+
+title:政府公布食水含鉛事件中最新市民驗血結果
+
+
+src:政府公布食水含鉛事件中最新市民驗血結果香港政府資訊中心 (新聞發布)-,date=2016-1-13
+
+
+並非正確新聞
+中時電子報-3 小時前日期資訊不合格式
+my link:http://health.udn.com/health/story/6056/1438956-%E9%81%BF%E5%85%8D%E7%94%A2%E5%BE%8C%E8%82%A5%E8%83%96-%E5%BE%9E%E7%94%A2%E5%89%8D%E5%B0%B1%E6%87%89%E5%81%9A%E6%BA%96%E5%82%99
+
+
+發現重複:http://health.udn.com/health/story/6056/1438956-%E9%81%BF%E5%85%8D%E7%94%A2%E5%BE%8C%E8%82%A5%E8%83%96-%E5%BE%9E%E7%94%A2%E5%89%8D%E5%B0%B1%E6%87%89%E5%81%9A%E6%BA%96%E5%82%99
+
+
+title:避免產後肥胖從產前就應做準備
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-13
+
+
+my link:http://news.sina.com.tw/article/20160114/15957558.html
+
+
+發現重複:http://news.sina.com.tw/article/20160114/15957558.html
+
+
+title:張梓琳曬營養孕婦餐網友調侃吃得太少
+
+
+src:臺灣新浪網-,date=2016-1-13
+
+
+my link:http://news.sina.com.tw/article/20160114/15962323.html
+
+
+title:網傳甘肅某醫院「孕婦感染H7N9死亡」 醫院稱老謠新傳
+
+
+src:臺灣新浪網-,date=2016-1-14
+
+
+my link:https://tw.on.cc/cn/bkn/cnt/news/20160114/bkncn-20160114164422171-0114_05011_001.html
+
+
+title:穗猖狂色魔當街伸手入衫胸襲孕婦都不放過
+
+
+src:on.cc東網台灣-,date=2016-1-14
+
+
+大紀元-7 小時前日期資訊不合格式
+my link:http://www.epochtimes.com.tw/n154670/%E5%AE%B6%E8%87%AA%E7%94%A2-%E8%80%81%E4%BA%BA%E3%80%81%E7%A9%BA%E5%A7%90%E3%80%81%E5%B0%8F%E5%AD%A9%E3%80%81%E5%AD%95%E5%A9%A6%E9%83%BD%E6%84%9B%E5%96%9D.html
+
+
+title:家自產老人、空姐、小孩、孕婦都愛喝
+
+
+src:農家自產老人、空姐、小孩、孕婦都愛喝大紀元-7 小時前... 【大紀元,date=2016-01-14
+
+
+並非正確新聞
+香港經濟日報-2016年1月13日日期資訊不合格式
+my link:http://udn.com/news/story/7027/1441857
+
+
+title:孕期貧血的預防×改善
+
+
+src:聯合新聞網-,date=2016-1-14
+
+
+
+memory usage:848808\n
+logtime: 2016-01-15  18:30:40 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+蘋果日報-18 小時前日期資訊不合格式
+【獨家】伊能靜自然受孕用黃體素安胎成功蘋果日報-18 小時前但蘇怡寧指該院提供的非侵入性產前基因與子癲前症篩檢，可取代羊膜穿刺，在孕婦懷孕12周前，抽母血即知胎兒有無唐氏症等異常，準確率99.7%，但需自費2萬多元 ...日期資訊不合格式
+【獨家】伊能靜自然受孕用黃體素安胎成功蘋果日報-18 小時前但蘇怡寧指該院提供的非侵入性產前基因與子癲前症篩檢，可取代羊膜穿刺，在孕婦懷孕12周前，抽母血即知胎兒有無唐氏症等異常，準確率99.7%，但需自費2萬多元 ...日期資訊不合格式
+【獨家】伊能靜自然受孕用黃體素安胎成功蘋果日報-18 小時前但蘇怡寧指該院提供的非侵入性產前基因與子癲前症篩檢，可取代羊膜穿刺，在孕婦懷孕12周前，抽母血即知胎兒有無唐氏症等異常，準確率99.7%，但需自費2萬多元 ...日期資訊不合格式
+並非正確新聞
+my link:http://udn.com/news/story/7260/1440059-%E4%BC%8A%E8%83%BD%E9%9D%9C%E8%A2%AB%E5%82%B3%E6%87%B7%E5%AD%95%E5%86%8D%E6%94%BE%E9%96%83-%E6%9B%9D%E5%85%89%E3%80%8C%E7%A7%A6%E5%85%88%E7%94%9F%E3%80%8D%E7%A7%81%E4%B8%8B%E6%BA%AB%E6%9A%96%E9%9D%A2
+
+
+發現重複:http://udn.com/news/story/7260/1440059-%E4%BC%8A%E8%83%BD%E9%9D%9C%E8%A2%AB%E5%82%B3%E6%87%B7%E5%AD%95%E5%86%8D%E6%94%BE%E9%96%83-%E6%9B%9D%E5%85%89%E3%80%8C%E7%A7%A6%E5%85%88%E7%94%9F%E3%80%8D%E7%A7%81%E4%B8%8B%E6%BA%AB%E6%9A%96%E9%9D%A2
+
+
+title:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面
+
+
+src:聯合新聞網-,date=2016-1-13
+
+
+my link:http://star.ettoday.net/news/630321
+
+
+發現重複:http://star.ettoday.net/news/630321
+
+
+title:伊能靜46歲證實懷第2胎！ 前夫哈林「恭喜」送祝福
+
+
+src:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-,date=2016-1-13
+
+
+my link:http://eladies.sina.com.tw/getnews.php?newsid=142798
+
+
+發現重複:http://eladies.sina.com.tw/getnews.php?newsid=142798
+
+
+title:伊能靜挺大肚上街二胎確定庾
+
+
+src:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-,date=2016-1-13
+
+
+my link:http://www.appledaily.com.tw/realtimenews/article/new/20160113/773529/
+
+
+發現重複:http://www.appledaily.com.tw/realtimenews/article/new/20160113/773529/
+
+
+title:【獨家直擊】哈林捎來祝福～恭喜前妻伊能靜懷2胎
+
+
+src:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-,date=2016-1-13
+
+
+my link:http://www.chinapress.com.my/20160113/%E4%BC%8A%E8%83%BD%E9%9D%9C%E5%B9%B8%E7%A6%8F%E5%9C%93/
+
+
+發現重複:http://www.chinapress.com.my/20160113/%E4%BC%8A%E8%83%BD%E9%9D%9C%E5%B9%B8%E7%A6%8F%E5%9C%93/
+
+
+title:伊能靜幸福圓
+
+
+src:伊能靜被傳懷孕再放閃曝光「秦先生」私下溫暖面聯合新聞網-,date=2016-1-13
+
+
+ 深入瞭解  (還有 79 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 79 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 79 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 79 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 79 篇報導)日期資訊不合格式
+並非正確新聞
+蘋果日報-2016年1月13日日期資訊不合格式
+【更新】最棒結婚周年禮物渡邊杏懷雙胞胎！蘋果日報-2016年1月13日最新一期《女性SEVEN》周刊報導，最近沒拍戲的她，其實已悄悄做人成功，上月中旬還被目擊到東京新宿的一家孕婦內衣專賣店，購買懷孕初期孕婦穿的細肩帶內衣， ...日期資訊不合格式
+【更新】最棒結婚周年禮物渡邊杏懷雙胞胎！蘋果日報-2016年1月13日最新一期《女性SEVEN》周刊報導，最近沒拍戲的她，其實已悄悄做人成功，上月中旬還被目擊到東京新宿的一家孕婦內衣專賣店，購買懷孕初期孕婦穿的細肩帶內衣， ...日期資訊不合格式
+ 深入瞭解  (還有 17 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 17 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 17 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 17 篇報導)日期資訊不合格式
+並非正確新聞
+my link:http://udn.com/news/story/7027/1441808
+
+
+title:孕媽咪如何防範空氣污染
+
+
+src:聯合新聞網-,date=2016-1-14
+
+
+中時電子報-8 小時前日期資訊不合格式
+yam天空新聞-6 小時前日期資訊不合格式
+ETtoday-34 分鐘前日期資訊不合格式
+華爾街日報-2016年1月13日日期資訊不合格式
+巴西進入盛夏蚊媒傳播的寨卡病毒流行華爾街日報-2016年1月13日巴西和國際衛生機構認為，被攜帶寨卡病毒之蚊蟲叮咬的孕婦數量不斷增加，這些孕婦通過胎盤將小頭癥傳給胎兒。小頭癥導致嬰兒的頭圍和頭骨小於正常嬰兒，這種 ...日期資訊不合格式
+並非正確新聞
+星洲日報-2016年1月13日日期資訊不合格式
+聯合新聞網-22 小時前日期資訊不合格式
+
+memory usage:860064\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:2747
+start end:2016/01/13,2016/01/15logtime: 2016-01-15  18:31:08 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826504\n
+logtime: 2016-01-15  18:31:48 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827528\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:2747
+start end:2016/01/13,2016/01/15logtime: 2016-01-15  18:32:24 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826688\n
+logtime: 2016-01-15  18:33:06 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/13,cd_max:2016/01/15&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827728\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:10051
+start end:2016/01/14,2016/01/16logtime: 2016-01-16  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+中時電子報-21 小時前日期資訊不合格式
+屍體產子？神奇的死後現象中時電子報-21 小時前然而有一種現象稱作死後分娩，也就是孕婦在死後於棺柩內產子的神奇現象。歷史上最早有關棺中產子的文獻記錄是1551年：一名西班牙宗教法庭受害者，被掛在絞刑 ...日期資訊不合格式
+並非正確新聞
+my link:http://www.epochtimes.com.tw/n154670/%E5%AE%B6%E8%87%AA%E7%94%A2-%E8%80%81%E4%BA%BA%E3%80%81%E7%A9%BA%E5%A7%90%E3%80%81%E5%B0%8F%E5%AD%A9%E3%80%81%E5%AD%95%E5%A9%A6%E9%83%BD%E6%84%9B%E5%96%9D.html
+
+
+發現重複:http://www.epochtimes.com.tw/n154670/%E5%AE%B6%E8%87%AA%E7%94%A2-%E8%80%81%E4%BA%BA%E3%80%81%E7%A9%BA%E5%A7%90%E3%80%81%E5%B0%8F%E5%AD%A9%E3%80%81%E5%AD%95%E5%A9%A6%E9%83%BD%E6%84%9B%E5%96%9D.html
+
+
+title:家自產老人、空姐、小孩、孕婦都愛喝
+
+
+src:台灣大紀元-,date=2016-1-14
+
+
+my link:http://www.epochtimes.com/b5/16/1/14/n4616587.htm
+
+
+title:農家自產老人、空姐、小孩、孕婦都愛喝
+
+
+src:家自產老人、空姐、小孩、孕婦都愛喝台灣大紀元-,date=2016-1-14
+
+
+並非正確新聞
+my link:http://tw.on.cc/cn/bkn/cnt/news/20160114/bkncn-20160114164422171-0114_05011_001.html
+
+
+title:穗猖狂色魔當街伸手入衫胸襲孕婦都不放過
+
+
+src:on.cc東網台灣-,date=2016-1-14
+
+
+my link:http://news.sina.com.tw/article/20160114/15962323.html
+
+
+發現重複:http://news.sina.com.tw/article/20160114/15962323.html
+
+
+title:網傳甘肅某醫院「孕婦感染H7N9死亡」 醫院稱老謠新傳
+
+
+src:臺灣新浪網-,date=2016-1-14
+
+
+my link:http://udn.com/news/story/7027/1441857
+
+
+發現重複:http://udn.com/news/story/7027/1441857
+
+
+title:孕期貧血的預防×改善
+
+
+src:聯合新聞網-,date=2016-1-14
+
+
+蘋果日報-2016年1月14日日期資訊不合格式
+【獨家】伊能靜自然受孕用黃體素安胎成功蘋果日報-2016年1月14日但蘇怡寧指該院提供的非侵入性產前基因與子癲前症篩檢，可取代羊膜穿刺，在孕婦懷孕12周前，抽母血即知胎兒有無唐氏症等異常，準確率99.7%，但需自費2萬多元 ...日期資訊不合格式
+並非正確新聞
+Qoos News-21 小時前日期資訊不合格式
+yam天空新聞-3 小時前日期資訊不合格式
+my link:http://udn.com/news/story/7027/1441808
+
+
+發現重複:http://udn.com/news/story/7027/1441808
+
+
+title:孕媽咪如何防範空氣污染
+
+
+src:聯合新聞網-,date=2016-1-14
+
+
+my link:http://www.chinatimes.com/realtimenews/20160115002447-260405
+
+
+title:擔心嬰兒畸形？孕媽咪防止感冒的小撇步
+
+
+src:中時電子報-,date=2016-1-14
+
+
+
+memory usage:850792\n
+logtime: 2016-01-16  12:30:29 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://n.yam.com/rti/healthy/20160115/20160115509103.html
+
+
+title:吃魚助胎兒腦部發育研究有新解
+
+
+src:yam天空新聞-,date=2016-1-14
+
+
+無日期資訊
+my link:https://hk.news.yahoo.com/%E6%B8%A1%E9%82%8A%E6%9D%8F%E5%96%9C%E6%87%B7%E5%AD%96%E8%83%8E%E5%AE%A3%E5%91%8A%E5%81%9C%E5%B7%A5-215522836.html
+
+
+title:渡邊杏喜懷孖胎宣告停工
+
+
+src:雅虎香港-,date=2016-1-14
+
+
+my link:http://udn.com/news/story/7265/1442395-%E6%9D%B1%E5%87%BA%E6%98%8C%E5%A4%A7%E3%80%81%E6%9D%8F%E5%8B%95%E4%BD%9C%E5%BF%AB-%E5%A4%8F%E5%A4%A9%E7%95%B6%E9%9B%99%E8%83%9E%E8%83%8E%E7%88%B6%E6%AF%8D
+
+
+title:東出昌大、杏動作快夏天當雙胞胎父母
+
+
+src:渡邊杏喜懷孖胎宣告停工雅虎香港-,date=2016-1-14
+
+
+並非正確新聞
+自由時報電子報-14 小時前日期資訊不合格式
+ETtoday-18 小時前日期資訊不合格式
+新唐人亞太電視台-14 小時前日期資訊不合格式
+my link:http://udn.com/news/story/7260/1442377-%E8%BA%AB%E5%88%86%E8%AD%89%E5%B9%B4%E9%BD%A1%E2%89%A0%E5%8D%B5%E5%B7%A2%E5%B9%B4%E9%BD%A1%EF%BC%81%E9%AB%98%E9%BD%A1%E7%94%A2%E5%A9%A6%E4%B9%9F%E8%83%BD%E6%87%B7%E5%81%A5%E5%BA%B7%E5%AF%B6%E5%AF%B6
+
+
+title:身分證年齡≠卵巢年齡！高齡產婦也能懷健康寶寶
+
+
+src:聯合新聞網-,date=2016-1-14
+
+
+my link:http://www.chinatimes.com/newspapers/20160115000851-260309
+
+
+title:猴寶寶碰上二孩陸媽咪搶好孕
+
+
+src:中時電子報-,date=2016-1-14
+
+
+my link:https://www.top1health.com/Article/34084
+
+
+title:無法比讚？1招自我檢測有無「媽媽手」
+
+
+src:華人健康網-,date=2016-1-14
+
+
+my link:http://www2.finet.hk/Newscenter/news_detail/569875c8e4b0f12cdc097509
+
+
+title:和中移民美國移民2015年大盤點
+
+
+src:財華網-,date=2016-1-14
+
+
+my link:http://www.ntdtv.com/xtr/b5/2016/01/15/a1247276.html
+
+
+title:加拿大阿省新手母親很放鬆政府送「寶寶禮箱」 專人輔導
+
+
+src:NTDTV-,date=2016-1-14
+
+
+
+memory usage:848944\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:10051
+start end:2016/01/14,2016/01/16logtime: 2016-01-16  12:30:51 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826680\n
+logtime: 2016-01-16  12:31:26 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827704\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:10051
+start end:2016/01/14,2016/01/16logtime: 2016-01-16  12:32:03 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826864\n
+logtime: 2016-01-16  12:32:42 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827904\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:12287
+start end:2016/01/14,2016/01/16logtime: 2016-01-16  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+雅虎香港-1 小時前日期資訊不合格式
+茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-1 小時前法新社邁阿密15日電） 美國衛生官員今天針對加勒比海與拉丁美洲的14個國家與地區，發布茲卡病毒疫情的旅遊警訊，並要求孕婦避免前往疫區。 美國疾病管制暨預防 ...日期資訊不合格式
+茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-1 小時前法新社邁阿密15日電） 美國衛生官員今天針對加勒比海與拉丁美洲的14個國家與地區，發布茲卡病毒疫情的旅遊警訊，並要求孕婦避免前往疫區。 美國疾病管制暨預防 ...日期資訊不合格式
+茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-1 小時前法新社邁阿密15日電） 美國衛生官員今天針對加勒比海與拉丁美洲的14個國家與地區，發布茲卡病毒疫情的旅遊警訊，並要求孕婦避免前往疫區。 美國疾病管制暨預防 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://photo.chinatimes.com/20160115003820-260809
+
+
+title:屍體產子？神奇的死後現象
+
+
+src:中時電子報-,date=2016-1-14
+
+
+my link:http://yes-news.com/yespick/89797/%E5%AD%95%E5%A9%A6%E6%AD%BB%E5%BE%8C%E7%94%A8%E4%BB%80%E9%BA%BC%E5%8A%9B%E9%87%8F%E7%94%9F%E5%AF%B6%E5%AF%B6%E6%AD%B7%E5%8F%B2%E4%B8%8A%E7%9A%84%E6%AD%BB%E5%BE%8C%E5%88%86%E5%A8%A9-%E6%8F%AD%E9%96%8B%E6%A3%BA%E6%9D%90%E7%94%A2%E5%AD%90%E8%83%8C%E5%BE%8C%E7%9A%84%E7%A7%98%E5%AF%86
+
+
+title:孕婦死後用什麼力量生寶寶？歷史上的「死後分娩」：揭開棺材產子背後 ...
+
+
+src:屍體產子？神奇的死後現象中時電子報-,date=2016-1-14
+
+
+並非正確新聞
+my link:http://www.epochtimes.com.tw/n154670/%E5%AE%B6%E8%87%AA%E7%94%A2-%E8%80%81%E4%BA%BA%E3%80%81%E7%A9%BA%E5%A7%90%E3%80%81%E5%B0%8F%E5%AD%A9%E3%80%81%E5%AD%95%E5%A9%A6%E9%83%BD%E6%84%9B%E5%96%9D.html
+
+
+發現重複:http://www.epochtimes.com.tw/n154670/%E5%AE%B6%E8%87%AA%E7%94%A2-%E8%80%81%E4%BA%BA%E3%80%81%E7%A9%BA%E5%A7%90%E3%80%81%E5%B0%8F%E5%AD%A9%E3%80%81%E5%AD%95%E5%A9%A6%E9%83%BD%E6%84%9B%E5%96%9D.html
+
+
+title:家自產老人、空姐、小孩、孕婦都愛喝
+
+
+src:台灣大紀元-,date=2016-1-14
+
+
+my link:http://www.epochtimes.com/b5/16/1/14/n4616587.htm
+
+
+發現重複:http://www.epochtimes.com/b5/16/1/14/n4616587.htm
+
+
+title:農家自產老人、空姐、小孩、孕婦都愛喝
+
+
+src:家自產老人、空姐、小孩、孕婦都愛喝台灣大紀元-,date=2016-1-14
+
+
+並非正確新聞
+my link:http://tw.on.cc/cn/bkn/cnt/news/20160114/bkncn-20160114164422171-0114_05011_001.html
+
+
+發現重複:http://tw.on.cc/cn/bkn/cnt/news/20160114/bkncn-20160114164422171-0114_05011_001.html
+
+
+title:穗猖狂色魔當街伸手入衫胸襲孕婦都不放過
+
+
+src:on.cc東網台灣-,date=2016-1-14
+
+
+my link:http://news.sina.com.tw/article/20160114/15962323.html
+
+
+發現重複:http://news.sina.com.tw/article/20160114/15962323.html
+
+
+title:網傳甘肅某醫院「孕婦感染H7N9死亡」 醫院稱老謠新傳
+
+
+src:臺灣新浪網-,date=2016-1-14
+
+
+my link:http://udn.com/news/story/7027/1441857
+
+
+發現重複:http://udn.com/news/story/7027/1441857
+
+
+title:孕期貧血的預防×改善
+
+
+src:聯合新聞網-,date=2016-1-14
+
+
+蘋果日報-2016年1月14日日期資訊不合格式
+【獨家】伊能靜自然受孕用黃體素安胎成功蘋果日報-2016年1月14日但蘇怡寧指該院提供的非侵入性產前基因與子癲前症篩檢，可取代羊膜穿刺，在孕婦懷孕12周前，抽母血即知胎兒有無唐氏症等異常，準確率99.7%，但需自費2萬多元 ...日期資訊不合格式
+並非正確新聞
+my link:http://news.qoos.com/%E5%BC%B5%E6%A2%93%E7%90%B3%E6%9B%AC%E7%87%9F%E9%A4%8A%E5%AD%95%E5%A9%A6%E9%A4%90-2002362.html
+
+
+title:張梓琳曬營養孕婦餐
+
+
+src:Qoos News-,date=2016-1-14
+
+
+yam天空新聞-9 小時前日期資訊不合格式
+my link:http://udn.com/news/story/7027/1441808
+
+
+發現重複:http://udn.com/news/story/7027/1441808
+
+
+title:孕媽咪如何防範空氣污染
+
+
+src:聯合新聞網-,date=2016-1-14
+
+
+
+memory usage:853712\n
+logtime: 2016-01-16  18:30:38 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+自由時報電子報-20 小時前日期資訊不合格式
+梁赫群妻下月卸貨感謝老公當歡樂送小弟自由時報電子報-20 小時前下月就要卸貨，Stacey今天在臉書開心的說「我的孕婦最後一哩路」，並感性的謝謝丈夫一路上的呵護：「穴穴老公，我會努力撐過，一起和你期待著小寶的到來der~。」.日期資訊不合格式
+並非正確新聞
+my link:http://www.chinatimes.com/realtimenews/20160115002447-260405
+
+
+發現重複:http://www.chinatimes.com/realtimenews/20160115002447-260405
+
+
+title:擔心嬰兒畸形？孕媽咪防止感冒的小撇步
+
+
+src:中時電子報-,date=2016-1-14
+
+
+my link:http://n.yam.com/rti/healthy/20160115/20160115509103.html
+
+
+發現重複:http://n.yam.com/rti/healthy/20160115/20160115509103.html
+
+
+title:吃魚助胎兒腦部發育研究有新解
+
+
+src:yam天空新聞-,date=2016-1-14
+
+
+無日期資訊
+my link:https://hk.news.yahoo.com/%E6%B8%A1%E9%82%8A%E6%9D%8F%E5%96%9C%E6%87%B7%E5%AD%96%E8%83%8E%E5%AE%A3%E5%91%8A%E5%81%9C%E5%B7%A5-215522836.html
+
+
+發現重複:https://hk.news.yahoo.com/%E6%B8%A1%E9%82%8A%E6%9D%8F%E5%96%9C%E6%87%B7%E5%AD%96%E8%83%8E%E5%AE%A3%E5%91%8A%E5%81%9C%E5%B7%A5-215522836.html
+
+
+title:渡邊杏喜懷孖胎宣告停工
+
+
+src:雅虎香港-,date=2016-1-14
+
+
+my link:http://udn.com/news/story/7265/1442395-%E6%9D%B1%E5%87%BA%E6%98%8C%E5%A4%A7%E3%80%81%E6%9D%8F%E5%8B%95%E4%BD%9C%E5%BF%AB-%E5%A4%8F%E5%A4%A9%E7%95%B6%E9%9B%99%E8%83%9E%E8%83%8E%E7%88%B6%E6%AF%8D
+
+
+發現重複:http://udn.com/news/story/7265/1442395-%E6%9D%B1%E5%87%BA%E6%98%8C%E5%A4%A7%E3%80%81%E6%9D%8F%E5%8B%95%E4%BD%9C%E5%BF%AB-%E5%A4%8F%E5%A4%A9%E7%95%B6%E9%9B%99%E8%83%9E%E8%83%8E%E7%88%B6%E6%AF%8D
+
+
+title:東出昌大、杏動作快夏天當雙胞胎父母
+
+
+src:渡邊杏喜懷孖胎宣告停工雅虎香港-,date=2016-1-14
+
+
+並非正確新聞
+my link:http://www.ettoday.net/news/20160115/631323.htm
+
+
+title:試闖虹橋火車站！妙齡女藏狗裝懷孕汪汪「胎動」破功
+
+
+src:ETtoday-,date=2016-1-15
+
+
+香港蘋果日報-9 小時前日期資訊不合格式
+新唐人亞太電視台-20 小時前日期資訊不合格式
+my link:http://udn.com/news/story/7260/1442377-%E8%BA%AB%E5%88%86%E8%AD%89%E5%B9%B4%E9%BD%A1%E2%89%A0%E5%8D%B5%E5%B7%A2%E5%B9%B4%E9%BD%A1%EF%BC%81%E9%AB%98%E9%BD%A1%E7%94%A2%E5%A9%A6%E4%B9%9F%E8%83%BD%E6%87%B7%E5%81%A5%E5%BA%B7%E5%AF%B6%E5%AF%B6
+
+
+發現重複:http://udn.com/news/story/7260/1442377-%E8%BA%AB%E5%88%86%E8%AD%89%E5%B9%B4%E9%BD%A1%E2%89%A0%E5%8D%B5%E5%B7%A2%E5%B9%B4%E9%BD%A1%EF%BC%81%E9%AB%98%E9%BD%A1%E7%94%A2%E5%A9%A6%E4%B9%9F%E8%83%BD%E6%87%B7%E5%81%A5%E5%BA%B7%E5%AF%B6%E5%AF%B6
+
+
+title:身分證年齡≠卵巢年齡！高齡產婦也能懷健康寶寶
+
+
+src:聯合新聞網-,date=2016-1-14
+
+
+my link:http://www.chinatimes.com/newspapers/20160115000851-260309
+
+
+發現重複:http://www.chinatimes.com/newspapers/20160115000851-260309
+
+
+title:猴寶寶碰上二孩陸媽咪搶好孕
+
+
+src:中時電子報-,date=2016-1-14
+
+
+my link:https://www.top1health.com/Article/34084
+
+
+發現重複:https://www.top1health.com/Article/34084
+
+
+title:無法比讚？1招自我檢測有無「媽媽手」
+
+
+src:華人健康網-,date=2016-1-14
+
+
+
+memory usage:850152\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:12287
+start end:2016/01/14,2016/01/16logtime: 2016-01-16  18:31:12 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826680\n
+logtime: 2016-01-16  18:31:49 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827712\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:12287
+start end:2016/01/14,2016/01/16logtime: 2016-01-16  18:32:18 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826856\n
+logtime: 2016-01-16  18:32:56 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/14,cd_max:2016/01/16&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827904\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:20038
+start end:2016/01/15,2016/01/17logtime: 2016-01-17  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+雅虎香港-19 小時前日期資訊不合格式
+茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-19 小時前法新社邁阿密15日電） 美國衛生官員今天針對加勒比海與拉丁美洲的14個國家與地區，發布茲卡病毒疫情的旅遊警訊，並要求孕婦避免前往疫區。 美國疾病管制暨預防 ...日期資訊不合格式
+茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-19 小時前法新社邁阿密15日電） 美國衛生官員今天針對加勒比海與拉丁美洲的14個國家與地區，發布茲卡病毒疫情的旅遊警訊，並要求孕婦避免前往疫區。 美國疾病管制暨預防 ...日期資訊不合格式
+茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-19 小時前法新社邁阿密15日電） 美國衛生官員今天針對加勒比海與拉丁美洲的14個國家與地區，發布茲卡病毒疫情的旅遊警訊，並要求孕婦避免前往疫區。 美國疾病管制暨預防 ...日期資訊不合格式
+茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-19 小時前法新社邁阿密15日電） 美國衛生官員今天針對加勒比海與拉丁美洲的14個國家與地區，發布茲卡病毒疫情的旅遊警訊，並要求孕婦避免前往疫區。 美國疾病管制暨預防 ...日期資訊不合格式
+ 深入瞭解  (還有 16 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 16 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 16 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 16 篇報導)日期資訊不合格式
+並非正確新聞
+my link:http://yes-news.com/yespick/89797/%E5%AD%95%E5%A9%A6%E6%AD%BB%E5%BE%8C%E7%94%A8%E4%BB%80%E9%BA%BC%E5%8A%9B%E9%87%8F%E7%94%9F%E5%AF%B6%E5%AF%B6%E6%AD%B7%E5%8F%B2%E4%B8%8A%E7%9A%84%E6%AD%BB%E5%BE%8C%E5%88%86%E5%A8%A9-%E6%8F%AD%E9%96%8B%E6%A3%BA%E6%9D%90%E7%94%A2%E5%AD%90%E8%83%8C%E5%BE%8C%E7%9A%84%E7%A7%98%E5%AF%86
+
+
+發現重複:http://yes-news.com/yespick/89797/%E5%AD%95%E5%A9%A6%E6%AD%BB%E5%BE%8C%E7%94%A8%E4%BB%80%E9%BA%BC%E5%8A%9B%E9%87%8F%E7%94%9F%E5%AF%B6%E5%AF%B6%E6%AD%B7%E5%8F%B2%E4%B8%8A%E7%9A%84%E6%AD%BB%E5%BE%8C%E5%88%86%E5%A8%A9-%E6%8F%AD%E9%96%8B%E6%A3%BA%E6%9D%90%E7%94%A2%E5%AD%90%E8%83%8C%E5%BE%8C%E7%9A%84%E7%A7%98%E5%AF%86
+
+
+title:孕婦死後用什麼力量生寶寶？歷史上的「死後分娩」：揭開棺材產子背後 ...
+
+
+src:熱新聞YesNews (新聞發布) (註冊)-,date=2016-1-15
+
+
+香港文匯報-17 小時前日期資訊不合格式
+on.cc東網台灣-3 小時前日期資訊不合格式
+無日期資訊
+臺灣新浪網-16 小時前日期資訊不合格式
+my link:http://hk.on.cc/cn/bkn/cnt/news/20160117/bkncn-20160117000139515-0117_05011_001.html
+
+
+title:中科院懷孕女職員死亡家屬打砸產房
+
+
+src:北大第三醫院回應網傳孕婦死亡:主動脈夾層破裂臺灣新浪網-16 小時前北醫三院產科患者楊女士，34歲，妊娠26+周(自然受孕)，高血壓合併子癇前期，,date=2015-12-28
+
+
+並非正確新聞
+my link:http://news.qoos.com/%E5%BC%B5%E6%A2%93%E7%90%B3%E6%9B%AC%E7%87%9F%E9%A4%8A%E5%AD%95%E5%A9%A6%E9%A4%90-2002362.html
+
+
+發現重複:http://news.qoos.com/%E5%BC%B5%E6%A2%93%E7%90%B3%E6%9B%AC%E7%87%9F%E9%A4%8A%E5%AD%95%E5%A9%A6%E9%A4%90-2002362.html
+
+
+title:張梓琳曬營養孕婦餐
+
+
+src:Qoos News-,date=2016-1-15
+
+
+my link:http://n.yam.com/top1health/healthy/20160116/20160116510765.html
+
+
+title:出門口罩戴了嗎？孕媽咪如何防範空氣污染
+
+
+src:yam天空新聞-,date=2016-1-15
+
+
+香港蘋果日報-7 小時前日期資訊不合格式
+my link:http://ent.ltn.com.tw/news/breakingnews/1573938
+
+
+title:梁赫群妻下月卸貨感謝老公當歡樂送小弟
+
+
+src:自由時報電子報-,date=2016-1-15
+
+
+梁赫群妻下月卸貨感謝老公當歡樂送小弟自由時報電子報-2016年1月15日下月就要卸貨，Stacey今天在臉書開心的說「我的孕婦最後一哩路」，並感性的謝謝丈夫一路上的呵護：「穴穴老公，我會努力撐過，一起和你期待著小寶的到來der~。」.日期資訊不合格式
+並非正確新聞
+香港蘋果日報-2016年1月15日日期資訊不合格式
+
+memory usage:854968\n
+logtime: 2016-01-17  12:30:46 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://www.ettoday.net/news/20160115/631323.htm
+
+
+發現重複:http://www.ettoday.net/news/20160115/631323.htm
+
+
+title:試闖虹橋火車站！妙齡女藏狗裝懷孕汪汪「胎動」破功
+
+
+src:ETtoday-,date=2016-1-15
+
+
+國際日報-12 小時前日期資訊不合格式
+my link:http://www.ntdtv.com.tw/b5/20160115/video/164083.html?%E3%80%8C%E9%AB%94%E5%85%A7%E5%96%87%E5%8F%AD%E3%80%8D%E6%96%B0%E7%99%BC%E6%98%8E%20%E8%83%8E%E6%95%99%E9%9F%B3%E6%A8%82%E5%86%8D%E6%99%89%E7%B4%9A
+
+
+title:「體內喇叭」新發明胎教音樂再晉級
+
+
+src:新唐人亞太電視台-,date=2016-1-15
+
+
+蘋果日報-1 小時前日期資訊不合格式
+蘋果日報-2 小時前日期資訊不合格式
+​自拍照暗藏浪漫密碼英男求婚148次蘋果日報-2 小時前當然我有點情緒激動，畢竟我是一名孕婦。」（國際中心／綜合外電報導）. 更多國際新聞請看蘋果繞著地球爆。 翻攝《都會報》. 翻攝《都會報》. 翻攝《都會報》. 【蘋論陣線】： ...日期資訊不合格式
+並非正確新聞
+香港蘋果日報-2016年1月15日日期資訊不合格式
+my link:http://times.hinet.net/news/16950942
+
+
+title:韓版步步驚心女主IU 清純美貌的打造秘訣
+
+
+src:HiNet 新聞社群-,date=2016-1-15
+
+
+中央廣播電台-11 分鐘前日期資訊不合格式
+Qoos News-20 小時前日期資訊不合格式
+Qoos News-21 小時前日期資訊不合格式
+
+memory usage:847480\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:20038
+start end:2016/01/15,2016/01/17logtime: 2016-01-17  12:31:18 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826640\n
+logtime: 2016-01-17  12:31:40 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827672\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:20038
+start end:2016/01/15,2016/01/17logtime: 2016-01-17  12:32:04 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826824\n
+logtime: 2016-01-17  12:32:37 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827864\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:22369
+start end:2016/01/15,2016/01/17logtime: 2016-01-17  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:https://hk.news.yahoo.com/%E8%8C%B2%E5%8D%A1%E7%97%85%E6%AF%92%E8%82%86%E8%99%90-%E7%BE%8E%E8%AD%A6%E5%91%8A%E5%AD%95%E5%A9%A6%E5%8B%BF%E5%89%8D%E5%BE%80%E6%8B%89%E7%BE%8E%E7%AD%89%E5%9C%B0%E5%8D%80-053502065.html
+
+
+title:茲卡病毒肆虐美警告孕婦勿前往拉美等地區
+
+
+src:雅虎香港-,date=2016-1-16
+
+
+my link:http://paper.wenweipo.com/2016/01/17/GJ1601170009.htm
+
+
+title:寨卡熱肆虐拉美美警告孕婦勿往
+
+
+src:茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-,date=2016-1-16
+
+
+my link:http://www.cna.com.tw/news/ahel/201601160137-1.aspx
+
+
+title:茲卡病毒肆虐拉美等地區美發布警告
+
+
+src:茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-,date=2016-1-16
+
+
+my link:http://big5.soundofhope.org/node/684908
+
+
+title:拉美爆發茲卡病毒美髮布旅遊警告
+
+
+src:茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-,date=2016-1-16
+
+
+my link:http://www.dbc.hk/me2/focus-detail/Id/111316/type/11/%E5%AF%A8%E5%8D%A1%E7%97%85%E6%AF%92%E8%82%86%E8%99%90%20%E5%B7%B4%E8%A5%BF%E8%87%B3%E5%B0%91%E6%95%B8%E5%8D%81%E4%BA%BA%E6%AD%BB%E4%BA%A1
+
+
+title:寨卡病毒肆虐巴西至少數十人死亡
+
+
+src:茲卡病毒肆虐美警告孕婦勿前往拉美等地區雅虎香港-,date=2016-1-16
+
+
+ 深入瞭解  (還有 27 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 27 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 27 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 27 篇報導)日期資訊不合格式
+並非正確新聞
+my link:http://yes-news.com/yespick/89797/%E5%AD%95%E5%A9%A6%E6%AD%BB%E5%BE%8C%E7%94%A8%E4%BB%80%E9%BA%BC%E5%8A%9B%E9%87%8F%E7%94%9F%E5%AF%B6%E5%AF%B6%E6%AD%B7%E5%8F%B2%E4%B8%8A%E7%9A%84%E6%AD%BB%E5%BE%8C%E5%88%86%E5%A8%A9-%E6%8F%AD%E9%96%8B%E6%A3%BA%E6%9D%90%E7%94%A2%E5%AD%90%E8%83%8C%E5%BE%8C%E7%9A%84%E7%A7%98%E5%AF%86
+
+
+發現重複:http://yes-news.com/yespick/89797/%E5%AD%95%E5%A9%A6%E6%AD%BB%E5%BE%8C%E7%94%A8%E4%BB%80%E9%BA%BC%E5%8A%9B%E9%87%8F%E7%94%9F%E5%AF%B6%E5%AF%B6%E6%AD%B7%E5%8F%B2%E4%B8%8A%E7%9A%84%E6%AD%BB%E5%BE%8C%E5%88%86%E5%A8%A9-%E6%8F%AD%E9%96%8B%E6%A3%BA%E6%9D%90%E7%94%A2%E5%AD%90%E8%83%8C%E5%BE%8C%E7%9A%84%E7%A7%98%E5%AF%86
+
+
+title:孕婦死後用什麼力量生寶寶？歷史上的「死後分娩」：揭開棺材產子背後 ...
+
+
+src:熱新聞YesNews (新聞發布) (註冊)-,date=2016-1-15
+
+
+蘋果日報-56 分鐘前日期資訊不合格式
+無日期資訊
+大紀元-1 小時前日期資訊不合格式
+my link:http://news.sina.com.tw/article/20160117/15978557.html
+
+
+title:北醫三院產婦事件最新進展：中國醫師協會發聲力挺北醫三院
+
+
+src:博士孕婦死亡引網絡戰役國家單位高調介入大紀元-1 小時前... 【大紀元,date=2016-01-17
+
+
+並非正確新聞
+on.cc東網台灣-9 小時前日期資訊不合格式
+my link:http://news.wenweipo.com/2016/01/16/IN1601160040.htm
+
+
+title:穗22歲孕婦臨登高鐵產下二胎男嬰
+
+
+src:香港文匯報-,date=2016-1-16
+
+
+on.cc東網 (註冊)-2 小時前日期資訊不合格式
+無日期資訊
+臺灣新浪網-22 小時前日期資訊不合格式
+my link:http://hk.on.cc/cn/bkn/cnt/news/20160117/bkncn-20160117000139515-0117_05011_001.html
+
+
+發現重複:http://hk.on.cc/cn/bkn/cnt/news/20160117/bkncn-20160117000139515-0117_05011_001.html
+
+
+title:中科院懷孕女職員死亡家屬打砸產房
+
+
+src:北大第三醫院回應網傳孕婦死亡:主動脈夾層破裂臺灣新浪網-22 小時前北醫三院產科患者楊女士，34歲，妊娠26+周(自然受孕)，高血壓合併子癇前期，,date=2015-12-28
+
+
+並非正確新聞
+臺灣新浪網-28 分鐘前日期資訊不合格式
+中國評論-17 小時前日期資訊不合格式
+
+memory usage:854872\n
+logtime: 2016-01-17  18:30:32 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://news.qoos.com/%E5%BC%B5%E6%A2%93%E7%90%B3%E6%9B%AC%E7%87%9F%E9%A4%8A%E5%AD%95%E5%A9%A6%E9%A4%90-2002362.html
+
+
+發現重複:http://news.qoos.com/%E5%BC%B5%E6%A2%93%E7%90%B3%E6%9B%AC%E7%87%9F%E9%A4%8A%E5%AD%95%E5%A9%A6%E9%A4%90-2002362.html
+
+
+title:張梓琳曬營養孕婦餐
+
+
+src:Qoos News-,date=2016-1-15
+
+
+my link:http://n.yam.com/top1health/healthy/20160116/20160116510765.html
+
+
+發現重複:http://n.yam.com/top1health/healthy/20160116/20160116510765.html
+
+
+title:出門口罩戴了嗎？孕媽咪如何防範空氣污染
+
+
+src:yam天空新聞-,date=2016-1-15
+
+
+香港蘋果日報-13 小時前日期資訊不合格式
+香港蘋果日報-2016年1月15日日期資訊不合格式
+蘋果日報-3 小時前日期資訊不合格式
+伊能靜高齡孕母曝養身祕訣「努力像小小秦的姊姊」蘋果日報-3 小時前她倡導清淡飲食，尤其是孕婦，不吃喝冰冷的飲料或食物；不喝碳酸飲料、零食、甜食；多吃水果以及別過度減肥。伊能靜並提到以前期許「站在170公分高的小王子身邊， ...日期資訊不合格式
+並非正確新聞
+my link:http://ent.ltn.com.tw/news/breakingnews/1573938
+
+
+發現重複:http://ent.ltn.com.tw/news/breakingnews/1573938
+
+
+title:梁赫群妻下月卸貨感謝老公當歡樂送小弟
+
+
+src:自由時報電子報-,date=2016-1-15
+
+
+梁赫群妻下月卸貨感謝老公當歡樂送小弟自由時報電子報-2016年1月15日下月就要卸貨，Stacey今天在臉書開心的說「我的孕婦最後一哩路」，並感性的謝謝丈夫一路上的呵護：「穴穴老公，我會努力撐過，一起和你期待著小寶的到來der~。」.日期資訊不合格式
+並非正確新聞
+my link:http://www.ettoday.net/news/20160115/631323.htm
+
+
+發現重複:http://www.ettoday.net/news/20160115/631323.htm
+
+
+title:試闖虹橋火車站！妙齡女藏狗裝懷孕汪汪「胎動」破功
+
+
+src:ETtoday-,date=2016-1-15
+
+
+國際日報-18 小時前日期資訊不合格式
+my link:http://www.ntdtv.com.tw/b5/20160115/video/164083.html?%E3%80%8C%E9%AB%94%E5%85%A7%E5%96%87%E5%8F%AD%E3%80%8D%E6%96%B0%E7%99%BC%E6%98%8E%20%E8%83%8E%E6%95%99%E9%9F%B3%E6%A8%82%E5%86%8D%E6%99%89%E7%B4%9A
+
+
+發現重複:http://www.ntdtv.com.tw/b5/20160115/video/164083.html?%E3%80%8C%E9%AB%94%E5%85%A7%E5%96%87%E5%8F%AD%E3%80%8D%E6%96%B0%E7%99%BC%E6%98%8E%20%E8%83%8E%E6%95%99%E9%9F%B3%E6%A8%82%E5%86%8D%E6%99%89%E7%B4%9A
+
+
+title:「體內喇叭」新發明胎教音樂再晉級
+
+
+src:新唐人亞太電視台-,date=2016-1-15
+
+
+元氣網 | 聯合新聞網 (新聞發布)-1 小時前日期資訊不合格式
+
+memory usage:851008\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:22369
+start end:2016/01/15,2016/01/17logtime: 2016-01-17  18:31:04 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-3 小時前日期資訊不合格式
+
+memory usage:833504\n
+logtime: 2016-01-17  18:31:27 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-3 小時前日期資訊不合格式
+
+memory usage:833536\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:22369
+start end:2016/01/15,2016/01/17logtime: 2016-01-17  18:31:48 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826824\n
+logtime: 2016-01-17  18:32:12 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/15,cd_max:2016/01/17&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827864\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:30312
+start end:2016/01/16,2016/01/18logtime: 2016-01-18  12:30:02 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+NTDTV-1 小時前日期資訊不合格式
+湖南曝凶殘命案退役武警連殺6人孕婦不放過NTDTV-1 小時前當地一家餐廳老闆透露，聶被抓前曾闖入一戶民居，殺害一名孕婦。後聶自覺走投無路，跑到橋底下自殺但未遂，被警方捉個正著，多名警員合力將他抬走。 另外，店門 ...日期資訊不合格式
+湖南曝凶殘命案退役武警連殺6人孕婦不放過NTDTV-1 小時前當地一家餐廳老闆透露，聶被抓前曾闖入一戶民居，殺害一名孕婦。後聶自覺走投無路，跑到橋底下自殺但未遂，被警方捉個正著，多名警員合力將他抬走。 另外，店門 ...日期資訊不合格式
+湖南曝凶殘命案退役武警連殺6人孕婦不放過NTDTV-1 小時前當地一家餐廳老闆透露，聶被抓前曾闖入一戶民居，殺害一名孕婦。後聶自覺走投無路，跑到橋底下自殺但未遂，被警方捉個正著，多名警員合力將他抬走。 另外，店門 ...日期資訊不合格式
+湖南曝凶殘命案退役武警連殺6人孕婦不放過NTDTV-1 小時前當地一家餐廳老闆透露，聶被抓前曾闖入一戶民居，殺害一名孕婦。後聶自覺走投無路，跑到橋底下自殺但未遂，被警方捉個正著，多名警員合力將他抬走。 另外，店門 ...日期資訊不合格式
+湖南曝凶殘命案退役武警連殺6人孕婦不放過NTDTV-1 小時前當地一家餐廳老闆透露，聶被抓前曾闖入一戶民居，殺害一名孕婦。後聶自覺走投無路，跑到橋底下自殺但未遂，被警方捉個正著，多名警員合力將他抬走。 另外，店門 ...日期資訊不合格式
+ 深入瞭解  (還有 15 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 15 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 15 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 15 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 15 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://paper.wenweipo.com/2016/01/17/GJ1601170009.htm
+
+
+發現重複:http://paper.wenweipo.com/2016/01/17/GJ1601170009.htm
+
+
+title:寨卡熱肆虐拉美美警告孕婦勿往
+
+
+src:香港文匯報-,date=2016-1-16
+
+
+my link:https://hk.news.yahoo.com/%E6%83%A1%E8%9A%8A%E6%92%AD-%E5%B0%8F%E9%A0%AD%E7%97%87-%E6%8B%89%E7%BE%8E13%E5%9C%8B%E9%AB%98%E5%8D%B1-215522359.html
+
+
+title:惡蚊播「小頭症」 拉美13國高危
+
+
+src:寨卡熱肆虐拉美美警告孕婦勿往香港文匯報-,date=2016-1-16
+
+
+my link:http://big5.soundofhope.org/node/684908
+
+
+發現重複:http://big5.soundofhope.org/node/684908
+
+
+title:拉美爆發茲卡病毒美髮布旅遊警告
+
+
+src:寨卡熱肆虐拉美美警告孕婦勿往香港文匯報-,date=2016-1-16
+
+
+my link:http://www.chinesetoday.com/big/article/1077849
+
+
+title:美國確認首例新生兒寨卡病毒感染病例
+
+
+src:寨卡熱肆虐拉美美警告孕婦勿往香港文匯報-,date=2016-1-16
+
+
+my link:http://news.sina.com.tw/article/20160118/15980463.html
+
+
+title:美確診首例寨卡病毒感染
+
+
+src:寨卡熱肆虐拉美美警告孕婦勿往香港文匯報-,date=2016-1-16
+
+
+ 深入瞭解  (還有 34 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 34 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 34 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 34 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 34 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 34 篇報導)日期資訊不合格式
+並非正確新聞
+蘋果日報-5 小時前日期資訊不合格式
+【壹週刊】小哈利冷對秦昊孕婦伊能靜窘吸二手菸蘋果日報-5 小時前46歲的伊能靜去年再婚，最近宣布高齡懷上寶寶，但身為好媽媽可沒忽略兒子小哈利。2016開年第一天深夜，伊能靜帶小哈利去信義區看電影，老公秦昊也在旁邊陪 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+大紀元-19 小時前日期資訊不合格式
+my link:https://hk.news.yahoo.com/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%AD%95%E5%A9%A6%E5%B0%B1%E9%86%AB%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%B4%A2%E8%B3%A0%E5%8D%83%E8%90%AC-215532827.html
+
+
+title:中科院孕婦就醫猝死家屬索賠千萬
+
+
+src:博士孕婦死亡引網絡戰役國家單位高調介入大紀元-19 小時前... 【大紀元,date=2016-01-17
+
+
+my link:http://news.sina.com.tw/article/20160117/15980059.html
+
+
+title:中科院身亡孕婦曾在醫院生產孩子去世獲賠45萬
+
+
+src:博士孕婦死亡引網絡戰役國家單位高調介入大紀元-19 小時前... 【大紀元,date=2016-01-17
+
+
+並非正確新聞
+my link:http://news.wenweipo.com/2016/01/16/IN1601160040.htm
+
+
+發現重複:http://news.wenweipo.com/2016/01/16/IN1601160040.htm
+
+
+title:穗22歲孕婦臨登高鐵產下二胎男嬰
+
+
+src:香港文匯報-,date=2016-1-16
+
+
+my link:http://tw.on.cc/cn/bkn/cnt/news/20160117/bkncn-20160117080420089-0117_05011_001.html
+
+
+title:孕婦廣州南站產子職員乘客搭屏風接生
+
+
+src:on.cc東網台灣-,date=2016-1-16
+
+
+臺灣新浪網-18 小時前日期資訊不合格式
+臺灣新浪網-9 小時前日期資訊不合格式
+香港蘋果日報-9 小時前日期資訊不合格式
+無日期資訊
+my link:http://news.sina.com.tw/article/20160116/15976299.html
+
+
+title:北大第三醫院回應網傳孕婦死亡:主動脈夾層破裂
+
+
+src:臺灣新浪網-,date=2016-1-16
+
+
+my link:http://news.cnyes.com/20160118/20160118081035492565810.shtml
+
+
+title:“主動脈夾層”為什麼會要命
+
+
+src:北大第三醫院回應網傳孕婦死亡:主動脈夾層破裂臺灣新浪網-,date=2016-1-16
+
+
+並非正確新聞
+
+memory usage:860752\n
+logtime: 2016-01-18  12:30:34 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://www.chinareviewnews.com/doc/0_0_104089848_1_0117004401.html
+
+
+title:出租屋凌晨突發大火孕婦逐戶叫醒鄰居
+
+
+src:中國評論-,date=2016-1-16
+
+
+臺灣新浪網-12 小時前日期資訊不合格式
+DBC數碼電台-32 分鐘前日期資訊不合格式
+伊利沙伯醫院發生兩宗孕婦被刮穿子宮事件DBC數碼電台-32 分鐘前伊利沙伯醫院接連發生兩宗孕婦被刮穿子宮事件，被質疑是否人手不足或培訓不足導致。食物及衛生局局長高永文表示，向醫管局了解過，伊利沙伯醫院婦產科24名 ...日期資訊不合格式
+並非正確新聞
+香港蘋果日報-2016年1月16日日期資訊不合格式
+國際日報-2016年1月16日日期資訊不合格式
+元氣網 | 聯合新聞網 (新聞發布)-19 小時前日期資訊不合格式
+蘋果日報-2016年1月16日日期資訊不合格式
+蘋果日報-2016年1月16日日期資訊不合格式
+​自拍照暗藏浪漫密碼英男求婚148次蘋果日報-2016年1月16日當然我有點情緒激動，畢竟我是一名孕婦。」（國際中心／綜合外電報導）. 更多國際新聞請看蘋果繞著地球爆。 翻攝《都會報》. 翻攝《都會報》. 翻攝《都會報》. 【蘋論陣線】： ...日期資訊不合格式
+並非正確新聞
+AM730-18 小時前日期資訊不合格式
+大紀元-3 小時前日期資訊不合格式
+
+memory usage:849472\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:30312
+start end:2016/01/16,2016/01/18logtime: 2016-01-18  12:31:08 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-21 小時前日期資訊不合格式
+
+memory usage:833192\n
+logtime: 2016-01-18  12:31:46 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-21 小時前日期資訊不合格式
+
+memory usage:833216\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:30312
+start end:2016/01/16,2016/01/18logtime: 2016-01-18  12:32:23 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:826504\n
+logtime: 2016-01-18  12:32:59 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:827544\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:1763
+start end:2016/01/16,2016/01/18logtime: 2016-01-18  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+my link:http://paper.wenweipo.com/2016/01/17/GJ1601170009.htm
+
+
+發現重複:http://paper.wenweipo.com/2016/01/17/GJ1601170009.htm
+
+
+title:寨卡熱肆虐拉美美警告孕婦勿往
+
+
+src:香港文匯報-,date=2016-1-16
+
+
+my link:http://www.cdnews.com.tw/cdnews_site/docDetail.jsp?coluid=109&amp;docid=103532354
+
+
+title:國際/茲卡病毒肆虐美警告孕婦勿前往拉美等地區
+
+
+src:寨卡熱肆虐拉美美警告孕婦勿往香港文匯報-,date=2016-1-16
+
+
+my link:https://hk.news.yahoo.com/%E6%83%A1%E8%9A%8A%E6%92%AD-%E5%B0%8F%E9%A0%AD%E7%97%87-%E6%8B%89%E7%BE%8E13%E5%9C%8B%E9%AB%98%E5%8D%B1-215522359.html
+
+
+發現重複:https://hk.news.yahoo.com/%E6%83%A1%E8%9A%8A%E6%92%AD-%E5%B0%8F%E9%A0%AD%E7%97%87-%E6%8B%89%E7%BE%8E13%E5%9C%8B%E9%AB%98%E5%8D%B1-215522359.html
+
+
+title:惡蚊播「小頭症」 拉美13國高危
+
+
+src:寨卡熱肆虐拉美美警告孕婦勿往香港文匯報-,date=2016-1-16
+
+
+my link:http://big5.soundofhope.org/node/684908
+
+
+發現重複:http://big5.soundofhope.org/node/684908
+
+
+title:拉美爆發茲卡病毒美髮布旅遊警告
+
+
+src:寨卡熱肆虐拉美美警告孕婦勿往香港文匯報-,date=2016-1-16
+
+
+my link:http://www.chinesetoday.com/big/article/1077849
+
+
+發現重複:http://www.chinesetoday.com/big/article/1077849
+
+
+title:美國確認首例新生兒寨卡病毒感染病例
+
+
+src:寨卡熱肆虐拉美美警告孕婦勿往香港文匯報-,date=2016-1-16
+
+
+並非正確新聞
+蘋果日報-11 小時前日期資訊不合格式
+【壹週刊】小哈利冷對秦昊孕婦伊能靜窘吸二手菸蘋果日報-11 小時前46歲的伊能靜去年再婚，最近宣布高齡懷上寶寶，但身為好媽媽可沒忽略兒子小哈利。2016開年第一天深夜，伊能靜帶小哈利去信義區看電影，老公秦昊也在旁邊陪 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://news.sina.com.tw/article/20160116/15976299.html
+
+
+發現重複:http://news.sina.com.tw/article/20160116/15976299.html
+
+
+title:北大第三醫院回應網傳孕婦死亡:主動脈夾層破裂
+
+
+src:臺灣新浪網-,date=2016-1-16
+
+
+my link:http://news.cnyes.com/20160118/20160118081035492565810.shtml
+
+
+發現重複:http://news.cnyes.com/20160118/20160118081035492565810.shtml
+
+
+title:“主動脈夾層”為什麼會要命
+
+
+src:北大第三醫院回應網傳孕婦死亡:主動脈夾層破裂臺灣新浪網-,date=2016-1-16
+
+
+並非正確新聞
+NTDTV-7 小時前日期資訊不合格式
+湖南曝凶殘命案退役武警連殺6人孕婦不放過NTDTV-7 小時前當地一家餐廳老闆透露，聶被抓前曾闖入一戶民居，殺害一名孕婦。後聶自覺走投無路，跑到橋底下自殺但未遂，被警方捉個正著，多名警員合力將他抬走。 另外，店門 ...日期資訊不合格式
+並非正確新聞
+my link:http://www.epochtimes.com/b5/16/1/17/n4618945.htm
+
+
+title:陸博士孕婦死亡引網絡戰役國家單位高調介入
+
+
+src:大紀元-,date=2016-1-17
+
+
+my link:https://hk.news.yahoo.com/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%AD%95%E5%A9%A6%E5%B0%B1%E9%86%AB%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%B4%A2%E8%B3%A0%E5%8D%83%E8%90%AC-215532827.html
+
+
+發現重複:https://hk.news.yahoo.com/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%AD%95%E5%A9%A6%E5%B0%B1%E9%86%AB%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%B4%A2%E8%B3%A0%E5%8D%83%E8%90%AC-215532827.html
+
+
+title:中科院孕婦就醫猝死家屬索賠千萬
+
+
+src:陸博士孕婦死亡引網絡戰役國家單位高調介入大紀元-,date=2016-1-17
+
+
+並非正確新聞
+my link:http://news.wenweipo.com/2016/01/16/IN1601160040.htm
+
+
+發現重複:http://news.wenweipo.com/2016/01/16/IN1601160040.htm
+
+
+title:穗22歲孕婦臨登高鐵產下二胎男嬰
+
+
+src:香港文匯報-,date=2016-1-16
+
+
+my link:http://tw.on.cc/cn/bkn/cnt/news/20160117/bkncn-20160117080420089-0117_05011_001.html
+
+
+發現重複:http://tw.on.cc/cn/bkn/cnt/news/20160117/bkncn-20160117080420089-0117_05011_001.html
+
+
+title:孕婦廣州南站產子職員乘客搭屏風接生
+
+
+src:on.cc東網台灣-,date=2016-1-16
+
+
+my link:http://news.sina.com.tw/article/20160117/15979368.html
+
+
+title:湖北男子網上謠傳孕婦感染禽流感死亡被拘留
+
+
+src:臺灣新浪網-,date=2016-1-17
+
+
+香港蘋果日報-15 小時前日期資訊不合格式
+DBC數碼電台-6 小時前日期資訊不合格式
+伊利沙伯醫院發生兩宗孕婦被刮穿子宮事件DBC數碼電台-6 小時前伊利沙伯醫院接連發生兩宗孕婦被刮穿子宮事件，被質疑是否人手不足或培訓不足導致。食物及衛生局局長高永文表示，向醫管局了解過，伊利沙伯醫院婦產科24名 ...日期資訊不合格式
+並非正確新聞
+
+memory usage:858840\n
+logtime: 2016-01-18  18:30:36 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://www.chinareviewnews.com/doc/0_0_104089848_1_0117004401.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/0_0_104089848_1_0117004401.html
+
+
+title:出租屋凌晨突發大火孕婦逐戶叫醒鄰居
+
+
+src:中國評論-,date=2016-1-16
+
+
+臺灣新浪網-18 小時前日期資訊不合格式
+香港蘋果日報-2016年1月16日日期資訊不合格式
+國際日報-2016年1月16日日期資訊不合格式
+看中國新聞網-4 小時前日期資訊不合格式
+my link:http://health.udn.com/health/story/6034/1448524-10%E5%A4%A7%E8%AD%B7%E5%BF%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81-%E5%8A%9F%E6%95%88%E4%B8%80%E4%B8%80%E8%A7%A3%E6%9E%90
+
+
+title:10大護心保健食品功效一一解析
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-17
+
+
+無日期資訊
+香港新浪財經-4 小時前日期資訊不合格式
+蘋果日報-2016年1月16日日期資訊不合格式
+中時電子報-4 小時前日期資訊不合格式
+蘋果日報-2016年1月16日日期資訊不合格式
+​自拍照暗藏浪漫密碼英男求婚148次蘋果日報-2016年1月16日當然我有點情緒激動，畢竟我是一名孕婦。」（國際中心／綜合外電報導）. 更多國際新聞請看蘋果繞著地球爆。 翻攝《都會報》. 翻攝《都會報》. 翻攝《都會報》. 【蘋論陣線】： ...日期資訊不合格式
+並非正確新聞
+
+memory usage:852872\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:1763
+start end:2016/01/16,2016/01/18logtime: 2016-01-18  18:31:10 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://tube.chinatimes.com/20160117002516-261410
+
+
+title:當年她逃婚被抓只好哭著嫁給全球最花心的君王如今過的生活竟是...
+
+
+src:中時電子報-,date=2016-1-16
+
+
+
+memory usage:839016\n
+logtime: 2016-01-18  18:31:36 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://tube.chinatimes.com/20160117002516-261410
+
+
+發現重複:http://tube.chinatimes.com/20160117002516-261410
+
+
+title:當年她逃婚被抓只好哭著嫁給全球最花心的君王如今過的生活竟是...
+
+
+src:中時電子報-,date=2016-1-16
+
+
+
+memory usage:839344\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:1763
+start end:2016/01/16,2016/01/18logtime: 2016-01-18  18:32:14 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:831616\n
+logtime: 2016-01-18  18:32:40 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/16,cd_max:2016/01/18&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:832656\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:22410
+start end:2016/01/17,2016/01/19logtime: 2016-01-19  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+香港經濟日報-5 小時前日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-5 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-5 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-5 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-5 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-5 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+並非正確新聞
+蘋果日報-2016年1月17日日期資訊不合格式
+【壹週刊】小哈利冷對秦昊孕婦伊能靜窘吸二手菸蘋果日報-2016年1月17日46歲的伊能靜去年再婚，最近宣布高齡懷上寶寶，但身為好媽媽可沒忽略兒子小哈利。2016開年第一天深夜，伊能靜帶小哈利去信義區看電影，老公秦昊也在旁邊陪 ...日期資訊不合格式
+並非正確新聞
+ETtoday-2 小時前日期資訊不合格式
+my link:http://www.ntdtv.com/xtr/b5/2016/01/18/a1247739.html
+
+
+title:湖南曝凶殘命案退役武警連殺6人孕婦不放過
+
+
+src:NTDTV-,date=2016-1-17
+
+
+my link:http://www.881903.com/Page/ZH-TW/newsdetail.aspx?ItemId=848830&amp;csid=261_341
+
+
+title:湖南衡山四青少年被殺案疑犯自殺未遂落網
+
+
+src:湖南曝凶殘命案退役武警連殺6人孕婦不放過NTDTV-,date=2016-1-17
+
+
+並非正確新聞
+my link:http://www.epochtimes.com/b5/16/1/17/n4618945.htm
+
+
+發現重複:http://www.epochtimes.com/b5/16/1/17/n4618945.htm
+
+
+title:陸博士孕婦死亡引網絡戰役國家單位高調介入
+
+
+src:大紀元-,date=2016-1-17
+
+
+my link:https://hk.news.yahoo.com/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%AD%95%E5%A9%A6%E5%B0%B1%E9%86%AB%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%B4%A2%E8%B3%A0%E5%8D%83%E8%90%AC-215532827.html
+
+
+發現重複:https://hk.news.yahoo.com/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%AD%95%E5%A9%A6%E5%B0%B1%E9%86%AB%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%B4%A2%E8%B3%A0%E5%8D%83%E8%90%AC-215532827.html
+
+
+title:中科院孕婦就醫猝死家屬索賠千萬
+
+
+src:陸博士孕婦死亡引網絡戰役國家單位高調介入大紀元-,date=2016-1-17
+
+
+並非正確新聞
+無日期資訊
+香港文匯報-13 小時前日期資訊不合格式
+兩孕婦慘遭醫療事故被刮穿子宮香港文匯報-13 小時前【文匯網訊】(記者文森)伊利沙伯醫院發生醫療事故，有兩名孕婦被刮穿子宮，食物及衞生局局長高永文今表示，該院的婦產科現缺3名醫生，希望稍後醫學院畢業生人數 ...日期資訊不合格式
+並非正確新聞
+香港蘋果日報-2016年1月17日日期資訊不合格式
+元氣網 | 聯合新聞網 (新聞發布)-2 小時前日期資訊不合格式
+my link:http://news.sina.com.tw/article/20160117/15979368.html
+
+
+發現重複:http://news.sina.com.tw/article/20160117/15979368.html
+
+
+title:湖北男子網上謠傳孕婦感染禽流感死亡被拘留
+
+
+src:臺灣新浪網-,date=2016-1-17
+
+
+my link:http://news.sina.com.tw/article/20160118/15980081.html
+
+
+title:懷孕期間口服抗黴菌藥會增加流產風險
+
+
+src:臺灣新浪網-,date=2016-1-17
+
+
+
+memory usage:858840\n
+logtime: 2016-01-19  12:30:44 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+my link:http://news.cnyes.com/20160118/20160118081035492565810.shtml
+
+
+發現重複:http://news.cnyes.com/20160118/20160118081035492565810.shtml
+
+
+title:“主動脈夾層”為什麼會要命
+
+
+src:鉅亨網-,date=2016-1-17
+
+
+香港《南華早報》中文網-58 分鐘前日期資訊不合格式
+看中國新聞網-22 小時前日期資訊不合格式
+my link:http://health.udn.com/health/story/6034/1448524-10%E5%A4%A7%E8%AD%B7%E5%BF%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81-%E5%8A%9F%E6%95%88%E4%B8%80%E4%B8%80%E8%A7%A3%E6%9E%90
+
+
+發現重複:http://health.udn.com/health/story/6034/1448524-10%E5%A4%A7%E8%AD%B7%E5%BF%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81-%E5%8A%9F%E6%95%88%E4%B8%80%E4%B8%80%E8%A7%A3%E6%9E%90
+
+
+title:10大護心保健食品功效一一解析
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-17
+
+
+雅虎香港-6 小時前日期資訊不合格式
+老婦食煙三文魚染李斯特菌雅虎香港-6 小時前高風險感染人士包括孕婦、初生嬰兒、長者、長期病患者或免疫力較弱的人士。其中初生嬰兒、長者和免疫力較低人士中招後，可能出現嚴重的併發症如敗血症及腦膜 ...日期資訊不合格式
+並非正確新聞
+臺灣新浪網-49 分鐘前日期資訊不合格式
+19歲留美女生遭「路怒」女追尾后槍殺臺灣新浪網-49 分鐘前遇害女留學生江玥中槍后汽車失控，撞到一輛搭載5人的汽車，車上有一名孕婦和三個孩子。 據新華社電美國亞利桑那州坦佩市警方17日說，一名19歲的中國女留學生 ...日期資訊不合格式
+並非正確新聞
+蘋果日報-8 小時前日期資訊不合格式
+蘋果日報-15 小時前日期資訊不合格式
+代孕者謊稱已受孕詐財再騙被車撞致流產蘋果日報-15 小時前幾個月後，他們收到聲稱是寶寶的超音波照片，布朗表示會如常到醫院檢查，並且參加產前班，他們於是支付了8307英鎊(約台幣39.8萬元)，並提供購買孕婦及寶寶衣服 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+臺灣新浪網-11 小時前日期資訊不合格式
+my link:http://www.voacantonese.com/content/voa-news-us-flint-water-20160117/3149655.html
+
+
+title:奧巴馬宣布密西根州用水緊急狀態
+
+
+src:Voice of America-,date=2016-1-17
+
+
+
+memory usage:856736\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:22410
+start end:2016/01/17,2016/01/19logtime: 2016-01-19  12:31:16 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:831600\n
+logtime: 2016-01-19  12:31:53 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:832632\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:22410
+start end:2016/01/17,2016/01/19logtime: 2016-01-19  12:32:21 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:831784\n
+logtime: 2016-01-19  12:32:59 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:832832\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:32756
+start end:2016/01/17,2016/01/19logtime: 2016-01-19  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+蘋果日報-4 小時前日期資訊不合格式
+茲卡病毒首例為泰國男子孕婦感染恐生畸形兒蘋果日報-4 小時前疾管署指，孕婦若感染茲卡病毒，恐生畸形兒。圖為孕婦的資料照片 ... 關聯性仍待釐清，但基於中南美洲及加勒比海地區發生小頭畸形病例遽增，對孕婦恐有風險，疾管 ...日期資訊不合格式
+茲卡病毒首例為泰國男子孕婦感染恐生畸形兒蘋果日報-4 小時前疾管署指，孕婦若感染茲卡病毒，恐生畸形兒。圖為孕婦的資料照片 ... 關聯性仍待釐清，但基於中南美洲及加勒比海地區發生小頭畸形病例遽增，對孕婦恐有風險，疾管 ...日期資訊不合格式
+茲卡病毒首例為泰國男子孕婦感染恐生畸形兒蘋果日報-4 小時前疾管署指，孕婦若感染茲卡病毒，恐生畸形兒。圖為孕婦的資料照片 ... 關聯性仍待釐清，但基於中南美洲及加勒比海地區發生小頭畸形病例遽增，對孕婦恐有風險，疾管 ...日期資訊不合格式
+茲卡病毒首例為泰國男子孕婦感染恐生畸形兒蘋果日報-4 小時前疾管署指，孕婦若感染茲卡病毒，恐生畸形兒。圖為孕婦的資料照片 ... 關聯性仍待釐清，但基於中南美洲及加勒比海地區發生小頭畸形病例遽增，對孕婦恐有風險，疾管 ...日期資訊不合格式
+ 深入瞭解  (還有 59 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 59 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 59 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 59 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 59 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 59 篇報導)日期資訊不合格式
+並非正確新聞
+香港經濟日報-11 小時前日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-11 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-11 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-11 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-11 小時前曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+ 深入瞭解  (還有 46 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 46 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 46 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 46 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 46 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 46 篇報導)日期資訊不合格式
+並非正確新聞
+香港新浪網-3 小時前日期資訊不合格式
+免嬰兒獄中出生法官准孕婦減刑香港新浪網-3 小時前這干預不因上訴人的刑責，而是純然因為犯案者作為臨盆在即的孕婦的身份。」他又寄語上訴人「希望不要再以身試法，盡責做一個有責任心的好媽媽」。 女上訴人指其 ...日期資訊不合格式
+並非正確新聞
+ETtoday-8 小時前日期資訊不合格式
+蘋果日報-2016年1月17日日期資訊不合格式
+【壹週刊】小哈利冷對秦昊孕婦伊能靜窘吸二手菸蘋果日報-2016年1月17日46歲的伊能靜去年再婚，最近宣布高齡懷上寶寶，但身為好媽媽可沒忽略兒子小哈利。2016開年第一天深夜，伊能靜帶小哈利去信義區看電影，老公秦昊也在旁邊陪 ...日期資訊不合格式
+並非正確新聞
+my link:http://www.ntdtv.com/xtr/b5/2016/01/18/a1247739.html
+
+
+發現重複:http://www.ntdtv.com/xtr/b5/2016/01/18/a1247739.html
+
+
+title:湖南曝凶殘命案退役武警連殺6人孕婦不放過
+
+
+src:NTDTV-,date=2016-1-17
+
+
+my link:http://www.881903.com/Page/ZH-TW/newsdetail.aspx?ItemId=848830&amp;csid=261_341
+
+
+發現重複:http://www.881903.com/Page/ZH-TW/newsdetail.aspx?ItemId=848830&amp;csid=261_341
+
+
+title:湖南衡山四青少年被殺案疑犯自殺未遂落網
+
+
+src:湖南曝凶殘命案退役武警連殺6人孕婦不放過NTDTV-,date=2016-1-17
+
+
+並非正確新聞
+my link:http://www.epochtimes.com/b5/16/1/17/n4618945.htm
+
+
+發現重複:http://www.epochtimes.com/b5/16/1/17/n4618945.htm
+
+
+title:陸博士孕婦死亡引網絡戰役國家單位高調介入
+
+
+src:大紀元-,date=2016-1-17
+
+
+my link:http://www.chinareviewnews.com/doc/0_0_104092957_1_0119170349.html
+
+
+title:莫讓“公文大戰”模糊“孕婦之死”
+
+
+src:陸博士孕婦死亡引網絡戰役國家單位高調介入大紀元-,date=2016-1-17
+
+
+並非正確新聞
+無日期資訊
+香港文匯報-19 小時前日期資訊不合格式
+兩孕婦慘遭醫療事故被刮穿子宮香港文匯報-19 小時前【文匯網訊】(記者文森)伊利沙伯醫院發生醫療事故，有兩名孕婦被刮穿子宮，食物及衞生局局長高永文今表示，該院的婦產科現缺3名醫生，希望稍後醫學院畢業生人數 ...日期資訊不合格式
+並非正確新聞
+元氣網 | 聯合新聞網 (新聞發布)-8 小時前日期資訊不合格式
+香港蘋果日報-2016年1月17日日期資訊不合格式
+
+memory usage:870000\n
+logtime: 2016-01-19  18:30:27 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://news.sina.com.tw/article/20160117/15979368.html
+
+
+發現重複:http://news.sina.com.tw/article/20160117/15979368.html
+
+
+title:湖北男子網上謠傳孕婦感染禽流感死亡被拘留
+
+
+src:臺灣新浪網-,date=2016-1-17
+
+
+中國評論-7 小時前日期資訊不合格式
+香港蘋果日報-5 小時前日期資訊不合格式
+my link:http://news.sina.com.tw/article/20160118/15980081.html
+
+
+發現重複:http://news.sina.com.tw/article/20160118/15980081.html
+
+
+title:懷孕期間口服抗黴菌藥會增加流產風險
+
+
+src:臺灣新浪網-,date=2016-1-17
+
+
+國際日報-1 小時前日期資訊不合格式
+無日期資訊
+my link:http://news.cnyes.com/20160118/20160118081035492565810.shtml
+
+
+發現重複:http://news.cnyes.com/20160118/20160118081035492565810.shtml
+
+
+title:“主動脈夾層”為什麼會要命
+
+
+src:鉅亨網-,date=2016-1-17
+
+
+香港《南華早報》中文網-6 小時前日期資訊不合格式
+my link:http://b5.secretchina.com/news/16/01/18/597778.html
+
+
+title:一根臍帶生死兩端罕見的死後分娩(圖)
+
+
+src:看中國新聞網-,date=2016-1-17
+
+
+臺灣新浪網-6 小時前日期資訊不合格式
+19歲留美女生遭「路怒」女追尾后槍殺臺灣新浪網-6 小時前遇害女留學生江玥中槍后汽車失控，撞到一輛搭載5人的汽車，車上有一名孕婦和三個孩子。 據新華社電美國亞利桑那州坦佩市警方17日說，一名19歲的中國女留學生 ...日期資訊不合格式
+並非正確新聞
+my link:http://health.udn.com/health/story/6034/1448524-10%E5%A4%A7%E8%AD%B7%E5%BF%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81-%E5%8A%9F%E6%95%88%E4%B8%80%E4%B8%80%E8%A7%A3%E6%9E%90
+
+
+發現重複:http://health.udn.com/health/story/6034/1448524-10%E5%A4%A7%E8%AD%B7%E5%BF%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81-%E5%8A%9F%E6%95%88%E4%B8%80%E4%B8%80%E8%A7%A3%E6%9E%90
+
+
+title:10大護心保健食品功效一一解析
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-17
+
+
+
+memory usage:855344\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:32756
+start end:2016/01/17,2016/01/19logtime: 2016-01-19  18:30:52 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:831592\n
+logtime: 2016-01-19  18:31:31 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:832632\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:32756
+start end:2016/01/17,2016/01/19logtime: 2016-01-19  18:32:11 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:831776\n
+logtime: 2016-01-19  18:32:51 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/17,cd_max:2016/01/19&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:832824\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:24273
+start end:2016/01/18,2016/01/20logtime: 2016-01-20  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+端傳媒 | Initium Media-5 小時前日期資訊不合格式
+孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-5 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-5 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-5 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-5 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-5 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+香港新浪網-6 小時前日期資訊不合格式
+my link:http://hk.apple.nextmedia.com/news/art/20160120/19459266
+
+
+title:要聞港聞- 孕婦獲減刑免獄中誕嬰
+
+
+src:法官情理法干預假婚孕婦獲減刑香港新浪網-6 小時前法官情理法干預假婚孕婦獲減刑. ,date=2016-01-20
+
+
+並非正確新聞
+香港經濟日報-2016年1月18日日期資訊不合格式
+寨卡熱肆虐巴西孕婦勿往香港經濟日報-2016年1月18日曾德賢建議孕婦如非必要，應盡量避免前往當地，而其他人士在旅程中亦要做足預防蚊叮的措施。他解釋，由於病毒是通過蚊叮傳染人類，本地白紋伊蚊也可傳播該 ...日期資訊不合格式
+並非正確新聞
+my link:http://www.ettoday.net/news/20160119/633170.htm
+
+
+title:暖暖包「眉角」多抱著睡、孕婦使用都NG！
+
+
+src:ETtoday-,date=2016-1-18
+
+
+加拿大星島日報-15 小時前日期資訊不合格式
+中國評論-19 小時前日期資訊不合格式
+無日期資訊
+my link:http://news.wenweipo.com/2016/01/18/IN1601180064.htm
+
+
+title:兩孕婦慘遭醫療事故被刮穿子宮
+
+
+src:香港文匯報-,date=2016-1-18
+
+
+my link:http://health.udn.com/health/story/6056/1451839-%E6%B8%AC%E8%83%8E%E5%85%92%E5%94%90%E6%B0%8F%E7%97%87-%E5%85%88%E9%A9%97%E8%A1%80%E9%98%B2%E6%B5%81%E7%94%A2
+
+
+title:測胎兒唐氏症先驗血防流產
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-18
+
+
+加拿大星島日報-15 小時前日期資訊不合格式
+uho優活健康網-3 小時前日期資訊不合格式
+
+memory usage:860576\n
+logtime: 2016-01-20  12:30:32 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+臺灣新浪網-2 小時前日期資訊不合格式
+香港蘋果日報-2016年1月18日日期資訊不合格式
+加拿大星島日報-21 小時前日期資訊不合格式
+無日期資訊
+國際日報-19 小時前日期資訊不合格式
+無日期資訊
+my link:http://health.udn.com/health/story/5999/1451696
+
+
+title:巴西蚊子好毒3千新生兒小頭病
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-18
+
+
+國際日報-19 小時前日期資訊不合格式
+中國評論-19 小時前日期資訊不合格式
+聯合新聞網-15 小時前日期資訊不合格式
+超驚險！伊能靜懷孕跑3公里還好小小秦抓得牢聯合新聞網-15 小時前但她孕吐狀況嚴重，為了減緩孕吐，伊能靜嘗試吃保健品、喝蘇打水、飯前飯後一個半小時都不喝水、按摩胃部，甚至還買了孕婦手環，嘗試10多種方式後還是求助 ...日期資訊不合格式
+並非正確新聞
+HiNet 新聞社群-2 小時前日期資訊不合格式
+my link:http://www.nanzao.com/tc/national/15257df6d0837aa/yan-jiu-zhong-guo-si-tai-jian-shao-shuai-quan-qiu-di-er-nian-zong-liang-reng-lie-di-si
+
+
+title:研究：中國死胎減少率全球第二年總量仍列第四
+
+
+src:香港《南華早報》中文網-,date=2016-1-18
+
+
+
+memory usage:854568\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:24273
+start end:2016/01/18,2016/01/20logtime: 2016-01-20  12:31:12 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:831256\n
+logtime: 2016-01-20  12:31:43 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:832288\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:24273
+start end:2016/01/18,2016/01/20logtime: 2016-01-20  12:32:09 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+聯合新聞網-56 分鐘前日期資訊不合格式
+
+memory usage:838952\n
+logtime: 2016-01-20  12:32:48 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+聯合新聞網-57 分鐘前日期資訊不合格式
+
+memory usage:838984\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:16262
+start end:2016/01/18,2016/01/20logtime: 2016-01-20  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+聯合新聞網-15 小時前日期資訊不合格式
+台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-15 小時前茲卡病毒經斑蚊叮咬而傳播，傳染途徑與登革熱類似，主要感染途徑如同登革熱，藉由埃及斑蚊叮咬傳染，但孕婦感染可能引發新生兒小頭畸形症，雖未證實兩者確實 ...日期資訊不合格式
+台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-15 小時前茲卡病毒經斑蚊叮咬而傳播，傳染途徑與登革熱類似，主要感染途徑如同登革熱，藉由埃及斑蚊叮咬傳染，但孕婦感染可能引發新生兒小頭畸形症，雖未證實兩者確實 ...日期資訊不合格式
+台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-15 小時前茲卡病毒經斑蚊叮咬而傳播，傳染途徑與登革熱類似，主要感染途徑如同登革熱，藉由埃及斑蚊叮咬傳染，但孕婦感染可能引發新生兒小頭畸形症，雖未證實兩者確實 ...日期資訊不合格式
+台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-15 小時前茲卡病毒經斑蚊叮咬而傳播，傳染途徑與登革熱類似，主要感染途徑如同登革熱，藉由埃及斑蚊叮咬傳染，但孕婦感染可能引發新生兒小頭畸形症，雖未證實兩者確實 ...日期資訊不合格式
+台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-15 小時前茲卡病毒經斑蚊叮咬而傳播，傳染途徑與登革熱類似，主要感染途徑如同登革熱，藉由埃及斑蚊叮咬傳染，但孕婦感染可能引發新生兒小頭畸形症，雖未證實兩者確實 ...日期資訊不合格式
+ 深入瞭解  (還有 148 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 148 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 148 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 148 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 148 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 148 篇報導)日期資訊不合格式
+並非正確新聞
+端傳媒 | Initium Media-11 小時前日期資訊不合格式
+34歲孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-11 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+34歲孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-11 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+34歲孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-11 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+34歲孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-11 小時前因為一名孕婦的突然死亡，中國科學院理化技術研究所（下稱「中科院理化所」）與北京大學第三醫院（下稱「北醫三院」）之間爆發了一場各執一詞的「公文大戰」，被中國 ...日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+並非正確新聞
+my link:http://sina.com.hk/news/article/20160119/0/1/4/%E5%85%8D%E5%AC%B0%E5%85%92%E7%8D%84%E4%B8%AD%E5%87%BA%E7%94%9F-%E6%B3%95%E5%AE%98%E5%87%86%E5%AD%95%E5%A9%A6%E6%B8%9B%E5%88%91-5313006.html
+
+
+title:免嬰兒獄中出生法官准孕婦減刑
+
+
+src:香港新浪網-,date=2016-1-18
+
+
+my link:http://tw.on.cc/hk/bkn/cnt/news/20160119/bkn-20160119132438207-0119_00822_001.html
+
+
+title:孕婦假結婚判囚上訴刑期官開恩減刑4個月
+
+
+src:免嬰兒獄中出生法官准孕婦減刑香港新浪網-,date=2016-1-18
+
+
+my link:http://www.hkcd.com.hk/content/2016-01/20/content_3526585.htm
+
+
+title:法官開恩孕婦減刑免獄誕嬰
+
+
+src:免嬰兒獄中出生法官准孕婦減刑香港新浪網-,date=2016-1-18
+
+
+my link:https://hk.news.yahoo.com/%E6%B3%95%E5%AE%98%E6%83%85%E7%90%86%E6%B3%95%E5%B9%B2%E9%A0%90-%E5%81%87%E5%A9%9A%E5%AD%95%E5%A9%A6%E7%8D%B2%E6%B8%9B%E5%88%91-215543890.html
+
+
+title:法官情理法干預假婚孕婦獲減刑
+
+
+src:免嬰兒獄中出生法官准孕婦減刑香港新浪網-,date=2016-1-18
+
+
+並非正確新聞
+my link:http://www.ettoday.net/news/20160119/633170.htm
+
+
+發現重複:http://www.ettoday.net/news/20160119/633170.htm
+
+
+title:暖暖包「眉角」多抱著睡、孕婦使用都NG！
+
+
+src:ETtoday-,date=2016-1-18
+
+
+加拿大星島日報-21 小時前日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/73_7151_104092942_1.html
+
+
+title:孕婦死亡事件不妨等一等真相
+
+
+src:中國評論-,date=2016-1-19
+
+
+無日期資訊
+my link:http://news.wenweipo.com/2016/01/18/IN1601180064.htm
+
+
+發現重複:http://news.wenweipo.com/2016/01/18/IN1601180064.htm
+
+
+title:兩孕婦慘遭醫療事故被刮穿子宮
+
+
+src:香港文匯報-,date=2016-1-18
+
+
+my link:http://health.udn.com/health/story/6056/1451839-%E6%B8%AC%E8%83%8E%E5%85%92%E5%94%90%E6%B0%8F%E7%97%87-%E5%85%88%E9%A9%97%E8%A1%80%E9%98%B2%E6%B5%81%E7%94%A2
+
+
+發現重複:http://health.udn.com/health/story/6056/1451839-%E6%B8%AC%E8%83%8E%E5%85%92%E5%94%90%E6%B0%8F%E7%97%87-%E5%85%88%E9%A9%97%E8%A1%80%E9%98%B2%E6%B5%81%E7%94%A2
+
+
+title:測胎兒唐氏症先驗血防流產
+
+
+src:元氣網 | 聯合新聞網 (新聞發布)-,date=2016-1-18
+
+
+加拿大星島日報-21 小時前日期資訊不合格式
+uho優活健康網-9 小時前日期資訊不合格式
+
+memory usage:869224\n
+logtime: 2016-01-20  18:30:42 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+臺灣新浪網-8 小時前日期資訊不合格式
+無日期資訊
+國際日報-2016年1月19日日期資訊不合格式
+國際日報-2016年1月19日日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/73_7151_104092970_1.html
+
+
+title:公函維權別公說公有理
+
+
+src:中國評論-,date=2016-1-19
+
+
+華人健康網-8 小時前日期資訊不合格式
+聯合新聞網-21 小時前日期資訊不合格式
+超驚險！伊能靜懷孕跑3公里還好小小秦抓得牢聯合新聞網-21 小時前但她孕吐狀況嚴重，為了減緩孕吐，伊能靜嘗試吃保健品、喝蘇打水、飯前飯後一個半小時都不喝水、按摩胃部，甚至還買了孕婦手環，嘗試10多種方式後還是求助 ...日期資訊不合格式
+並非正確新聞
+my link:http://www.chinareviewnews.com/doc/73_7150_104092979_1.html
+
+
+title:維權須依法“發函施壓”是添亂
+
+
+src:中國評論-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7150_104093007_1.html
+
+
+title:醫學常常要逆“天”行道
+
+
+src:中國評論-,date=2016-1-19
+
+
+my link:http://www.nanzao.com/tc/national/15257df6d0837aa/yan-jiu-zhong-guo-si-tai-jian-shao-shuai-quan-qiu-di-er-nian-zong-liang-reng-lie-di-si
+
+
+發現重複:http://www.nanzao.com/tc/national/15257df6d0837aa/yan-jiu-zhong-guo-si-tai-jian-shao-shuai-quan-qiu-di-er-nian-zong-liang-reng-lie-di-si
+
+
+title:研究：中國死胎減少率全球第二年總量仍列第四
+
+
+src:香港《南華早報》中文網-,date=2016-1-18
+
+
+無日期資訊
+my link:http://www.epochtimes.com/b5/16/1/18/n4619680.htm
+
+
+title:湖南退役武警兩日內殺六人奪七命
+
+
+src:大紀元-,date=2016-1-18
+
+
+
+memory usage:854200\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:16262
+start end:2016/01/18,2016/01/20logtime: 2016-01-20  18:31:13 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:831416\n
+logtime: 2016-01-20  18:31:47 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:832448\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:16262
+start end:2016/01/18,2016/01/20logtime: 2016-01-20  18:32:16 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+聯合新聞網-6 小時前日期資訊不合格式
+
+memory usage:839112\n
+logtime: 2016-01-20  18:32:59 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/18,cd_max:2016/01/20&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+聯合新聞網-6 小時前日期資訊不合格式
+
+memory usage:839136\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:31330
+start end:2016/01/19,2016/01/21logtime: 2016-01-21  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://udn.com/news/story/9307/1454146-%E5%8F%B0%E9%A6%96%E4%BE%8B%EF%BC%81%E8%8C%B2%E5%8D%A1%E7%97%85%E6%AF%92%E5%A2%83%E5%A4%96%E7%A7%BB%E5%85%A5-%E5%AD%95%E5%A9%A6%E8%8B%A5%E6%84%9F%E6%9F%93%E6%81%90%E7%94%9F%E5%B0%8F%E9%A0%AD%E5%AC%B0
+
+
+title:台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰
+
+
+src:聯合新聞網-,date=2016-1-19
+
+
+my link:http://money.udn.com/money/story/5648/1454760-%E9%98%B2%E8%83%8E%E5%85%92%E6%84%9F%E6%9F%93%E8%8C%B2%E5%8D%A1-%E7%BE%8E%E5%AD%95%E5%A9%A6%E7%9C%8B%E8%A8%BA%E9%A0%88%E5%95%8F%E6%97%85%E9%81%8A%E5%8F%B2
+
+
+title:防胎兒感染茲卡美孕婦看診須問旅遊史
+
+
+src:台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-,date=2016-1-19
+
+
+my link:http://www.setn.com/News.aspx?NewsID=119549
+
+
+title:孕婦注意！若染茲卡病毒胎兒患「小頭症」機率逾20倍
+
+
+src:台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-,date=2016-1-19
+
+
+my link:http://times.hinet.net/news/16985676
+
+
+title:孕婦若染茲卡病毒胎兒有感染風險
+
+
+src:台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-,date=2016-1-19
+
+
+my link:http://news.ltn.com.tw/news/life/paper/950662
+
+
+title:台灣首見茲卡病毒移入孕婦感染恐生「小頭嬰」
+
+
+src:台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-,date=2016-1-19
+
+
+my link:http://www.cna.com.tw/news/firstnews/201601200252-1.aspx
+
+
+title:茲卡病毒是什麼？10個Q&amp;A一次看懂
+
+
+src:台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰聯合新聞網-,date=2016-1-19
+
+
+ 深入瞭解  (還有 187 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 187 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 187 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 187 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 187 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 187 篇報導)日期資訊不合格式
+並非正確新聞
+my link:https://theinitium.com/article/20160119-dailynews-china-healthcare/
+
+
+title:34歲孕婦猝死引發中科院和北大「公文大戰」
+
+
+src:端傳媒 | Initium Media-,date=2016-1-19
+
+
+my link:http://news.sina.com.tw/article/20160119/15993527.html
+
+
+title:北京衛計委回應孕婦死亡：反對任何形式的醫鬧
+
+
+src:34歲孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7151_104092957_1.html
+
+
+title:莫讓“公文大戰”模糊“孕婦之死”
+
+
+src:34歲孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-,date=2016-1-19
+
+
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://sina.com.hk/news/article/20160120/1/10/4/%E6%B3%95%E5%AE%98%E6%83%85%E7%90%86%E6%B3%95%E5%B9%B2%E9%A0%90-%E5%81%87%E5%A9%9A%E5%AD%95%E5%A9%A6%E7%8D%B2%E6%B8%9B%E5%88%91-5313893.html
+
+
+title:法官情理法干預假婚孕婦獲減刑
+
+
+src:香港新浪網-,date=2016-1-19
+
+
+my link:http://www.hkcd.com.hk/content/2016-01/20/content_3526585.htm
+
+
+發現重複:http://www.hkcd.com.hk/content/2016-01/20/content_3526585.htm
+
+
+title:法官開恩孕婦減刑免獄誕嬰
+
+
+src:法官情理法干預假婚孕婦獲減刑香港新浪網-,date=2016-1-19
+
+
+my link:http://toronto.singtao.ca/623141/2016-01-20/post-%E5%83%85%E5%9B%9A%E5%85%AD%E6%9C%88-%E7%94%A2%E5%89%8D%E5%8F%AF%E5%87%BA%E7%8D%84-%E6%B3%95%E5%AE%98%E6%83%85%E7%90%86%E6%B3%95%E5%B9%B2%E9%A0%90-%E5%81%87%E5%A9%9A%E5%AD%95%E5%A9%A6%E7%8D%B2/
+
+
+title:僅囚六月產前可出獄法官情理法干預假婚孕婦獲減刑
+
+
+src:法官情理法干預假婚孕婦獲減刑香港新浪網-,date=2016-1-19
+
+
+my link:http://hk.apple.nextmedia.com/news/art/20160120/19459266
+
+
+發現重複:http://hk.apple.nextmedia.com/news/art/20160120/19459266
+
+
+title:要聞港聞- 孕婦獲減刑免獄中誕嬰
+
+
+src:法官情理法干預假婚孕婦獲減刑香港新浪網-,date=2016-1-19
+
+
+並非正確新聞
+加拿大星島日報-2016年1月19日日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/73_7151_104092942_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7151_104092942_1.html
+
+
+title:孕婦死亡事件不妨等一等真相
+
+
+src:中國評論-,date=2016-1-19
+
+
+加拿大星島日報-2016年1月19日日期資訊不合格式
+my link:http://www.uho.com.tw/hotnews.asp?aid=39505
+
+
+title:魚油補充孕期營養醫：注意EPA含量
+
+
+src:uho優活健康網-,date=2016-1-19
+
+
+無日期資訊
+香港文匯報-1 小時前日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/45_0_104094947_1_0121094609.html
+
+
+title:警方通報北醫三院孕婦死亡：家屬系滯留干擾工作
+
+
+src:警方通報北醫三院孕婦案:家屬系滯留香港文匯報-1 小時前警方通報北醫三院孕婦案:家屬系滯留. http://news.wenweipo.com [2016-01-21]. 【文匯網訊】據北京晨報報道，,date=2016-1-13
+
+
+並非正確新聞
+無日期資訊
+國際日報-2016年1月19日日期資訊不合格式
+國際日報-2016年1月19日日期資訊不合格式
+
+memory usage:898200\n
+logtime: 2016-01-21  12:30:36 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:https://www.top1health.com/Article/34166
+
+
+title:孕期貧血怎改善？專家這樣說
+
+
+src:華人健康網-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7151_104092970_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7151_104092970_1.html
+
+
+title:公函維權別公說公有理
+
+
+src:中國評論-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7150_104092979_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7150_104092979_1.html
+
+
+title:維權須依法“發函施壓”是添亂
+
+
+src:中國評論-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7150_104093007_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7150_104093007_1.html
+
+
+title:醫學常常要逆“天”行道
+
+
+src:中國評論-,date=2016-1-19
+
+
+my link:http://udn.com/news/story/7260/1453272-%E8%B6%85%E9%A9%9A%E9%9A%AA%EF%BC%81%E4%BC%8A%E8%83%BD%E9%9D%9C%E6%87%B7%E5%AD%95%E8%B7%913%E5%85%AC%E9%87%8C-%E9%82%84%E5%A5%BD%E5%B0%8F%E5%B0%8F%E7%A7%A6%E6%8A%93%E5%BE%97%E7%89%A2
+
+
+title:超驚險！伊能靜懷孕跑3公里還好小小秦抓得牢
+
+
+src:聯合新聞網-,date=2016-1-19
+
+
+加拿大星島日報-15 小時前日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/73_7150_104092977_1.html
+
+
+title:解決醫療糾紛，有理不在聲高
+
+
+src:中國評論-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7150_104092988_1.html
+
+
+title:女博士醫院猝死“發文大戰”折射醫鬧法治尷尬
+
+
+src:中國評論-,date=2016-1-19
+
+
+my link:http://news.cts.com.tw/cts/life/201601/201601191707933.html
+
+
+title:【晚間搶先報】寒流到體感-4度保暖衣效果.價格大PK!
+
+
+src:華視新聞-,date=2016-1-19
+
+
+中央廣播電台-59 分鐘前日期資訊不合格式
+
+memory usage:880920\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:31330
+start end:2016/01/19,2016/01/21logtime: 2016-01-21  12:31:11 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:861624\n
+logtime: 2016-01-21  12:31:44 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:862656\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:31330
+start end:2016/01/19,2016/01/21logtime: 2016-01-21  12:32:09 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://udn.com/news/story/9/1454465-%E9%BA%97%E5%AC%B0%E6%88%BF%E7%89%B9%E8%B3%A3%E6%9C%83%E4%BA%8C%E6%8A%98%E8%B5%B7
+
+
+title:麗嬰房特賣會二折起
+
+
+src:聯合新聞網-,date=2016-1-19
+
+
+
+memory usage:870048\n
+logtime: 2016-01-21  12:32:30 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://udn.com/news/story/9/1454465-%E9%BA%97%E5%AC%B0%E6%88%BF%E7%89%B9%E8%B3%A3%E6%9C%83%E4%BA%8C%E6%8A%98%E8%B5%B7
+
+
+發現重複:http://udn.com/news/story/9/1454465-%E9%BA%97%E5%AC%B0%E6%88%BF%E7%89%B9%E8%B3%A3%E6%9C%83%E4%BA%8C%E6%8A%98%E8%B5%B7
+
+
+title:麗嬰房特賣會二折起
+
+
+src:聯合新聞網-,date=2016-1-19
+
+
+
+memory usage:870496\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:4391
+start end:2016/01/19,2016/01/21logtime: 2016-01-21  18:30:02 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+my link:http://udn.com/news/story/9307/1454112-%E5%AD%95%E5%A9%A6%E8%8B%A5%E6%9F%93%E8%8C%B2%E5%8D%A1%E7%97%85%E6%AF%92-%E8%83%8E%E5%85%92%E6%9C%89%E6%84%9F%E6%9F%93%E9%A2%A8%E9%9A%AA
+
+
+title:孕婦若染茲卡病毒胎兒有感染風險
+
+
+src:聯合新聞網-,date=2016-1-19
+
+
+my link:http://money.udn.com/money/story/5648/1454760-%E9%98%B2%E8%83%8E%E5%85%92%E6%84%9F%E6%9F%93%E8%8C%B2%E5%8D%A1-%E7%BE%8E%E5%AD%95%E5%A9%A6%E7%9C%8B%E8%A8%BA%E9%A0%88%E5%95%8F%E6%97%85%E9%81%8A%E5%8F%B2
+
+
+發現重複:http://money.udn.com/money/story/5648/1454760-%E9%98%B2%E8%83%8E%E5%85%92%E6%84%9F%E6%9F%93%E8%8C%B2%E5%8D%A1-%E7%BE%8E%E5%AD%95%E5%A9%A6%E7%9C%8B%E8%A8%BA%E9%A0%88%E5%95%8F%E6%97%85%E9%81%8A%E5%8F%B2
+
+
+title:防胎兒感染茲卡美孕婦看診須問旅遊史
+
+
+src:孕婦若染茲卡病毒胎兒有感染風險聯合新聞網-,date=2016-1-19
+
+
+my link:http://www.setn.com/News.aspx?NewsID=119549
+
+
+發現重複:http://www.setn.com/News.aspx?NewsID=119549
+
+
+title:孕婦注意！若染茲卡病毒胎兒患「小頭症」機率逾20倍
+
+
+src:孕婦若染茲卡病毒胎兒有感染風險聯合新聞網-,date=2016-1-19
+
+
+my link:http://news.housefun.com.tw/news/article/190537118652.html
+
+
+title:台首例！茲卡病毒境外移入孕婦若感染恐生小頭嬰
+
+
+src:孕婦若染茲卡病毒胎兒有感染風險聯合新聞網-,date=2016-1-19
+
+
+my link:http://news.ltn.com.tw/news/life/paper/950662
+
+
+發現重複:http://news.ltn.com.tw/news/life/paper/950662
+
+
+title:台灣首見茲卡病毒移入孕婦感染恐生「小頭嬰」
+
+
+src:孕婦若染茲卡病毒胎兒有感染風險聯合新聞網-,date=2016-1-19
+
+
+my link:http://www.cna.com.tw/news/firstnews/201601200252-1.aspx
+
+
+發現重複:http://www.cna.com.tw/news/firstnews/201601200252-1.aspx
+
+
+title:茲卡病毒是什麼？10個Q&amp;A一次看懂
+
+
+src:孕婦若染茲卡病毒胎兒有感染風險聯合新聞網-,date=2016-1-19
+
+
+ 深入瞭解  (還有 201 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 201 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 201 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 201 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 201 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 201 篇報導)日期資訊不合格式
+並非正確新聞
+my link:https://theinitium.com/article/20160119-dailynews-china-healthcare/
+
+
+發現重複:https://theinitium.com/article/20160119-dailynews-china-healthcare/
+
+
+title:34歲孕婦猝死引發中科院和北大「公文大戰」
+
+
+src:端傳媒 | Initium Media-,date=2016-1-19
+
+
+my link:http://news.sina.com.tw/article/20160119/15993527.html
+
+
+發現重複:http://news.sina.com.tw/article/20160119/15993527.html
+
+
+title:北京衛計委回應孕婦死亡：反對任何形式的醫鬧
+
+
+src:34歲孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7151_104092957_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7151_104092957_1.html
+
+
+title:莫讓“公文大戰”模糊“孕婦之死”
+
+
+src:34歲孕婦猝死引發中科院和北大「公文大戰」端傳媒 | Initium Media-,date=2016-1-19
+
+
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 39 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://sina.com.hk/news/article/20160120/1/10/4/%E6%B3%95%E5%AE%98%E6%83%85%E7%90%86%E6%B3%95%E5%B9%B2%E9%A0%90-%E5%81%87%E5%A9%9A%E5%AD%95%E5%A9%A6%E7%8D%B2%E6%B8%9B%E5%88%91-5313893.html
+
+
+發現重複:http://sina.com.hk/news/article/20160120/1/10/4/%E6%B3%95%E5%AE%98%E6%83%85%E7%90%86%E6%B3%95%E5%B9%B2%E9%A0%90-%E5%81%87%E5%A9%9A%E5%AD%95%E5%A9%A6%E7%8D%B2%E6%B8%9B%E5%88%91-5313893.html
+
+
+title:法官情理法干預假婚孕婦獲減刑
+
+
+src:香港新浪網-,date=2016-1-19
+
+
+my link:http://www.hkcd.com.hk/content/2016-01/20/content_3526585.htm
+
+
+發現重複:http://www.hkcd.com.hk/content/2016-01/20/content_3526585.htm
+
+
+title:法官開恩孕婦減刑免獄誕嬰
+
+
+src:法官情理法干預假婚孕婦獲減刑香港新浪網-,date=2016-1-19
+
+
+my link:http://toronto.singtao.ca/623141/2016-01-20/post-%E5%83%85%E5%9B%9A%E5%85%AD%E6%9C%88-%E7%94%A2%E5%89%8D%E5%8F%AF%E5%87%BA%E7%8D%84-%E6%B3%95%E5%AE%98%E6%83%85%E7%90%86%E6%B3%95%E5%B9%B2%E9%A0%90-%E5%81%87%E5%A9%9A%E5%AD%95%E5%A9%A6%E7%8D%B2/
+
+
+發現重複:http://toronto.singtao.ca/623141/2016-01-20/post-%E5%83%85%E5%9B%9A%E5%85%AD%E6%9C%88-%E7%94%A2%E5%89%8D%E5%8F%AF%E5%87%BA%E7%8D%84-%E6%B3%95%E5%AE%98%E6%83%85%E7%90%86%E6%B3%95%E5%B9%B2%E9%A0%90-%E5%81%87%E5%A9%9A%E5%AD%95%E5%A9%A6%E7%8D%B2/
+
+
+title:僅囚六月產前可出獄法官情理法干預假婚孕婦獲減刑
+
+
+src:法官情理法干預假婚孕婦獲減刑香港新浪網-,date=2016-1-19
+
+
+my link:http://hk.apple.nextmedia.com/news/art/20160120/19459266
+
+
+發現重複:http://hk.apple.nextmedia.com/news/art/20160120/19459266
+
+
+title:要聞港聞- 孕婦獲減刑免獄中誕嬰
+
+
+src:法官情理法干預假婚孕婦獲減刑香港新浪網-,date=2016-1-19
+
+
+並非正確新聞
+加拿大星島日報-2016年1月19日日期資訊不合格式
+uho優活健康網-5 小時前日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/73_7151_104092942_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7151_104092942_1.html
+
+
+title:孕婦死亡事件不妨等一等真相
+
+
+src:中國評論-,date=2016-1-19
+
+
+妞新聞 niusnews-1 小時前日期資訊不合格式
+妞快報：劉真大秀性感孕肚！難得點頭拍攝孕婦寫真的原因是...妞新聞 niusnews-1 小時前... 生活低調，但他們的恩愛模樣令旁人稱羨，婚後劉真也傳出懷孕的喜訊，目前懷孕8個月的她和老公辛隆難得公開合體，拍攝溫馨的孕婦寫真，勇敢展現性感孕肚！日期資訊不合格式
+並非正確新聞
+加拿大星島日報-2016年1月19日日期資訊不合格式
+my link:http://www.uho.com.tw/hotnews.asp?aid=39505
+
+
+發現重複:http://www.uho.com.tw/hotnews.asp?aid=39505
+
+
+title:魚油補充孕期營養醫：注意EPA含量
+
+
+src:uho優活健康網-,date=2016-1-19
+
+
+無日期資訊
+香港文匯報-7 小時前日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/45_0_104094947_1_0121094609.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/45_0_104094947_1_0121094609.html
+
+
+title:警方通報北醫三院孕婦死亡：家屬系滯留干擾工作
+
+
+src:警方通報北醫三院孕婦案:家屬系滯留香港文匯報-7 小時前警方通報北醫三院孕婦案:家屬系滯留. http://news.wenweipo.com [2016-01-21]. 【文匯網訊】據北京晨報報道，,date=2016-1-13
+
+
+並非正確新聞
+
+memory usage:899480\n
+logtime: 2016-01-21  18:30:47 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+國際日報-2016年1月19日日期資訊不合格式
+my link:http://news.sina.com.tw/article/20160120/15997136.html
+
+
+title:北醫三院孕婦死亡事件調查
+
+
+src:臺灣新浪網-,date=2016-1-19
+
+
+臺灣新浪網-2 小時前日期資訊不合格式
+國際日報-2016年1月19日日期資訊不合格式
+my link:https://www.top1health.com/Article/34166
+
+
+發現重複:https://www.top1health.com/Article/34166
+
+
+title:孕期貧血怎改善？專家這樣說
+
+
+src:華人健康網-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7151_104092970_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7151_104092970_1.html
+
+
+title:公函維權別公說公有理
+
+
+src:中國評論-,date=2016-1-19
+
+
+on.cc東網台灣-5 小時前日期資訊不合格式
+中時電子報-2 小時前日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/73_7150_104092979_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7150_104092979_1.html
+
+
+title:維權須依法“發函施壓”是添亂
+
+
+src:中國評論-,date=2016-1-19
+
+
+my link:http://www.chinareviewnews.com/doc/73_7150_104093007_1.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/73_7150_104093007_1.html
+
+
+title:醫學常常要逆“天”行道
+
+
+src:中國評論-,date=2016-1-19
+
+
+
+memory usage:882704\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:4391
+start end:2016/01/19,2016/01/21logtime: 2016-01-21  18:31:13 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:861824\n
+logtime: 2016-01-21  18:31:42 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:862856\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:4391
+start end:2016/01/19,2016/01/21logtime: 2016-01-21  18:32:16 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://udn.com/news/story/9/1454465-%E9%BA%97%E5%AC%B0%E6%88%BF%E7%89%B9%E8%B3%A3%E6%9C%83%E4%BA%8C%E6%8A%98%E8%B5%B7
+
+
+發現重複:http://udn.com/news/story/9/1454465-%E9%BA%97%E5%AC%B0%E6%88%BF%E7%89%B9%E8%B3%A3%E6%9C%83%E4%BA%8C%E6%8A%98%E8%B5%B7
+
+
+title:麗嬰房特賣會二折起
+
+
+src:聯合新聞網-,date=2016-1-19
+
+
+
+memory usage:870672\n
+logtime: 2016-01-21  18:32:40 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/19,cd_max:2016/01/21&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://udn.com/news/story/9/1454465-%E9%BA%97%E5%AC%B0%E6%88%BF%E7%89%B9%E8%B3%A3%E6%9C%83%E4%BA%8C%E6%8A%98%E8%B5%B7
+
+
+發現重複:http://udn.com/news/story/9/1454465-%E9%BA%97%E5%AC%B0%E6%88%BF%E7%89%B9%E8%B3%A3%E6%9C%83%E4%BA%8C%E6%8A%98%E8%B5%B7
+
+
+title:麗嬰房特賣會二折起
+
+
+src:聯合新聞網-,date=2016-1-19
+
+
+
+memory usage:870696\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:20020
+start end:2016/01/20,2016/01/22logtime: 2016-01-22  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+聯合新聞網-10 小時前日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-10 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-10 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-10 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-10 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-10 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+ 深入瞭解  (還有 214 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 214 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 214 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 214 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 214 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://news.wenweipo.com/2016/01/21/IN1601210017.htm
+
+
+title:警方通報北醫三院孕婦案:家屬系滯留
+
+
+src:香港文匯報-,date=2016-1-20
+
+
+my link:http://news.sina.com.tw/article/20160122/16013431.html
+
+
+title:孕婦死亡，輿論戰不該「搶跑」法律戰
+
+
+src:警方通報北醫三院孕婦案:家屬系滯留香港文匯報-,date=2016-1-20
+
+
+並非正確新聞
+大紀元-17 小時前日期資訊不合格式
+my link:http://www.uho.com.tw/hotnews.asp?aid=39518
+
+
+title:懷孕好辛苦！7穿搭訣竅降低不適症狀
+
+
+src:uho優活健康網-,date=2016-1-20
+
+
+妞新聞 niusnews-19 小時前日期資訊不合格式
+妞快報：劉真大秀性感孕肚！難得點頭拍攝孕婦寫真的原因是...妞新聞 niusnews-19 小時前難得點頭拍攝孕婦寫真的原因是. ... 旁人稱羨，婚後劉真也傳出懷孕的喜訊，目前懷孕8個月的她和老公辛隆難得公開合體，拍攝溫馨的孕婦寫真，勇敢展現性感孕肚！日期資訊不合格式
+並非正確新聞
+無日期資訊
+加拿大星島日報-2016年1月20日日期資訊不合格式
+my link:http://hk.on.cc/int/bkn/cnt/news/20160121/bknint-20160121113647891-0121_17011_001.html
+
+
+title:父親患抑鬱胎兒早產機會增40%
+
+
+src:on.cc東網 (註冊)-,date=2016-1-20
+
+
+中時電子報-20 小時前日期資訊不合格式
+熱新聞YesNews (新聞發布) (註冊)-9 小時前日期資訊不合格式
+無日期資訊
+聯合新聞網-20 小時前日期資訊不合格式
+不愛生羊寶寶？陸單獨二孩上路反生得少聯合新聞網-20 小時前2015年7月以後，部分地方的孕婦建檔數明顯增加，將在猴年生產。例如，北京2015年7月孕婦建檔數年增21%、月增36%，2016年出生人口將比上年明顯增加。日期資訊不合格式
+並非正確新聞
+
+memory usage:891040\n
+logtime: 2016-01-22  12:30:38 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+自由時報電子報-3 小時前日期資訊不合格式
+加拿大星島日報-2016年1月20日日期資訊不合格式
+my link:https://hk.news.yahoo.com/%E7%BE%8E%E4%BD%9B%E5%B7%9E%E7%A2%BA%E8%A8%BA%E8%8C%B2%E5%8D%A1%E7%97%85%E4%BE%8B-%E9%83%BD%E6%9B%BE%E6%97%85%E9%81%8A%E4%B8%AD%E5%8D%97%E7%BE%8E-035002676.html
+
+
+title:美佛州確診茲卡病例都曾旅遊中南美
+
+
+src:雅虎香港-,date=2016-1-20
+
+
+my link:http://www.cdnews.com.tw/cdnews_site/docDetail.jsp?coluid=109&amp;docid=103538479
+
+
+title:國際/美佛州首傳茲卡病毒3病例曾到中南美
+
+
+src:美佛州確診茲卡病例都曾旅遊中南美雅虎香港-,date=2016-1-20
+
+
+並非正確新聞
+my link:http://www.chinareviewnews.com/doc/45_0_104095060_1_0121105511.html
+
+
+title:四川破特大販嬰案：抓78人解救15名嬰兒
+
+
+src:中國評論-,date=2016-1-20
+
+
+泰國世界日報新聞網-1 小時前日期資訊不合格式
+yam天空新聞-3 小時前日期資訊不合格式
+宜蘭三星醫療接送專車助老人就醫yam天空新聞-3 小時前為解決不便，鄉公所從1月28日起至3月10日，試辦長者醫療專車計畫，協助老人、孕婦及身心障礙者到羅東就醫。 三星鄉長黃錫墉表示，目前鄉內人口65歲以上老年已 ...日期資訊不合格式
+並非正確新聞
+my link:http://www.info.gov.hk/gia/general/201601/20/P201601200576.htm
+
+
+title:立法會十二題：政府為應對鉛水事件提供的醫療支援服務
+
+
+src:香港政府資訊中心 (新聞發布)-,date=2016-1-20
+
+
+香港蘋果日報-5 小時前日期資訊不合格式
+聯合新聞網-10 小時前日期資訊不合格式
+my link:http://udn.com/news/story/9312/1456134-%E6%B5%81%E6%84%9F%E7%96%AB%E6%83%85%E4%B8%8A%E5%8D%87-%E9%AB%98%E5%B8%822%E4%BE%8B%E4%BD%B5%E7%99%BC%E9%87%8D%E7%97%87
+
+
+title:流感疫情上升高市2例併發重症
+
+
+src:聯合新聞網-,date=2016-1-20
+
+
+my link:http://www.appledaily.com.tw/realtimenews/article/new/20160120/779738/
+
+
+title:A型流感肆虐8旬婦疑因此殞命
+
+
+src:流感疫情上升高市2例併發重症聯合新聞網-,date=2016-1-20
+
+
+並非正確新聞
+
+memory usage:884728\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:20020
+start end:2016/01/20,2016/01/22logtime: 2016-01-22  12:31:09 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:861680\n
+logtime: 2016-01-22  12:31:42 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:862712\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:20020
+start end:2016/01/20,2016/01/22logtime: 2016-01-22  12:32:04 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-14 小時前日期資訊不合格式
+
+memory usage:868696\n
+logtime: 2016-01-22  12:32:49 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-14 小時前日期資訊不合格式
+
+memory usage:868720\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:23820
+start end:2016/01/20,2016/01/22logtime: 2016-01-22  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+無日期資訊
+聯合新聞網-16 小時前日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-16 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-16 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-16 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-16 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+茲卡病毒害胎兒孕婦顧好肚肚聯合新聞網-16 小時前日前美國疾病控制與預防中心發布了一項旅遊警示，鑒於巴西、拉美地區茲卡病毒傳播區迅速擴大，建議計畫前往拉丁美洲、加勒比海國家和波多黎各的孕婦，暫緩出國 ...日期資訊不合格式
+ 深入瞭解  (還有 222 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 222 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 222 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 222 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 222 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 222 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://news.wenweipo.com/2016/01/21/IN1601210017.htm
+
+
+發現重複:http://news.wenweipo.com/2016/01/21/IN1601210017.htm
+
+
+title:警方通報北醫三院孕婦案:家屬系滯留
+
+
+src:香港文匯報-,date=2016-1-20
+
+
+my link:http://www.chinareviewnews.com/doc/45_0_104094947_1_0121094609.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/45_0_104094947_1_0121094609.html
+
+
+title:警方通報北醫三院孕婦死亡：家屬系滯留干擾工作
+
+
+src:警方通報北醫三院孕婦案:家屬系滯留香港文匯報-,date=2016-1-20
+
+
+並非正確新聞
+my link:http://www.epochtimes.com/b5/16/1/21/n4621960.htm
+
+
+title:澳蜂蜜低於歐洲標準專家稱孕婦媽咪慎用
+
+
+src:大紀元-,date=2016-1-21
+
+
+my link:http://www.uho.com.tw/hotnews.asp?aid=39518
+
+
+發現重複:http://www.uho.com.tw/hotnews.asp?aid=39518
+
+
+title:懷孕好辛苦！7穿搭訣竅降低不適症狀
+
+
+src:uho優活健康網-,date=2016-1-20
+
+
+妞新聞 niusnews-1 小時前日期資訊不合格式
+妞快報：劉真大秀性感孕肚！難得點頭拍攝孕婦寫真的原因是...妞新聞 niusnews-1 小時前... 生活低調，但他們的恩愛模樣令旁人稱羨，婚後劉真也傳出懷孕的喜訊，目前懷孕8個月的她和老公辛隆難得公開合體，拍攝溫馨的孕婦寫真，勇敢展現性感孕肚！日期資訊不合格式
+並非正確新聞
+無日期資訊
+加拿大星島日報-2016年1月20日日期資訊不合格式
+香港蘋果日報-6 小時前日期資訊不合格式
+my link:http://hk.on.cc/int/bkn/cnt/news/20160121/bknint-20160121113647891-0121_17011_001.html
+
+
+發現重複:http://hk.on.cc/int/bkn/cnt/news/20160121/bknint-20160121113647891-0121_17011_001.html
+
+
+title:父親患抑鬱胎兒早產機會增40%
+
+
+src:on.cc東網 (註冊)-,date=2016-1-20
+
+
+ETtoday-3 小時前日期資訊不合格式
+my link:http://photo.chinatimes.com/20160121004094-260812
+
+
+title:古代有剖腹產？有些名人都是剖腹出生
+
+
+src:中時電子報-,date=2016-1-20
+
+
+
+memory usage:891464\n
+logtime: 2016-01-22  18:30:36 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+熱新聞YesNews (新聞發布) (註冊)-15 小時前日期資訊不合格式
+yam天空新聞-5 小時前日期資訊不合格式
+無日期資訊
+my link:http://udn.com/news/story/4/1457220-%E4%B8%8D%E6%84%9B%E7%94%9F%E7%BE%8A%E5%AF%B6%E5%AF%B6%EF%BC%9F%E9%99%B8%E5%96%AE%E7%8D%A8%E4%BA%8C%E5%AD%A9%E4%B8%8A%E8%B7%AF%E5%8F%8D%E7%94%9F%E5%BE%97%E5%B0%91
+
+
+title:不愛生羊寶寶？陸單獨二孩上路反生得少
+
+
+src:聯合新聞網-,date=2016-1-21
+
+
+my link:http://www.chinareviewnews.com/doc/45_0_104095139_1_0121113550.html
+
+
+title:衛計委否認單獨兩孩遇冷
+
+
+src:不愛生羊寶寶？陸單獨二孩上路反生得少聯合新聞網-,date=2016-1-21
+
+
+並非正確新聞
+自由時報電子報-9 小時前日期資訊不合格式
+加拿大星島日報-2016年1月20日日期資訊不合格式
+my link:https://hk.news.yahoo.com/%E7%BE%8E%E4%BD%9B%E5%B7%9E%E7%A2%BA%E8%A8%BA%E8%8C%B2%E5%8D%A1%E7%97%85%E4%BE%8B-%E9%83%BD%E6%9B%BE%E6%97%85%E9%81%8A%E4%B8%AD%E5%8D%97%E7%BE%8E-035002676.html
+
+
+發現重複:https://hk.news.yahoo.com/%E7%BE%8E%E4%BD%9B%E5%B7%9E%E7%A2%BA%E8%A8%BA%E8%8C%B2%E5%8D%A1%E7%97%85%E4%BE%8B-%E9%83%BD%E6%9B%BE%E6%97%85%E9%81%8A%E4%B8%AD%E5%8D%97%E7%BE%8E-035002676.html
+
+
+title:美佛州確診茲卡病例都曾旅遊中南美
+
+
+src:雅虎香港-,date=2016-1-20
+
+
+my link:http://www.cdnews.com.tw/cdnews_site/docDetail.jsp?coluid=109&amp;docid=103538479
+
+
+發現重複:http://www.cdnews.com.tw/cdnews_site/docDetail.jsp?coluid=109&amp;docid=103538479
+
+
+title:國際/美佛州首傳茲卡病毒3病例曾到中南美
+
+
+src:美佛州確診茲卡病例都曾旅遊中南美雅虎香港-,date=2016-1-20
+
+
+並非正確新聞
+香港蘋果日報-11 小時前日期資訊不合格式
+my link:http://www.chinareviewnews.com/doc/45_0_104095060_1_0121105511.html
+
+
+發現重複:http://www.chinareviewnews.com/doc/45_0_104095060_1_0121105511.html
+
+
+title:四川破特大販嬰案：抓78人解救15名嬰兒
+
+
+src:中國評論-,date=2016-1-20
+
+
+泰國世界日報新聞網-7 小時前日期資訊不合格式
+yam天空新聞-9 小時前日期資訊不合格式
+宜蘭三星醫療接送專車助老人就醫yam天空新聞-9 小時前為解決不便，鄉公所從1月28日起至3月10日，試辦長者醫療專車計畫，協助老人、孕婦及身心障礙者到羅東就醫。 三星鄉長黃錫墉表示，目前鄉內人口65歲以上老年已 ...日期資訊不合格式
+並非正確新聞
+
+memory usage:886624\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:23820
+start end:2016/01/20,2016/01/22logtime: 2016-01-22  18:31:14 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+ACN Newswire (新聞發布)-2 小時前日期資訊不合格式
+
+memory usage:869224\n
+logtime: 2016-01-22  18:31:43 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+ACN Newswire (新聞發布)-2 小時前日期資訊不合格式
+
+memory usage:869256\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:23820
+start end:2016/01/20,2016/01/22logtime: 2016-01-22  18:32:21 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-20 小時前日期資訊不合格式
+
+memory usage:868864\n
+logtime: 2016-01-22  18:33:02 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/20,cd_max:2016/01/22&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+中時電子報-20 小時前日期資訊不合格式
+
+memory usage:868896\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:7052
+start end:2016/01/23,2016/01/25logtime: 2016-01-25  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/23,cd_max:2016/01/25&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://health.cna.com.tw/babymom/20160124S014.aspx
+
+
+title:茲卡病毒肆虐中南美孕婦盡量別去
+
+
+src:中央通訊社-,date=2016-1-24
+
+
+my link:http://www.epochtimes.com/b5/16/1/23/n4624020.htm
+
+
+title:茲卡病毒現蹤赴泰國旅遊要小心
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://www.chinatimes.com/realtimenews/20160124001330-260408
+
+
+title:茲卡病毒現蹤荷蘭10例全數境外移入
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://news.sina.com.tw/article/20160125/16035790.html
+
+
+title:巴西蚊疫肆虐里約奧運蒙憂美國發佈旅行警告
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://www.appledaily.com.tw/realtimenews/article/new/20160125/782640/
+
+
+title:三英民感染茲卡病毒皆曾到訪南美
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://news.ltn.com.tw/news/world/breakingnews/1582655
+
+
+title:茲卡病毒肆虐疫區國家勒令延遲懷孕
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+ 深入瞭解  (還有 105 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 105 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 105 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 105 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+中時電子報-6 小時前日期資訊不合格式
+狂下雨奪孕婦散步權利伊能靜喊想念北京中時電子報-6 小時前超強的霸王寒流昨天發威，全台凍成冰番薯，陽明山、合歡山、太平山都下雪，就連低海拔地區也都下起細雪，濕冷天氣讓孕婦伊能靜不開心，24日在微博發文喊冷，嘆 ...日期資訊不合格式
+並非正確新聞
+my link:http://hk.on.cc/cn/bkn/cnt/news/20160123/bkncn-20160123170521785-0123_05011_001.html
+
+
+title:成都民居起火3死6傷傷者包括一名孕婦
+
+
+src:on.cc東網 (註冊)-,date=2016-1-23
+
+
+my link:http://www.epochtimes.com/b5/16/1/23/n4623907.htm
+
+
+title:成都武侯區一住宅樓著火已致3人死亡10人受傷
+
+
+src:成都民居起火3死6傷傷者包括一名孕婦on.cc東網 (註冊)-,date=2016-1-23
+
+
+並非正確新聞
+my link:http://www.ettoday.net/news/20160123/636331.htm
+
+
+title:英孕婦胎記竟「隆起爆炸」 額頭被「蜈蚣疤痕」劈兩半
+
+
+src:ETtoday-,date=2016-1-23
+
+
+my link:http://www.setn.com/News.aspx?NewsID=120354
+
+
+title:茲卡病毒襲捲全球！孕婦產小腦嬰薩國呼籲計畫生育
+
+
+src:三立新聞網 (新聞發布)-,date=2016-1-23
+
+
+三立新聞網 (新聞發布)-4 小時前日期資訊不合格式
+孕婦當心！媽媽飲食不當竟生出「半頭蛙眼」女嬰三立新聞網 (新聞發布)-4 小時前日前印度出現一個半頭寶寶，在母親辛苦產下後便成為話題。只有半個腦袋的小女嬰，有一雙類似青蛙的突出的大眼，好不容易來到這個世界，但卻僅維持2天的生命就 ...日期資訊不合格式
+並非正確新聞
+國際日報-2016年1月23日日期資訊不合格式
+無日期資訊
+蘋果日報-2016年1月23日日期資訊不合格式
+無日期資訊
+加拿大星島日報-21 小時前日期資訊不合格式
+加拿大星島日報-21 小時前日期資訊不合格式
+
+memory usage:890864\n
+logtime: 2016-01-25  18:30:39 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/23,cd_max:2016/01/25&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://www.orientaldaily.com.my/index.php/international/gn456350104865531
+
+
+title:面書分享抗癌經歷大馬美女患癌肚子大如孕婦
+
+
+src:Oriental Daily News-,date=2016-1-24
+
+
+臺灣新浪網-9 小時前日期資訊不合格式
+無日期資訊
+中時電子報-4 小時前日期資訊不合格式
+全新Emoji年中推出！「自拍、握手」樣樣有中時電子報-4 小時前人物則新增多種造型，包括「西部牛仔」、「流口水」、「小木偶」、「小丑」、「孕婦」等圖案；小女孩的動作亦不再單一，屆時將會新增「自拍手勢」、「掩面」、「沒有辦法」等；而 ...日期資訊不合格式
+並非正確新聞
+on.cc東網台灣-22 小時前日期資訊不合格式
+yam天空新聞-3 小時前日期資訊不合格式
+my link:http://yes-news.com/yespick/95287/%E7%82%BA%E4%BA%86%E7%94%9F%E5%80%8B%E5%AD%A9%E5%AD%90%E7%B9%BC%E6%89%BF%E5%8D%83%E8%90%AC%E5%AE%B6%E7%94%A2%E5%A5%B9%E5%9C%A8%E6%87%B7%E5%AD%9536%E5%91%A8%E6%99%82%E8%A6%81%E6%B1%82%E5%89%96%E8%85%B9%E7%94%9F%E7%94%A2%E6%89%8B%E8%A1%93%E5%8F%B0%E4%B8%8A%E9%86%AB%E7%94%9F%E5%8D%BB%E8%A2%AB%E7%9C%BC%E5%89%8D%E7%9A%84%E7%95%AB%E9%9D%A2%E5%9A%87%E5%91%86%E4%BA%86
+
+
+title:我們會重置你的密碼,然後傳送到你的電子郵件帳戶
+
+
+src:熱新聞YesNews (新聞發布) (註冊)-,date=2016-1-23
+
+
+臺灣新浪網-4 小時前日期資訊不合格式
+公視新聞-4 小時前日期資訊不合格式
+my link:http://paper.wenweipo.com/2016/01/24/OT1601240016.htm
+
+
+title:健康小百科：冬令進補對症下藥以免補出一身病
+
+
+src:香港文匯報-,date=2016-1-23
+
+
+香港蘋果日報-13 小時前日期資訊不合格式
+
+memory usage:884512\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:7052
+start end:2016/01/23,2016/01/25logtime: 2016-01-25  18:31:10 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/23,cd_max:2016/01/25&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:861472\n
+logtime: 2016-01-25  18:31:35 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/23,cd_max:2016/01/25&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:862504\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:7052
+start end:2016/01/23,2016/01/25logtime: 2016-01-25  18:32:00 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/23,cd_max:2016/01/25&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+MoneyDJ理財網-7 小時前日期資訊不合格式
+
+memory usage:869088\n
+logtime: 2016-01-25  18:32:29 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/23,cd_max:2016/01/25&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+MoneyDJ理財網-7 小時前日期資訊不合格式
+
+memory usage:869128\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:14048
+start end:2016/01/24,2016/01/26logtime: 2016-01-26  12:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://health.cna.com.tw/babymom/20160124S014.aspx
+
+
+發現重複:http://health.cna.com.tw/babymom/20160124S014.aspx
+
+
+title:茲卡病毒肆虐中南美孕婦盡量別去
+
+
+src:中央通訊社-,date=2016-1-24
+
+
+my link:http://news.cnyes.com/Content/20160126/20160126061549710523610.shtml?c=pic
+
+
+title:WHO：茲卡病毒恐蔓延美洲孕婦當心
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://b5.secretchina.com/news/16/01/26/598558.html
+
+
+title:茲卡病毒將在美洲蔓延孕婦感染獲產小腦兒(組圖)
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://udn.com/news/story/6812/1466536-%E4%B8%96%E8%A1%9B%E7%A4%BA%E8%AD%A6%EF%BC%9A%E8%8C%B2%E5%8D%A1%E7%97%85%E6%AF%92%E5%B0%87%E8%94%93%E5%BB%B6%E5%85%A8%E7%BE%8E%E6%B4%B2
+
+
+title:世衛示警：茲卡病毒將蔓延全美洲
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://www.epochtimes.com/b5/16/1/26/n4625677.htm
+
+
+title:WHO：茲卡病毒在美洲蔓延加拿大智利除外
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://news.cts.com.tw/nownews/international/201601/201601251710058.html
+
+
+title:繼荷蘭之後英國也傳3人感染茲卡病毒
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+ 深入瞭解  (還有 161 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 161 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 161 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 161 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 161 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 161 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://www.chinatimes.com/realtimenews/20160125003516-260404
+
+
+title:狂下雨奪孕婦散步權利伊能靜喊想念北京
+
+
+src:中時電子報-,date=2016-1-24
+
+
+my link:http://gotv.ctitv.com.tw/2016/01/148563.htm
+
+
+title:伊能靜嘆台北連日濕冷不能散步！PO文想念北京：北方有暖氣呢
+
+
+src:狂下雨奪孕婦散步權利伊能靜喊想念北京中時電子報-,date=2016-1-24
+
+
+my link:http://tw.twent.chinayes.com/Content/20160125/km46h0z9hkpts.shtml
+
+
+title:伊能靜抱怨天冷想念北京暖氣網友：難得下雪，注
+
+
+src:狂下雨奪孕婦散步權利伊能靜喊想念北京中時電子報-,date=2016-1-24
+
+
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+並非正確新聞
+蘋果日報-17 小時前日期資訊不合格式
+馬來西亞美女罹卵巢癌腹部腫大如孕婦蘋果日報-17 小時前馬來西亞一名28歲美女因腹部在兩個月內如氣球般脹大，又腹痛難擋，經檢查才知罹患卵巢癌，動手術割出4.8公斤的腫瘤。 鄭盈莉來自馬來西亞吉打州，目前移居 ...日期資訊不合格式
+並非正確新聞
+三立新聞網 (新聞發布)-22 小時前日期資訊不合格式
+孕婦當心！媽媽飲食不當竟生出「半頭蛙眼」女嬰三立新聞網 (新聞發布)-22 小時前日前印度出現一個半頭寶寶，在母親辛苦產下後便成為話題。只有半個腦袋的小女嬰，有一雙類似青蛙的突出的大眼，好不容易來到這個世界，但卻僅維持2天的生命就 ...日期資訊不合格式
+並非正確新聞
+加拿大星島日報-2016年1月24日日期資訊不合格式
+無日期資訊
+加拿大星島日報-2016年1月24日日期資訊不合格式
+my link:http://www.orientaldaily.com.my/index.php/international/gn456350104865531
+
+
+發現重複:http://www.orientaldaily.com.my/index.php/international/gn456350104865531
+
+
+title:面書分享抗癌經歷大馬美女患癌肚子大如孕婦
+
+
+src:Oriental Daily News-,date=2016-1-24
+
+
+my link:http://news.sina.com.tw/article/20160125/16030149.html
+
+
+title:孕育二胎更需重視產檢
+
+
+src:臺灣新浪網-,date=2016-1-24
+
+
+無日期資訊
+中時電子報-22 小時前日期資訊不合格式
+全新Emoji年中推出！「自拍、握手」樣樣有中時電子報-22 小時前人物則新增多種造型，包括「西部牛仔」、「流口水」、「小木偶」、「小丑」、「孕婦」等圖案；小女孩的動作亦不再單一，屆時將會新增「自拍手勢」、「掩面」、「沒有辦法」等；而 ...日期資訊不合格式
+並非正確新聞
+聯合新聞網-9 小時前日期資訊不合格式
+
+memory usage:895848\n
+logtime: 2016-01-26  12:30:34 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://tw.on.cc/cn/bkn/cnt/news/20160124/bkncn-20160124190032628-0124_05011_001.html
+
+
+title:四川窮村超生村民賣親兒男嬰可賣兩萬元
+
+
+src:on.cc東網台灣-,date=2016-1-24
+
+
+yam天空新聞-21 小時前日期資訊不合格式
+香港蘋果日報-16 小時前日期資訊不合格式
+my link:http://sina.com.hk/news/article/20160125/1/27/4/%E5%B7%B4%E8%A5%BF%E5%A5%A7%E9%81%8B%E5%9A%B4%E9%98%B2%E5%AF%A8%E5%8D%A1%E7%97%85%E6%AF%92-5328776.html
+
+
+title:新聞
+
+
+src:香港新浪網-,date=2016-1-24
+
+
+加拿大星島日報-2016年1月24日日期資訊不合格式
+公視新聞-22 小時前日期資訊不合格式
+my link:http://www.uho.com.tw/hotnews.asp?aid=39549
+
+
+title:職場孕媽咪必做3瑜伽助消化、消除疲勞
+
+
+src:uho優活健康網-,date=2016-1-24
+
+
+臺灣新浪網-22 小時前日期資訊不合格式
+快點TV (新聞發布)-10 小時前日期資訊不合格式
+香港蘋果日報-2016年1月24日日期資訊不合格式
+
+memory usage:884448\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:14048
+start end:2016/01/24,2016/01/26logtime: 2016-01-26  12:30:56 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:861608\n
+logtime: 2016-01-26  12:31:28 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:862648\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:14048
+start end:2016/01/24,2016/01/26logtime: 2016-01-26  12:32:03 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+MoneyDJ理財網-54 分鐘前日期資訊不合格式
+中時電子報-2 小時前日期資訊不合格式
+my link:http://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=3b74153b-c69a-46f1-9733-410291e123de
+
+
+title:血壓計有望成長翻倍豪展今年持續看旺
+
+
+src:MoneyDJ理財網-,date=2016-1-24
+
+
+
+memory usage:871600\n
+logtime: 2016-01-26  12:32:26 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+MoneyDJ理財網-55 分鐘前日期資訊不合格式
+中時電子報-2 小時前日期資訊不合格式
+my link:http://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=3b74153b-c69a-46f1-9733-410291e123de
+
+
+發現重複:http://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=3b74153b-c69a-46f1-9733-410291e123de
+
+
+title:血壓計有望成長翻倍豪展今年持續看旺
+
+
+src:MoneyDJ理財網-,date=2016-1-24
+
+
+
+memory usage:872024\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:16390
+start end:2016/01/24,2016/01/26logtime: 2016-01-26  18:30:01 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+my link:http://health.cna.com.tw/babymom/20160124S014.aspx
+
+
+發現重複:http://health.cna.com.tw/babymom/20160124S014.aspx
+
+
+title:茲卡病毒肆虐中南美孕婦盡量別去
+
+
+src:中央通訊社-,date=2016-1-24
+
+
+my link:http://news.cnyes.com/20160126/20160126061549710523610.shtml
+
+
+title:WHO：茲卡病毒恐蔓延美洲孕婦當心
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://www.epochtimes.com.tw/n156072/%E8%8C%B2%E5%8D%A1%E7%97%85%E6%AF%92%E6%B5%81%E8%A1%8C-%E7%BE%8E%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83%E5%BB%BA%E8%AD%B0%E5%AD%95%E5%A9%A6%E9%81%BF%E9%81%8A22%E5%9C%8B.html
+
+
+title:茲卡病毒流行-美疾控中心建議孕婦避遊22國
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://b5.secretchina.com/news/16/01/26/598558.html
+
+
+發現重複:http://b5.secretchina.com/news/16/01/26/598558.html
+
+
+title:茲卡病毒將在美洲蔓延孕婦感染獲產小腦兒(組圖)
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://udn.com/news/story/6812/1466536-%E4%B8%96%E8%A1%9B%E7%A4%BA%E8%AD%A6%EF%BC%9A%E8%8C%B2%E5%8D%A1%E7%97%85%E6%AF%92%E5%B0%87%E8%94%93%E5%BB%B6%E5%85%A8%E7%BE%8E%E6%B4%B2
+
+
+發現重複:http://udn.com/news/story/6812/1466536-%E4%B8%96%E8%A1%9B%E7%A4%BA%E8%AD%A6%EF%BC%9A%E8%8C%B2%E5%8D%A1%E7%97%85%E6%AF%92%E5%B0%87%E8%94%93%E5%BB%B6%E5%85%A8%E7%BE%8E%E6%B4%B2
+
+
+title:世衛示警：茲卡病毒將蔓延全美洲
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+my link:http://news.ltn.com.tw/news/world/breakingnews/1585331
+
+
+title:超音波、抽血驗茲卡醫師質疑成效不足
+
+
+src:茲卡病毒肆虐中南美孕婦盡量別去中央通訊社-,date=2016-1-24
+
+
+ 深入瞭解  (還有 180 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 180 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 180 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 180 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 180 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 180 篇報導)日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://www.chinatimes.com/realtimenews/20160125003516-260404
+
+
+發現重複:http://www.chinatimes.com/realtimenews/20160125003516-260404
+
+
+title:狂下雨奪孕婦散步權利伊能靜喊想念北京
+
+
+src:中時電子報-,date=2016-1-24
+
+
+my link:http://gotv.ctitv.com.tw/2016/01/148563.htm
+
+
+發現重複:http://gotv.ctitv.com.tw/2016/01/148563.htm
+
+
+title:伊能靜嘆台北連日濕冷不能散步！PO文想念北京：北方有暖氣呢
+
+
+src:狂下雨奪孕婦散步權利伊能靜喊想念北京中時電子報-,date=2016-1-24
+
+
+my link:http://ent.ltn.com.tw/news/breakingnews/1584559
+
+
+title:伊能靜喊想念北京陳沂：妳可以不要回來
+
+
+src:狂下雨奪孕婦散步權利伊能靜喊想念北京中時電子報-,date=2016-1-24
+
+
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+ 深入瞭解  (還有 10 篇報導)日期資訊不合格式
+並非正確新聞
+蘋果日報-2016年1月25日日期資訊不合格式
+馬來西亞美女罹卵巢癌腹部腫大如孕婦蘋果日報-2016年1月25日馬來西亞一名28歲美女因腹部在兩個月內如氣球般脹大，又腹痛難擋，經檢查才知罹患卵巢癌，動手術割出4.8公斤的腫瘤。 鄭盈莉來自馬來西亞吉打州，目前移居 ...日期資訊不合格式
+並非正確新聞
+大紀元-10 小時前日期資訊不合格式
+my link:http://www.setn.com/News.aspx?NewsID=120526
+
+
+title:孕婦當心！媽媽飲食不當竟生出「半頭蛙眼」女嬰
+
+
+src:三立新聞網 (新聞發布)-,date=2016-1-24
+
+
+my link:http://www.ettoday.net/news/20160124/636779.htm
+
+
+title:如同外星寶寶...印度女嬰僅半顆頭顱雙眼嚴重凸出
+
+
+src:孕婦當心！媽媽飲食不當竟生出「半頭蛙眼」女嬰三立新聞網 (新聞發布)-,date=2016-1-24
+
+
+並非正確新聞
+香港蘋果日報-9 小時前日期資訊不合格式
+【話你知】食錯馬皮製阿膠孕婦隨時流產香港蘋果日報-9 小時前阿膠屬名貴中藥，是山東特有的傳統名品，全國九成以上的阿膠產自山東。中華中醫藥學會名醫學術思想分會常務委員、中醫師閆石說，藥典明確規定，阿膠只能採用驢 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+加拿大星島日報-2016年1月24日日期資訊不合格式
+加拿大星島日報-2016年1月24日日期資訊不合格式
+my link:http://www.orientaldaily.com.my/index.php/international/gn456350104865531
+
+
+發現重複:http://www.orientaldaily.com.my/index.php/international/gn456350104865531
+
+
+title:面書分享抗癌經歷大馬美女患癌肚子大如孕婦
+
+
+src:Oriental Daily News-,date=2016-1-24
+
+
+on.cc東網台灣-2 小時前日期資訊不合格式
+
+memory usage:897504\n
+logtime: 2016-01-26  18:30:28 =>  "孕婦"
+temp_url:   https://www.google.com.tw/search?q=%22%E5%AD%95%E5%A9%A6%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+聯合新聞網-15 小時前日期資訊不合格式
+my link:http://news.sina.com.tw/article/20160125/16030149.html
+
+
+發現重複:http://news.sina.com.tw/article/20160125/16030149.html
+
+
+title:孕育二胎更需重視產檢
+
+
+src:臺灣新浪網-,date=2016-1-24
+
+
+蘋果日報-3 小時前日期資訊不合格式
+美人妻懷五胞胎一晚要跑12次廁所蘋果日報-3 小時前澳洲珀斯26歲孕婦杜斯（Kim Tucci）懷了五胞胎，大歎「每一天要忍痛，卻越來越難忍，我身體每部分都會痛，睡覺也非常痛。」杜斯每天要攝取6,000卡路里為胎兒提供 ...日期資訊不合格式
+並非正確新聞
+無日期資訊
+my link:http://photo.chinatimes.com/20160125003916-260805
+
+
+title:全新Emoji年中推出！「自拍、握手」樣樣有
+
+
+src:中時電子報-,date=2016-1-24
+
+
+my link:http://hk.on.cc/hk/bkn/cnt/news/20160125/bkn-20160125112445199-0125_00822_001.html
+
+
+title:全新emoji年中推出自拍冇眼睇握手乜都有
+
+
+src:全新E,date=moji-中推出！「自拍、握手」樣樣有中時電子報-2016-1-24
+
+
+並非正確新聞
+my link:http://tw.on.cc/cn/bkn/cnt/news/20160124/bkncn-20160124190032628-0124_05011_001.html
+
+
+發現重複:http://tw.on.cc/cn/bkn/cnt/news/20160124/bkncn-20160124190032628-0124_05011_001.html
+
+
+title:四川窮村超生村民賣親兒男嬰可賣兩萬元
+
+
+src:on.cc東網台灣-,date=2016-1-24
+
+
+my link:http://n.yam.com/nownews/life/20160125/20160125525694.html
+
+
+title:想生健康寶寶？12~1月懷孕機率高營養均衡更重要
+
+
+src:yam天空新聞-,date=2016-1-24
+
+
+香港蘋果日報-22 小時前日期資訊不合格式
+my link:http://sina.com.hk/news/article/20160125/1/27/4/%E5%B7%B4%E8%A5%BF%E5%A5%A7%E9%81%8B%E5%9A%B4%E9%98%B2%E5%AF%A8%E5%8D%A1%E7%97%85%E6%AF%92-5328776.html
+
+
+發現重複:http://sina.com.hk/news/article/20160125/1/27/4/%E5%B7%B4%E8%A5%BF%E5%A5%A7%E9%81%8B%E5%9A%B4%E9%98%B2%E5%AF%A8%E5%8D%A1%E7%97%85%E6%AF%92-5328776.html
+
+
+title:新聞
+
+
+src:香港新浪網-,date=2016-1-24
+
+
+加拿大星島日報-2016年1月24日日期資訊不合格式
+加拿大星島日報-2016年1月24日日期資訊不合格式
+
+memory usage:887040\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:16390
+start end:2016/01/24,2016/01/26logtime: 2016-01-26  18:30:59 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:861784\n
+logtime: 2016-01-26  18:31:21 =>  "貝親"
+temp_url:   https://www.google.com.tw/search?q=%22%E8%B2%9D%E8%A6%AA%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+
+memory usage:862824\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \nmy(child) pid:16390
+start end:2016/01/24,2016/01/26logtime: 2016-01-26  18:31:53 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=0&sa=N&dpr=1.5&gws_rd=ssl
+MoneyDJ理財網-6 小時前日期資訊不合格式
+無日期資訊
+中時電子報-8 小時前日期資訊不合格式
+聯合財經網-3 小時前日期資訊不合格式
+聯合新聞網-5 小時前日期資訊不合格式
+my link:http://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=3b74153b-c69a-46f1-9733-410291e123de
+
+
+發現重複:http://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=3b74153b-c69a-46f1-9733-410291e123de
+
+
+title:血壓計有望成長翻倍豪展今年持續看旺
+
+
+src:MoneyDJ理財網-,date=2016-1-24
+
+
+
+memory usage:874304\n
+logtime: 2016-01-26  18:32:38 =>  "麗嬰房"
+temp_url:   https://www.google.com.tw/search?q=%22%E9%BA%97%E5%AC%B0%E6%88%BF%22&es_sm=122&biw=960&bih=506&tbs=cdr:1,cd_min:2016/01/24,cd_max:2016/01/26&tbm=nws&start=10&sa=N&dpr=1.5&gws_rd=ssl
+MoneyDJ理財網-6 小時前日期資訊不合格式
+無日期資訊
+中時電子報-8 小時前日期資訊不合格式
+聯合財經網-3 小時前日期資訊不合格式
+聯合新聞網-5 小時前日期資訊不合格式
+my link:http://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=3b74153b-c69a-46f1-9733-410291e123de
+
+
+發現重複:http://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=3b74153b-c69a-46f1-9733-410291e123de
+
+
+title:血壓計有望成長翻倍豪展今年持續看旺
+
+
+src:MoneyDJ理財網-,date=2016-1-24
+
+
+
+memory usage:874336\n
+已經抓取20筆資料，結束正常工作\n 工作真正要結束了 \n
